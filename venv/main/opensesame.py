@@ -1,11 +1,21 @@
 import os
 os.chdir("/home/elena/PycharmProjects/open_sesame/open-sesame")
-
 from werkzeug.utils import secure_filename
 from flask import Flask, request, redirect, send_file, render_template, url_for
+import shutil
 
-UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame'
-DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/'
+
+def make_archive(source, destination):
+    base = os.path.basename(destination)
+    name = base.split('.')[0]
+    format = base.split('.')[1]
+    archive_from = os.path.dirname(source)
+    archive_to = os.path.basename(source.strip(os.sep))
+    shutil.make_archive(name, format, archive_from, archive_to)
+    shutil.move('%s.%s' % (name, format), destination)
+
+UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/in/'
+DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out'
 file_original_name = ''
 
 ALLOWED_EXTENSIONS = {'txt'}
@@ -30,23 +40,26 @@ filename_original = ""
 def main():
     if request.method == 'POST':
         # check if the post request has the file part
-        if 'file' not in request.files:
+        if 'files[]' not in request.files:
             flash('No file part')
             return redirect(request.url)
-        file = request.files['file']
+        files = request.files.getlist('files[]')
         # if user does not select file, browser also
         # submit an empty part without filename
-        if file.filename == '':
-            flash('No selected file')
-            return redirect(request.url)
-        if file and allowed_file(file.filename):
-            filename = secure_filename(file.filename)
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            file.stream.seek(0)
-            os.system("python sesame/targetid.py --mode predict --model_name pretrained_again_targetid --raw_input " + filename)
-            os.system("python sesame/frameid.py --mode predict --model_name pretrained_again_frameid --raw_input logs/pretrained_again_targetid/predicted-targets.conll")
-            os.system("python sesame/argid.py --mode predict --model_name pretrained_again_argid --raw_input logs/pretrained_again_frameid/predicted-frames.conll")
-            return redirect(url_for('download_file', filename='predicted-args.conll'))
+        for file in files:
+            if file.filename == '':
+                flash('No selected file')
+                return redirect(request.url)
+            if file and allowed_file(file.filename):
+                filename = secure_filename(file.filename)
+                file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+                file.stream.seek(0)
+        os.system("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in")
+        os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
+        os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
+
+        make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + 'en_annotated.zip')
+        return redirect(url_for('download_file', filename='en_annotated.zip'))
 
     return render_template('main.html')
 
