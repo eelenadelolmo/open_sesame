@@ -16,7 +16,16 @@ def make_archive(source, destination):
 
 UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/in/'
 DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out'
-file_original_name = ''
+
+shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
+shutil.rmtree(DOWNLOAD_FOLDER, ignore_errors=True)
+shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
+shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
+os.makedirs(UPLOAD_FOLDER)
+os.makedirs(DOWNLOAD_FOLDER)
+os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
+os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
+
 
 ALLOWED_EXTENSIONS = {'txt'}
 def allowed_file(filename):
@@ -58,7 +67,7 @@ def main():
         os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
         os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
 
-        make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + 'en_annotated.zip')
+        make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_annotated.zip')
         return redirect(url_for('download_file', filename='en_annotated.zip'))
 
     return render_template('main.html')
@@ -76,4 +85,4 @@ def return_files_tut(filename):
     return send_file(file_path, as_attachment=True, attachment_filename='', cache_timeout=0)
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port="5001")
+    app.run(host='0.0.0.0', port="5002")
