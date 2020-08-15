@@ -2,4 +2,5 @@
 venv/bin/*
 venv/lib/*
 venv/lib64/*
-open-sesame/
+open-sesame/data/
+open-sesame/logs/

@@ -6,7 +6,13 @@ python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_
 
 __
 
+python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in
 
+python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out
+
+python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out
+
+__
 
 
 
