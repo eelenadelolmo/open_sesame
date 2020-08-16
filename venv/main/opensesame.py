@@ -18,11 +18,11 @@ UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/in/'
 DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out'
 
 shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
-shutil.rmtree(DOWNLOAD_FOLDER, ignore_errors=True)
+shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out/', ignore_errors=True)
 shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
 shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
 os.makedirs(UPLOAD_FOLDER)
-os.makedirs(DOWNLOAD_FOLDER)
+os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out/')
 os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
 os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
 
@@ -81,8 +81,8 @@ def download_file(filename):
 
 @app.route('/return-files/<filename>')
 def return_files_tut(filename):
-    file_path = DOWNLOAD_FOLDER + filename
-    return send_file(file_path, as_attachment=True, attachment_filename='', cache_timeout=0)
+    file_path = DOWNLOAD_FOLDER + '/' + filename
+    return send_file(file_path, as_attachment=True, attachment_filename=filename, cache_timeout=0)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port="5002")
