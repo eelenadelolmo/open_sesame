@@ -86,9 +86,10 @@ elif options.mode == "predict":
     out_conll_files = list()
     instances_list = list()
     for filename in os.listdir(options.raw_input):
-        # print(filename)
-        with open(options.raw_input + '/' + filename, "r") as fin:
+        print(filename)
+        with codecs.open(options.raw_input + '/' + filename, "r", encoding='utf-8') as fin:
             instances_list.append([make_data_instance(line, i) for i,line in enumerate(fin)])
+            fin.seek(0)
         out_conll_files.append("{}{}.conll".format(model_dir + 'out/', filename))
     # print(out_conll_files)
 
@@ -328,7 +329,7 @@ def print_as_conll(gold_examples, predicted_target_dict, file):
         for gold, pred in zip(gold_examples, predicted_target_dict):
             for target in sorted(pred):
                 result = gold.get_predicted_target_conll(target, pred[target][0]) + "\n"
-                conll_file.write(result)
+                conll_file.write(result.decode('utf-8'))
         conll_file.close()
 
 
