@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
+
+import io
+import re
 import os
 os.chdir("/home/elena/PycharmProjects/open_sesame/open-sesame")
 from werkzeug.utils import secure_filename
-from flask import Flask, request, redirect, send_file, render_template, url_for
+from flask import Flask, flash, request, redirect, send_file, render_template, url_for
 import shutil
-
 
 def make_archive(source, destination):
     base = os.path.basename(destination)
@@ -18,11 +21,11 @@ UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/in/'
 DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out'
 
 shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
-shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out/', ignore_errors=True)
+shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
 shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
 shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
 os.makedirs(UPLOAD_FOLDER)
-os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out/')
+os.makedirs(DOWNLOAD_FOLDER + '/')
 os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
 os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
 
@@ -48,6 +51,16 @@ filename_original = ""
 @app.route('/', methods=['GET', 'POST'])
 def main():
     if request.method == 'POST':
+
+        shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
+        shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
+        shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
+        shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
+        os.makedirs(UPLOAD_FOLDER)
+        os.makedirs(DOWNLOAD_FOLDER + '/')
+        os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
+        os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
+
         # check if the post request has the file part
         if 'files[]' not in request.files:
             flash('No file part')
@@ -63,6 +76,18 @@ def main():
                 filename = secure_filename(file.filename)
                 file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
                 file.stream.seek(0)
+
+                # Deleting quotes in order to lower complexity
+                """
+                with io.open(UPLOAD_FOLDER + filename, 'r+') as f:
+                    original = f.read()
+                    new = re.sub('"', '', original)
+                    f.seek(0)
+                    f.truncate()
+                    f.write(new)
+                    f.close()
+                """
+
         os.system("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in")
         os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
         os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
