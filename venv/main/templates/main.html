@@ -1,3 +1,4 @@
+<!--
 <!doctype html>
 
     <title>Generating Framenet arguments annotations for a text</title>
@@ -8,3 +9,33 @@
       <p><input type=file name=file>
          <input type=submit value=Upload>
     </form>
+-->
+
+
+<!doctype html>
+<title>Generating Framenet arguments annotations for a text</title>
+
+    <h1>Upload and automatic Semantic Role Labelling (SRL) in English (various files allowed)</h1>
+    <h2>English sentences accepted only!</h2>
+
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p>
+<form method="post" action="/" enctype="multipart/form-data">
+    <dl>
+		<p>
+			<input type="file" name="files[]" multiple="true" autocomplete="off" required>
+		</p>
+    </dl>
+    <p>
+		<input type="submit" value="Submit">
+	</p>
+</form>
