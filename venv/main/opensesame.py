@@ -92,8 +92,8 @@ def main():
         os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
         os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
 
-        make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_annotated.zip')
-        return redirect(url_for('download_file', filename='en_annotated.zip'))
+        make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
+        return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
 
     return render_template('main.html')
 

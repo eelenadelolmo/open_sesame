@@ -1,14 +1,105 @@
 <!doctype html>
-  <title>Download SRL annotated file</title>
-  <h1>Download SRL annotated file</h1>
-  <body class="body">
+    <head>
+        <title>Download SRL annotated files</title>
+        <style>
+            * {
+          margin: 0;
+          padding:0;
+          box-sizing:border-box;
+        }
 
-     <div class="container" align="left">
-      <a href="/return-files/{{value}}" target="blank"><button class='btn btn-default'>Download</button></a>
-     </div>
+        .fieldset_download {
+          border: solid;
+          color: #000000;
+          border-radius: 1em;
+          margin: 2em 1em 1em;
+          padding:0 1em 1em;
+        }
 
-     <div class="container" align="left">
-      <a href="http://0.0.0.0:5001/upload-frame-ann-en"><button class='btn btn-default'>Continue to mapping the SRL annotations into the Spanish original text</button></a>
-     </div>
+        .fieldset_back {
+          border: solid;
+          color: #cc0000;
+          border-radius: 1em;
+          margin: 2em 1em 1em;
+          padding:0 1em 1em;
+        }
+
+        .fieldset_continue {
+          border: solid;
+          color: #669900;
+          border-radius: 1em;
+          margin: 2em 1em 1em;
+          padding:0 1em 1em;
+        }
+
+        .legend {
+          transform: translatey(-50%);
+          width: max-content;
+          background: white;
+          padding: 0 0.15em;
+        }
+
+        .fieldset li {
+          list-style-type: " - ";
+        }
+        </style>
+    </head>
+    <body class="body">
+
+    <div style="background-color: #4d4d4d;">
+        <br/><br/>
+        <h1 style="text-align:center; color: #ffffff; font-size: 77px">Semantic role labelling (SRL) module</h1>
+        <br/><br/>
+    </div>
+
+    <br/><br/><br/>
+    <div class="fieldset_download">
+      <h1 class="legend">Download</h1>
+      <ul>
+          <h2>Download SRL annotated files.</h2>
+          <br/>
+          <p>The downloaded folder consists of one CoNLL file for every English sentence.</p>
+          <p>Every file is named with the text id plus underscore plus the number of sentence.</p>
+          <br/><br/>
+          <div class="container" align="left">
+              <a href="/return-files/{{value}}" target="blank"><button class='btn btn-default'>Download</button></a>
+          </div>
+      </ul>
+    </div>
+
+
+    <br/><br/>
+
+
+
+
+    <div class="fieldset_back">
+      <h1 class="legend">Go back</h1>
+      <ul>
+          <h2 style="color:black">Press the button to go back to the SRL annotation module.</h2>
+          <br/><br/>
+          <div class="container" align="left">
+          <a href="http://0.0.0.0:5002"><button class='btn btn-default'>Go back</button></a>
+         </div>
+      </ul>
+    </div>
+
+
+    <br/><br/>
+
+
+
+
+    <div class="fieldset_continue">
+      <h1 class="legend">Continue</h1>
+      <ul>
+          <h2 style="color:black">Press the button to continue to the automatic mapping the SRL annotations into the Spanish original text.</h2>
+          <br/><br/>
+          <div class="container" align="left">
+           <a href="http://0.0.0.0:5001/upload-frame-ann-en"><button class='btn btn-default'>Continue</button></a>
+          </div>
+      </ul>
+    </div>
+
 
   </body>
