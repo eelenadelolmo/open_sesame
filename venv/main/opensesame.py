@@ -3,10 +3,14 @@
 import io
 import re
 import os
-os.chdir("/home/elena/PycharmProjects/open_sesame/open-sesame")
+os.chdir("../../open-sesame")
+import subprocess
 from werkzeug.utils import secure_filename
 from flask import Flask, flash, request, redirect, send_file, render_template, url_for
 import shutil
+
+# Pending: not processing all files when many!!!!
+
 
 def make_archive(source, destination):
     base = os.path.basename(destination)
@@ -17,17 +21,17 @@ def make_archive(source, destination):
     shutil.make_archive(name, format, archive_from, archive_to)
     shutil.move('%s.%s' % (name, format), destination)
 
-UPLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/in/'
-DOWNLOAD_FOLDER = '/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_argid/out'
+UPLOAD_FOLDER = 'in/'
+DOWNLOAD_FOLDER = 'logs/pretrained_again_argid/out'
 
 shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
 shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
-shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
-shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
+shutil.rmtree('logs/pretrained_again_targetid/out', ignore_errors=True)
+shutil.rmtree('logs/pretrained_again_frameid/out', ignore_errors=True)
 os.makedirs(UPLOAD_FOLDER)
 os.makedirs(DOWNLOAD_FOLDER + '/')
-os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
-os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
+os.makedirs('logs/pretrained_again_targetid/out/')
+os.makedirs('logs/pretrained_again_frameid/out/')
 
 
 ALLOWED_EXTENSIONS = {'txt'}
@@ -54,12 +58,12 @@ def main():
 
         shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
         shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
-        shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
-        shutil.rmtree('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
+        shutil.rmtree('logs/pretrained_again_targetid/out', ignore_errors=True)
+        shutil.rmtree('logs/pretrained_again_frameid/out', ignore_errors=True)
         os.makedirs(UPLOAD_FOLDER)
         os.makedirs(DOWNLOAD_FOLDER + '/')
-        os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
-        os.makedirs('/home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
+        os.makedirs('logs/pretrained_again_targetid/out/')
+        os.makedirs('logs/pretrained_again_frameid/out/')
 
         # check if the post request has the file part
         if 'files[]' not in request.files:
@@ -88,9 +92,24 @@ def main():
                     f.close()
                 """
 
-        os.system("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in")
-        os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
-        os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
+        subprocess.Popen("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input in", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
+        subprocess.Popen("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input logs/pretrained_again_targetid/out", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
+        subprocess.Popen("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input logs/pretrained_again_frameid/out", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
+        # os.system("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in")
+        # os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
+        # os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
 
         make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
         return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
@@ -106,7 +125,7 @@ def download_file(filename):
 
 @app.route('/return-files/<filename>')
 def return_files_tut(filename):
-    file_path = DOWNLOAD_FOLDER + '/' + filename
+    file_path = '../../open-sesame/' + DOWNLOAD_FOLDER + '/' + filename
     return send_file(file_path, as_attachment=True, attachment_filename=filename, cache_timeout=0)
 
 if __name__ == "__main__":
