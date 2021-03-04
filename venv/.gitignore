@@ -1,6 +1,3 @@
 .idea
-venv/bin/*
-venv/lib/*
-venv/lib64/*
 open-sesame/logs/
 open-sesame/data/
