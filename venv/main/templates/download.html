@@ -18,7 +18,7 @@
 
         .fieldset_back {
           border: solid;
-          color: #cc0000;
+          color: #EC7063;
           border-radius: 1em;
           margin: 2em 1em 1em;
           padding:0 1em 1em;
@@ -42,6 +42,34 @@
         .fieldset li {
           list-style-type: " - ";
         }
+
+        ul.breadcrumb {
+          padding: 10px 16px;
+          list-style: none;
+          background-color: #eee;
+        }
+
+        ul.breadcrumb li {
+          display: inline;
+          font-size: 18px;
+        }
+
+        ul.breadcrumb li+li:before {
+          padding: 8px;
+          color: black;
+          content: "/\00a0";
+        }
+
+        ul.breadcrumb li a {
+          color: #0275d8;
+          text-decoration: none;
+        }
+
+        ul.breadcrumb li a:hover {
+          color: #01447e;
+          text-decoration: underline;
+        }
+
         </style>
     </head>
     <body class="body">
@@ -51,8 +79,13 @@
         <h1 style="text-align:center; color: #ffffff; font-size: 77px">Semantic role labelling (SRL) module</h1>
         <br/><br/>
     </div>
+    <ul class="breadcrumb" style="text-align:center;">
+        <li><a href="http://0.0.0.0:5000/upload-grew-ann">Grammars module</a></li>
+        <li><span style="list-style-position:inside; border: 3px solid #AEB6BF; border-radius: 5px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;">SRL module</span></li>
+        <li><a href="http://0.0.0.0:5003/upload-tp-ann">TP annotation module</a></li>
+    </ul>
 
-    <br/><br/><br/>
+    <br/><br/>
     <div class="fieldset_download">
       <h1 class="legend">Download</h1>
       <ul>
@@ -71,6 +104,19 @@
     <br/><br/>
 
 
+    <div class="fieldset_continue">
+      <h1 class="legend">Continue</h1>
+      <ul>
+          <h2 style="color:black">Press the button to continue to the automatic mapping the SRL annotations into the Spanish original text.</h2>
+          <br/><br/>
+          <div class="container" align="left">
+           <a href="http://0.0.0.0:5001/upload-frame-ann-en"><button class='btn btn-default'>Continue</button></a>
+          </div>
+      </ul>
+    </div>
+
+
+    <br/><br/>
 
 
     <div class="fieldset_back">
@@ -81,23 +127,6 @@
           <div class="container" align="left">
           <a href="http://0.0.0.0:5002"><button class='btn btn-default'>Go back</button></a>
          </div>
-      </ul>
-    </div>
-
-
-    <br/><br/>
-
-
-
-
-    <div class="fieldset_continue">
-      <h1 class="legend">Continue</h1>
-      <ul>
-          <h2 style="color:black">Press the button to continue to the automatic mapping the SRL annotations into the Spanish original text.</h2>
-          <br/><br/>
-          <div class="container" align="left">
-           <a href="http://0.0.0.0:5001/upload-frame-ann-en"><button class='btn btn-default'>Continue</button></a>
-          </div>
       </ul>
     </div>
 

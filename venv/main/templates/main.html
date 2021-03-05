@@ -35,6 +35,34 @@
         .fieldset li {
           list-style-type: " - ";
         }
+
+        ul.breadcrumb {
+          padding: 10px 16px;
+          list-style: none;
+          background-color: #eee;
+        }
+
+        ul.breadcrumb li {
+          display: inline;
+          font-size: 18px;
+        }
+
+        ul.breadcrumb li+li:before {
+          padding: 8px;
+          color: black;
+          content: "/\00a0";
+        }
+
+        ul.breadcrumb li a {
+          color: #0275d8;
+          text-decoration: none;
+        }
+
+        ul.breadcrumb li a:hover {
+          color: #01447e;
+          text-decoration: underline;
+        }
+
         </style>
     </head>
 
@@ -46,8 +74,13 @@
         <br/><br/>
     </div>
 
-    <br/><br/><br/>
+    <ul class="breadcrumb" style="text-align:center;">
+        <li><a href="http://0.0.0.0:5000/upload-grew-ann">Grammars module</a></li>
+        <li><span style="list-style-position:inside; border: 3px solid #AEB6BF; border-radius: 5px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;">SRL module</span></li>
+        <li><a href="http://0.0.0.0:5003/upload-tp-ann">TP annotation module</a></li>
+    </ul>
 
+    <br/><br/>
 
     <form method="post" action="/" enctype="multipart/form-data">
     <div class="fieldset_upload">
