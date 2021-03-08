@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 
 import os
-import io
 os.chdir("../../open-sesame")
 import subprocess
 from werkzeug.utils import secure_filename
 from flask import Flask, flash, request, redirect, send_file, render_template, url_for
 import shutil
 
-# Pending: not processing all files when many!!!!
 
 
 def make_archive(source, destination):
