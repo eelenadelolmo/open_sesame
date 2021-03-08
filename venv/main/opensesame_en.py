@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
-import os
 import io
+import re
+import os
 os.chdir("../../open-sesame")
 import subprocess
 from werkzeug.utils import secure_filename
@@ -92,20 +93,35 @@ def main():
                 """
 
         subprocess.Popen("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input in", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
         subprocess.Popen("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input logs/pretrained_again_targetid/out", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
         subprocess.Popen("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input logs/pretrained_again_frameid/out", shell=True).wait()
+        for file in files:
+            if file:
+                file.stream.seek(0)
+
+        # os.system("python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/in")
+        # os.system("python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_targetid/out")
+        # os.system("python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input /home/elena/PycharmProjects/open_sesame/open-sesame/logs/pretrained_again_frameid/out")
 
         make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
         return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
 
-    return render_template('main.html')
+    return render_template('main_en.html')
 
 
 # http://0.0.0.0:5000/downloadfile/predicted-args.conll
 
 @app.route("/downloadfile/<filename>", methods = ['GET'])
 def download_file(filename):
-    return render_template('download.html', value=filename)
+    return render_template('download_en.html', value=filename)
 
 @app.route('/return-files/<filename>')
 def return_files_tut(filename):
