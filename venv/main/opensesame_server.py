@@ -123,7 +123,7 @@ def download_file(filename):
 
 @app.route('/return-files/<filename>')
 def return_files_tut(filename):
-    file_path = '/home/elenaos/TP_modules/open_sesame/open-sesame/' + DOWNLOAD_FOLDER + '/' + filename
+    file_path = '/home/elenaos/TP_modules/open_sesame/open-sesame/' + filename
     return send_file(file_path, as_attachment=True, attachment_filename=filename, cache_timeout=0)
 
 
