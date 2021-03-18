@@ -97,6 +97,7 @@ def main():
                     f.close()
                 """
 
+        os.chdir("/home/elenaos/TP_modules/open_sesame/open-sesame/")
         subprocess.Popen(
             "python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input ../venv/main/in",
             shell=True).wait()
@@ -127,5 +128,4 @@ def return_files_tut(filename):
 
 
 if __name__ == "__main__":
-    os.chdir("../../open-sesame")
     app.run(host='0.0.0.0', port="5002")
