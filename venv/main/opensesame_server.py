@@ -21,17 +21,17 @@ def make_archive(source, destination):
     shutil.move('%s.%s' % (name, format), destination)
 
 
-UPLOAD_FOLDER = 'in/'
-DOWNLOAD_FOLDER = 'logs/pretrained_again_argid/out'
+UPLOAD_FOLDER = '/home/elenaos/TP_modules/open_sesame/venv/main/in/'
+DOWNLOAD_FOLDER = '/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_argid/out'
 
 shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
 shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
-shutil.rmtree('logs/pretrained_again_targetid/out', ignore_errors=True)
-shutil.rmtree('logs/pretrained_again_frameid/out', ignore_errors=True)
+shutil.rmtree('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
+shutil.rmtree('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
 os.makedirs(UPLOAD_FOLDER)
 os.makedirs(DOWNLOAD_FOLDER + '/')
-os.makedirs('logs/pretrained_again_targetid/out/')
-os.makedirs('logs/pretrained_again_frameid/out/')
+os.makedirs('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
+os.makedirs('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
 
 ALLOWED_EXTENSIONS = {'txt'}
 
@@ -63,12 +63,12 @@ def main():
 
         shutil.rmtree(UPLOAD_FOLDER, ignore_errors=True)
         shutil.rmtree(DOWNLOAD_FOLDER + '/', ignore_errors=True)
-        shutil.rmtree('logs/pretrained_again_targetid/out', ignore_errors=True)
-        shutil.rmtree('logs/pretrained_again_frameid/out', ignore_errors=True)
+        shutil.rmtree('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_targetid/out', ignore_errors=True)
+        shutil.rmtree('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_frameid/out', ignore_errors=True)
         os.makedirs(UPLOAD_FOLDER)
         os.makedirs(DOWNLOAD_FOLDER + '/')
-        os.makedirs('logs/pretrained_again_targetid/out/')
-        os.makedirs('logs/pretrained_again_frameid/out/')
+        os.makedirs('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_targetid/out/')
+        os.makedirs('/home/elenaos/TP_modules/open_sesame/open-sesame/logs/pretrained_again_frameid/out/')
 
         # check if the post request has the file part
         if 'files[]' not in request.files:
@@ -123,7 +123,7 @@ def download_file(filename):
 
 @app.route('/return-files/<filename>')
 def return_files_tut(filename):
-    file_path = '../../open-sesame/' + DOWNLOAD_FOLDER + '/' + filename
+    file_path = '/home/elenaos/TP_modules/open_sesame/open-sesame/' + DOWNLOAD_FOLDER + '/' + filename
     return send_file(file_path, as_attachment=True, attachment_filename=filename, cache_timeout=0)
 
 
