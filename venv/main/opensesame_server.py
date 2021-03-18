@@ -8,6 +8,7 @@ import shutil
 import nltk
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
 
 def make_archive(source, destination):
