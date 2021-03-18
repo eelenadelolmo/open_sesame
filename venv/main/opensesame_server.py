@@ -95,7 +95,7 @@ def main():
 
         os.chdir("../../open-sesame")
         subprocess.Popen(
-            "python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input in",
+            "python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input ../venv/main/in",
             shell=True).wait()
         subprocess.Popen(
             "python -m sesame.frameid --mode predict --model_name pretrained_again_frameid --raw_input logs/pretrained_again_targetid/out",
