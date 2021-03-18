@@ -5,6 +5,8 @@ import subprocess
 from werkzeug.utils import secure_filename
 from flask import Flask, flash, request, redirect, send_file, render_template, url_for
 import shutil
+import nltk
+nltk.download('punkt')
 
 
 def make_archive(source, destination):
