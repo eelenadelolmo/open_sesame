@@ -109,8 +109,9 @@ def main():
             shell=True).wait()
 
         make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
-        return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
 
+        return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
+        os.chdir("../venv/main")
     return render_template('main.html')
 
 
