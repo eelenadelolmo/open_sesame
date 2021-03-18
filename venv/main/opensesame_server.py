@@ -103,7 +103,6 @@ def main():
         subprocess.Popen(
             "python -m sesame.argid --mode predict --model_name pretrained_again_argid --raw_input logs/pretrained_again_frameid/out",
             shell=True).wait()
-        os.chdir("../venv/main")
 
         make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
         return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))

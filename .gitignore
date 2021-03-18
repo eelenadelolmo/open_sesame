@@ -2,6 +2,7 @@
 venv/bin/*
 venv/lib/*
 venv/lib64/*
+venv/main/templates/*
 open-sesame/data/*
 open-sesame/logs/*
 open-sesame/logs_old/*
