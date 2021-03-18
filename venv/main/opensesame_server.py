@@ -7,6 +7,7 @@ from flask import Flask, flash, request, redirect, send_file, render_template, u
 import shutil
 import nltk
 nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 
 def make_archive(source, destination):
