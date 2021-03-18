@@ -97,7 +97,6 @@ def main():
                     f.close()
                 """
 
-        os.chdir("../../open-sesame")
         subprocess.Popen(
             "python -m sesame.targetid --mode predict --model_name pretrained_again_targetid --raw_input ../venv/main/in",
             shell=True).wait()
@@ -111,7 +110,6 @@ def main():
         make_archive(DOWNLOAD_FOLDER, DOWNLOAD_FOLDER + '/en_framenet_annotated.zip')
 
         return redirect(url_for('download_file', filename='en_framenet_annotated.zip'))
-        os.chdir("../venv/main")
     return render_template('main.html')
 
 
@@ -129,4 +127,5 @@ def return_files_tut(filename):
 
 
 if __name__ == "__main__":
+    os.chdir("../../open-sesame")
     app.run(host='0.0.0.0', port="5002")
