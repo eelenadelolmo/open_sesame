@@ -1,8 +1,11 @@
 .idea
 venv/bin/*
 venv/lib/*
-venv/lib64/*
+venv/lib64
 venv/main/templates/*
 open-sesame/data/*
 open-sesame/logs/*
 open-sesame/logs_old/*
+nltk-2.0.5
+venv/not_in_git/*
+venv/local/*
