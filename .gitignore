@@ -9,3 +9,4 @@ open-sesame/logs_old/*
 nltk-2.0.5
 venv/not_in_git/*
 venv/local/*
+venv/main/logs/*
