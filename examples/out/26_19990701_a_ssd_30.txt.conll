@@ -1,0 +1,13 @@
+1	before	_	Before	_	IN	0	_	_	_	_	_	before.prep	Time_vector	S-Direction
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Landmark_event
+3	second	_	Second	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+4	world	_	World	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+5	war	_	War	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+6	anti-militarist	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+7	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Landmark_event
+8	pacifist	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Landmark_event
+9	propaganda	_	propaganda	_	NN	0	_	_	_	_	_	_	_	I-Landmark_event
+10	flooded	_	UNK	_	VBD	0	_	_	_	_	_	_	_	I-Landmark_event
+11	paris	_	Paris	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

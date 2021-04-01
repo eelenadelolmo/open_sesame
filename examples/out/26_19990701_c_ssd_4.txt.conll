@@ -1,0 +1,20 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	fired	_	fire	_	VBN	0	_	_	_	_	_	fire.v	Shoot_projectiles	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	B-Projectile
+5	stones	_	stone	_	NNS	0	_	_	_	_	_	_	_	I-Projectile
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Projectile
+7	obscene	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Projectile
+8	signs	_	sign	_	NNS	0	_	_	_	_	_	_	_	I-Projectile
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	fired	_	fire	_	VBN	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	stones	_	stone	_	NNS	0	_	_	_	_	_	_	_	B-Descriptor
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Descriptor
+7	obscene	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Descriptor
+8	signs	_	sign	_	NNS	0	_	_	_	_	_	sign.n	Sign	S-Indicator
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

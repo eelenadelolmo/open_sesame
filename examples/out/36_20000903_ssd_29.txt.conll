@@ -1,0 +1,15 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+3	any	_	any	_	DT	0	_	_	_	_	_	_	_	O
+4	case	_	case	_	NN	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+8	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+9	increasing	_	increase	_	VBG	0	_	_	_	_	_	increase.v	Change_position_on_a_scale	O
+10	role	_	role	_	NN	0	_	_	_	_	_	_	_	B-Attribute
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Attribute
+12	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Attribute
+13	politics	_	politics	_	NNS	0	_	_	_	_	_	_	_	I-Attribute
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

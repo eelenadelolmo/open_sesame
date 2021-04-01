@@ -1,0 +1,48 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-State_of_affairs
+2	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	I-State_of_affairs
+3	should	_	should	_	MD	0	_	_	_	_	_	should.v	Desirable_event	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	B-State_of_affairs
+5	immediate	_	immediate	_	JJ	0	_	_	_	_	_	_	_	I-State_of_affairs
+6	care	_	care	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+7	areas	_	area	_	NNS	0	_	_	_	_	_	_	_	I-State_of_affairs
+8	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-State_of_affairs
+9	minor	_	minor	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+10	cases	_	case	_	NNS	0	_	_	_	_	_	_	_	I-State_of_affairs
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Creator
+2	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	I-Creator
+3	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	create.v	Intentionally_create	O
+5	immediate	_	immediate	_	JJ	0	_	_	_	_	_	_	_	B-Created_entity
+6	care	_	care	_	NN	0	_	_	_	_	_	_	_	I-Created_entity
+7	areas	_	area	_	NNS	0	_	_	_	_	_	_	_	I-Created_entity
+8	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Created_entity
+9	minor	_	minor	_	NN	0	_	_	_	_	_	_	_	I-Created_entity
+10	cases	_	case	_	NNS	0	_	_	_	_	_	_	_	I-Created_entity
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	O
+3	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	O
+5	immediate	_	immediate	_	JJ	0	_	_	_	_	_	_	_	O
+6	care	_	care	_	NN	0	_	_	_	_	_	_	_	O
+7	areas	_	area	_	NNS	0	_	_	_	_	_	area.n	Locale	S-Locale
+8	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+9	minor	_	minor	_	NN	0	_	_	_	_	_	_	_	O
+10	cases	_	case	_	NNS	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	O
+3	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	O
+5	immediate	_	immediate	_	JJ	0	_	_	_	_	_	_	_	O
+6	care	_	care	_	NN	0	_	_	_	_	_	_	_	O
+7	areas	_	area	_	NNS	0	_	_	_	_	_	_	_	O
+8	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+9	minor	_	minor	_	NN	0	_	_	_	_	_	_	_	S-Type
+10	cases	_	case	_	NNS	0	_	_	_	_	_	case.n	Instance	S-Instance
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

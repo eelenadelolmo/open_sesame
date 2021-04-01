@@ -1,0 +1,8 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	you	_	You	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+3	conclude	_	conclude	_	VBP	0	_	_	_	_	_	conclude.v	Activity_finish	O
+4	he	_	he	_	PRP	0	_	_	_	_	_	_	_	B-Activity
+5	was	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Activity
+6	gay	_	UNK	_	RB	0	_	_	_	_	_	_	_	I-Activity
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

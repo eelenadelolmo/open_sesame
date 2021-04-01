@@ -1,0 +1,39 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Leader
+2	heads	_	head	_	VBZ	0	_	_	_	_	_	head.v	Leadership	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Governed
+4	financial	_	financial	_	JJ	0	_	_	_	_	_	_	_	I-Governed
+5	department	_	department	_	NN	0	_	_	_	_	_	_	_	I-Governed
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Governed
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Governed
+8	moscow	_	Moscow	_	NNP	0	_	_	_	_	_	_	_	I-Governed
+9	mayor	_	mayor	_	NN	0	_	_	_	_	_	_	_	I-Governed
+10	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Governed
+11	office	_	office	_	NN	0	_	_	_	_	_	_	_	I-Governed
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	heads	_	head	_	VBZ	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	financial	_	financial	_	JJ	0	_	_	_	_	_	_	_	O
+5	department	_	department	_	NN	0	_	_	_	_	_	_	_	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	moscow	_	Moscow	_	NNP	0	_	_	_	_	_	_	_	S-Governed
+9	mayor	_	mayor	_	NN	0	_	_	_	_	_	mayor.n	Leadership	O
+10	's	_	's	_	POS	0	_	_	_	_	_	_	_	B-Leader
+11	office	_	office	_	NN	0	_	_	_	_	_	_	_	I-Leader
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	heads	_	head	_	VBZ	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	financial	_	financial	_	JJ	0	_	_	_	_	_	_	_	O
+5	department	_	department	_	NN	0	_	_	_	_	_	_	_	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	moscow	_	Moscow	_	NNP	0	_	_	_	_	_	_	_	B-Descriptor
+9	mayor	_	mayor	_	NN	0	_	_	_	_	_	_	_	I-Descriptor
+10	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Descriptor
+11	office	_	office	_	NN	0	_	_	_	_	_	office.n	Building_subparts	S-Building_part
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

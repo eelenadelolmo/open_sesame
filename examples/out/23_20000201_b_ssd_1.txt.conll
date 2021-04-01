@@ -1,0 +1,39 @@
+1	its	_	Its	_	PRP$	0	_	_	_	_	_	_	_	S-Cause
+2	results	_	result	_	NNS	0	_	_	_	_	_	result.n	Causation	O
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	B-Effect
+5	made	_	make	_	VBN	0	_	_	_	_	_	_	_	I-Effect
+6	public	_	public	_	JJ	0	_	_	_	_	_	_	_	I-Effect
+7	by	_	by	_	IN	0	_	_	_	_	_	_	_	I-Effect
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Effect
+9	25th	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Effect
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Effect
+11	february	_	February	_	NNP	0	_	_	_	_	_	_	_	I-Effect
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	its	_	Its	_	PRP$	0	_	_	_	_	_	_	_	B-Product
+2	results	_	result	_	NNS	0	_	_	_	_	_	_	_	I-Product
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	made	_	make	_	VBN	0	_	_	_	_	_	make.v	Manufacturing	O
+6	public	_	public	_	JJ	0	_	_	_	_	_	_	_	S-Product
+7	by	_	by	_	IN	0	_	_	_	_	_	_	_	B-Time
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+9	25th	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Time
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Time
+11	february	_	February	_	NNP	0	_	_	_	_	_	_	_	I-Time
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	its	_	Its	_	PRP$	0	_	_	_	_	_	_	_	B-Phenomenon
+2	results	_	result	_	NNS	0	_	_	_	_	_	_	_	I-Phenomenon
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	made	_	make	_	VBN	0	_	_	_	_	_	_	_	O
+6	public	_	public	_	JJ	0	_	_	_	_	_	public.a	Secrecy_status	O
+7	by	_	by	_	IN	0	_	_	_	_	_	_	_	B-Time
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+9	25th	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Time
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Time
+11	february	_	February	_	NNP	0	_	_	_	_	_	_	_	I-Time
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

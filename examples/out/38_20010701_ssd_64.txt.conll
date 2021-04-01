@@ -1,0 +1,9 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	ha	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+5	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+6	remind	_	remind	_	VB	0	_	_	_	_	_	remind.v	Evoking	O
+7	me	_	me	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

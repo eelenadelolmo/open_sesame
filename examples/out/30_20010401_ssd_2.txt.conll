@@ -1,0 +1,7 @@
+1	macedonia	_	Macedonia	_	NNP	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	critical	_	critical	_	JJ	0	_	_	_	_	_	critical.a	Importance	O
+5	voice	_	voice	_	NN	0	_	_	_	_	_	_	_	S-Factor
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

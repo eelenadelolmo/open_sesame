@@ -1,0 +1,39 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Theme
+3	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+4	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+5	come	_	come	_	VB	0	_	_	_	_	_	come.v	Arriving	O
+6	back	_	back	_	RB	0	_	_	_	_	_	_	_	B-Goal
+7	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Goal
+8	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	I-Goal
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Goal
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Goal
+11	world	_	world	_	NN	0	_	_	_	_	_	_	_	I-Goal
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+4	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+5	come	_	come	_	VB	0	_	_	_	_	_	_	_	O
+6	back	_	back	_	RB	0	_	_	_	_	_	_	_	O
+7	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+8	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	S-Figure
+9	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+11	world	_	world	_	NN	0	_	_	_	_	_	_	_	I-Ground
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+4	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+5	come	_	come	_	VB	0	_	_	_	_	_	_	_	O
+6	back	_	back	_	RB	0	_	_	_	_	_	_	_	O
+7	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+8	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	world	_	world	_	NN	0	_	_	_	_	_	world.n	Political_locales	S-Locale
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

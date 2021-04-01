@@ -1,0 +1,36 @@
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	good	_	good	_	JJ	0	_	_	_	_	_	good.a	Desirability	O
+4	people	_	people	_	NNS	0	_	_	_	_	_	_	_	S-Evaluee
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	great	_	great	_	JJ	0	_	_	_	_	_	_	_	O
+7	musicians	_	musician	_	NNS	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	good	_	good	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+4	people	_	people	_	NNS	0	_	_	_	_	_	people.n	People	S-Person
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	great	_	great	_	JJ	0	_	_	_	_	_	_	_	O
+7	musicians	_	musician	_	NNS	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	good	_	good	_	JJ	0	_	_	_	_	_	_	_	O
+4	people	_	people	_	NNS	0	_	_	_	_	_	_	_	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	great	_	great	_	JJ	0	_	_	_	_	_	great.a	Desirability	O
+7	musicians	_	musician	_	NNS	0	_	_	_	_	_	_	_	S-Evaluee
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	good	_	good	_	JJ	0	_	_	_	_	_	_	_	O
+4	people	_	people	_	NNS	0	_	_	_	_	_	_	_	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	great	_	great	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+7	musicians	_	musician	_	NNS	0	_	_	_	_	_	musician.n	People_by_vocation	S-Person
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

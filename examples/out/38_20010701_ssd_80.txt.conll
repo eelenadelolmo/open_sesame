@@ -1,0 +1,8 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+2	've	_	've	_	VBP	0	_	_	_	_	_	_	_	O
+3	known	_	know	_	VBN	0	_	_	_	_	_	know.v	Awareness	O
+4	george	_	George	_	NNP	0	_	_	_	_	_	_	_	S-Content
+5	since	_	since	_	IN	0	_	_	_	_	_	_	_	O
+6	1963	_	UNK	_	CD	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

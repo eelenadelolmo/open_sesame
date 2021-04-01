@@ -1,0 +1,17 @@
+1	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Leader
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	largely	_	largely	_	RB	0	_	_	_	_	_	_	_	O
+4	occupied	_	occupy	_	VBN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	central	_	central	_	JJ	0	_	_	_	_	_	_	_	O
+7	space	_	space	_	NN	0	_	_	_	_	_	_	_	O
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	leading	_	lead	_	VBG	0	_	_	_	_	_	lead.v	Leadership	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Activity
+11	confusion	_	confusion	_	NN	0	_	_	_	_	_	_	_	I-Activity
+12	between	_	between	_	IN	0	_	_	_	_	_	_	_	I-Activity
+13	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Activity
+14	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Activity
+15	nationalism	_	nationalism	_	NN	0	_	_	_	_	_	_	_	I-Activity
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

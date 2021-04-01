@@ -1,0 +1,14 @@
+1	a	_	A	_	DT	0	_	_	_	_	_	_	_	O
+2	hundred	_	hundred	_	VBN	0	_	_	_	_	_	hundred.num	Cardinal_numbers	S-Number
+3	years	_	year	_	NNS	0	_	_	_	_	_	_	_	S-Unit
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	insurance	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	a	_	A	_	DT	0	_	_	_	_	_	_	_	O
+2	hundred	_	hundred	_	VBN	0	_	_	_	_	_	_	_	S-Relative_time
+3	years	_	year	_	NNS	0	_	_	_	_	_	year.n	Calendric_unit	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	insurance	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

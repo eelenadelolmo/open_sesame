@@ -1,0 +1,48 @@
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Agent
+4	stands	_	stand	_	VBZ	0	_	_	_	_	_	stand.v	Posture	O
+5	firm	_	firm	_	NN	0	_	_	_	_	_	_	_	S-Location
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	refuses	_	refuse	_	NNS	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	leave	_	leave	_	VB	0	_	_	_	_	_	_	_	O
+10	office	_	office	_	NN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	stands	_	stand	_	VBZ	0	_	_	_	_	_	_	_	O
+5	firm	_	firm	_	NN	0	_	_	_	_	_	firm.n	Businesses	S-Business
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	refuses	_	refuse	_	NNS	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	leave	_	leave	_	VB	0	_	_	_	_	_	_	_	O
+10	office	_	office	_	NN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Speaker
+4	stands	_	stand	_	VBZ	0	_	_	_	_	_	_	_	O
+5	firm	_	firm	_	NN	0	_	_	_	_	_	_	_	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	refuses	_	refuse	_	NNS	0	_	_	_	_	_	refuse.v	Agree_or_refuse_to_act	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Proposed_action
+9	leave	_	leave	_	VB	0	_	_	_	_	_	_	_	I-Proposed_action
+10	office	_	office	_	NN	0	_	_	_	_	_	_	_	I-Proposed_action
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	stands	_	stand	_	VBZ	0	_	_	_	_	_	_	_	O
+5	firm	_	firm	_	NN	0	_	_	_	_	_	_	_	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	refuses	_	refuse	_	NNS	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	leave	_	leave	_	VB	0	_	_	_	_	_	leave.v	Departing	O
+10	office	_	office	_	NN	0	_	_	_	_	_	_	_	S-Path
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

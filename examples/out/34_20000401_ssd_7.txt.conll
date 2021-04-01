@@ -1,0 +1,39 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	poet	_	poet	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+6	open	_	open	_	JJ	0	_	_	_	_	_	open.a	Secrecy_status	O
+7	letter	_	letter	_	NN	0	_	_	_	_	_	_	_	S-Phenomenon
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	claimed	_	claim	_	VBD	0	_	_	_	_	_	_	_	O
+10	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+11	support	_	support	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	poet	_	poet	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+6	open	_	open	_	JJ	0	_	_	_	_	_	_	_	O
+7	letter	_	letter	_	NN	0	_	_	_	_	_	letter.n	Text	S-Text
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	claimed	_	claim	_	VBD	0	_	_	_	_	_	_	_	O
+10	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+11	support	_	support	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	poet	_	poet	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	B-Medium
+6	open	_	open	_	JJ	0	_	_	_	_	_	_	_	I-Medium
+7	letter	_	letter	_	NN	0	_	_	_	_	_	_	_	I-Medium
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	claimed	_	claim	_	VBD	0	_	_	_	_	_	claim.v	Statement	O
+10	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Message
+11	support	_	support	_	NN	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

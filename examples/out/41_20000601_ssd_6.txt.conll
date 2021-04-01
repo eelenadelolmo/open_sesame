@@ -1,0 +1,17 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+3	this	_	this	_	DT	0	_	_	_	_	_	_	_	B-Ground
+4	mess	_	mess	_	NN	0	_	_	_	_	_	_	_	I-Ground
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	what	_	what	_	WP	0	_	_	_	_	_	_	_	B-Figure
+7	will	_	will	_	MD	0	_	_	_	_	_	_	_	I-Figure
+8	udc	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Figure
+10	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+11	antoni	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+12	duran	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+13	lleida	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+14	do	_	do	_	VBP	0	_	_	_	_	_	_	_	I-Figure
+15	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

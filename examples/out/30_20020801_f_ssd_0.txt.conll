@@ -1,0 +1,27 @@
+1	uninjured	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Figure
+2	collapse	_	collapse	_	NN	0	_	_	_	_	_	_	_	I-Figure
+3	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Ground
+5	house	_	house	_	NN	0	_	_	_	_	_	_	_	I-Ground
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Ground
+7	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Ground
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	uninjured	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	collapse	_	collapse	_	NN	0	_	_	_	_	_	_	_	O
+3	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	house	_	house	_	NN	0	_	_	_	_	_	house.n	Buildings	S-Building
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	uninjured	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	collapse	_	collapse	_	NN	0	_	_	_	_	_	_	_	O
+3	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Figure
+5	house	_	house	_	NN	0	_	_	_	_	_	_	_	I-Figure
+6	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+7	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	S-Ground
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

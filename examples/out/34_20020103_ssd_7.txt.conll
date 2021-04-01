@@ -1,0 +1,13 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	is	_	Is	_	VBZ	0	_	_	_	_	_	_	_	O
+3	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	difference	_	difference	_	NN	0	_	_	_	_	_	difference.n	Non-commutative_statement	O
+6	crusader	_	crusader	_	NN	0	_	_	_	_	_	_	_	S-Term_2
+7	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+8	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+9	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+10	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+11	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

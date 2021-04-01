@@ -1,0 +1,26 @@
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	spain	_	Spain	_	NNP	0	_	_	_	_	_	_	_	S-Place
+3	terrorism	_	terrorism	_	NN	0	_	_	_	_	_	terrorism.n	Terrorism	S-Act
+4	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	without	_	without	_	IN	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	doubt	_	doubt	_	NN	0	_	_	_	_	_	_	_	O
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	our	_	our	_	PRP$	0	_	_	_	_	_	_	_	O
+11	enemy	_	enemy	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	spain	_	Spain	_	NNP	0	_	_	_	_	_	_	_	O
+3	terrorism	_	terrorism	_	NN	0	_	_	_	_	_	_	_	O
+4	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	without	_	without	_	IN	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	doubt	_	doubt	_	NN	0	_	_	_	_	_	doubt.n	Certainty	O
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	our	_	our	_	PRP$	0	_	_	_	_	_	_	_	O
+11	enemy	_	enemy	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

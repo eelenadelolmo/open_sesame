@@ -1,0 +1,52 @@
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	question	_	question	_	NN	0	_	_	_	_	_	question.n	Questioning	O
+6	must	_	must	_	MD	0	_	_	_	_	_	_	_	O
+7	be	_	be	_	VB	0	_	_	_	_	_	_	_	B-Message
+8	addressed	_	address	_	VBN	0	_	_	_	_	_	_	_	I-Message
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Message
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+11	legislators	_	legislator	_	NNS	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Required_situation
+5	question	_	question	_	NN	0	_	_	_	_	_	_	_	I-Required_situation
+6	must	_	must	_	MD	0	_	_	_	_	_	must.v	Required_event	O
+7	be	_	be	_	VB	0	_	_	_	_	_	_	_	B-Required_situation
+8	addressed	_	address	_	VBN	0	_	_	_	_	_	_	_	I-Required_situation
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Required_situation
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Required_situation
+11	legislators	_	legislator	_	NNS	0	_	_	_	_	_	_	_	I-Required_situation
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Message
+5	question	_	question	_	NN	0	_	_	_	_	_	_	_	I-Message
+6	must	_	must	_	MD	0	_	_	_	_	_	_	_	O
+7	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+8	addressed	_	address	_	VBN	0	_	_	_	_	_	address.v	Statement	O
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Message
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+11	legislators	_	legislator	_	NNS	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	question	_	question	_	NN	0	_	_	_	_	_	_	_	O
+6	must	_	must	_	MD	0	_	_	_	_	_	_	_	O
+7	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+8	addressed	_	address	_	VBN	0	_	_	_	_	_	_	_	O
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	legislators	_	legislator	_	NNS	0	_	_	_	_	_	legislator.n	Leadership	S-Leader
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

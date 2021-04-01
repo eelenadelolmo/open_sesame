@@ -1,0 +1,32 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	doing	_	do	_	VBG	0	_	_	_	_	_	do.v	Intentionally_act	O
+4	out	_	out	_	RP	0	_	_	_	_	_	_	_	B-Act
+5	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Act
+6	conviction	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Act
+7	what	_	what	_	WP	0	_	_	_	_	_	_	_	I-Act
+8	socialists	_	socialist	_	NNS	0	_	_	_	_	_	_	_	I-Act
+9	do	_	do	_	VBP	0	_	_	_	_	_	_	_	I-Act
+10	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Act
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Act
+12	imposition	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Act
+13	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Act
+14	quotas	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Act
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Sleeper
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	doing	_	do	_	VBG	0	_	_	_	_	_	_	_	O
+4	out	_	out	_	RP	0	_	_	_	_	_	out.a	Sleep	O
+5	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Sleeper
+6	conviction	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Sleeper
+7	what	_	what	_	WP	0	_	_	_	_	_	_	_	I-Sleeper
+8	socialists	_	socialist	_	NNS	0	_	_	_	_	_	_	_	I-Sleeper
+9	do	_	do	_	VBP	0	_	_	_	_	_	_	_	I-Sleeper
+10	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Sleeper
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Sleeper
+12	imposition	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Sleeper
+13	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Sleeper
+14	quotas	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Sleeper
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

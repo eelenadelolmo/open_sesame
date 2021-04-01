@@ -1,0 +1,39 @@
+1	before	_	Before	_	IN	0	_	_	_	_	_	before.prep	Time_vector	S-Direction
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	B-Landmark_event
+3	wrote	_	write	_	VBD	0	_	_	_	_	_	_	_	I-Landmark_event
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Landmark_event
+5	story	_	story	_	NN	0	_	_	_	_	_	_	_	I-Landmark_event
+6	starring	_	star	_	VBG	0	_	_	_	_	_	_	_	I-Landmark_event
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Landmark_event
+8	character	_	character	_	NN	0	_	_	_	_	_	_	_	I-Landmark_event
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Landmark_event
+10	down	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Landmark_event
+11	syndrome	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Landmark_event
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	before	_	Before	_	IN	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Author
+3	wrote	_	write	_	VBD	0	_	_	_	_	_	write.v	Text_creation	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Text
+5	story	_	story	_	NN	0	_	_	_	_	_	_	_	I-Text
+6	starring	_	star	_	VBG	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	character	_	character	_	NN	0	_	_	_	_	_	_	_	O
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+10	down	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	syndrome	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	before	_	Before	_	IN	0	_	_	_	_	_	_	_	B-Time
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	I-Time
+3	wrote	_	write	_	VBD	0	_	_	_	_	_	_	_	I-Time
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Time
+5	story	_	story	_	NN	0	_	_	_	_	_	_	_	I-Time
+6	starring	_	star	_	VBG	0	_	_	_	_	_	star.v	Performers_and_roles	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Role
+8	character	_	character	_	NN	0	_	_	_	_	_	_	_	I-Role
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Role
+10	down	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Role
+11	syndrome	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Role
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

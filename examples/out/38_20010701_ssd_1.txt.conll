@@ -1,0 +1,6 @@
+1	yeah	_	Yeah	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	money	_	money	_	NN	0	_	_	_	_	_	money.n	Money	S-Money
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

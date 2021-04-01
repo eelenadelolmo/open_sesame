@@ -1,0 +1,39 @@
+1	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	B-Medium
+2	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Medium
+3	aznar	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Medium
+4	said	_	say	_	VBD	0	_	_	_	_	_	say.v	Statement	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+7	important	_	important	_	JJ	0	_	_	_	_	_	_	_	I-Message
+8	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	I-Message
+9	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Message
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+11	company	_	company	_	NN	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	aznar	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	important	_	important	_	JJ	0	_	_	_	_	_	important.a	Importance	O
+8	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	S-Factor
+9	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	company	_	company	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	aznar	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	important	_	important	_	JJ	0	_	_	_	_	_	_	_	O
+8	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	O
+9	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	company	_	company	_	NN	0	_	_	_	_	_	company.n	Businesses	S-Business
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

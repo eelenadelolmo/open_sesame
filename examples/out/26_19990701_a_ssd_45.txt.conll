@@ -1,0 +1,14 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	no	_	No	_	DT	0	_	_	_	_	_	_	_	O
+3	more	_	more	_	JJR	0	_	_	_	_	_	_	_	O
+4	wars	_	war	_	NNS	0	_	_	_	_	_	war.n	Hostile_encounter	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+6	your	_	your	_	PRP$	0	_	_	_	_	_	_	_	O
+7	life	_	life	_	NN	0	_	_	_	_	_	_	_	O
+8	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+9	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+10	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+11	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+12	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

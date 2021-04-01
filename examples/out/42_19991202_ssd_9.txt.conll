@@ -1,0 +1,6 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	basque	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Aggregate_property
+3	party	_	party	_	NN	0	_	_	_	_	_	party.n	Aggregate	S-Aggregate
+4	table	_	table	_	NN	0	_	_	_	_	_	_	_	O
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

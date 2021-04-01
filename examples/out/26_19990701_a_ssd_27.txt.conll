@@ -1,0 +1,22 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	french	_	French	_	JJ	0	_	_	_	_	_	_	_	O
+3	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	sad	_	sad	_	JJ	0	_	_	_	_	_	sad.a	Stimulus_focus	O
+6	experience	_	experience	_	NN	0	_	_	_	_	_	_	_	S-Stimulus
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+9	subject	_	subject	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	french	_	French	_	JJ	0	_	_	_	_	_	_	_	O
+3	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	sad	_	sad	_	JJ	0	_	_	_	_	_	_	_	S-Manner
+6	experience	_	experience	_	NN	0	_	_	_	_	_	experience.n	Expertise	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Skill
+8	this	_	this	_	DT	0	_	_	_	_	_	_	_	I-Skill
+9	subject	_	subject	_	NN	0	_	_	_	_	_	_	_	I-Skill
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

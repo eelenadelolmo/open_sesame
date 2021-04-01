@@ -1,0 +1,26 @@
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Stimulus
+5	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+6	amazing	_	amaze	_	VBG	0	_	_	_	_	_	amaze.v	Experiencer_obj	O
+7	what	_	what	_	WP	0	_	_	_	_	_	_	_	B-Stimulus
+8	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Stimulus
+9	happening	_	happen	_	VBG	0	_	_	_	_	_	_	_	I-Stimulus
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Stimulus
+11	us	_	u	_	PRP	0	_	_	_	_	_	_	_	I-Stimulus
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	why	_	why	_	WRB	0	_	_	_	_	_	_	_	O
+4	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+5	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+6	amazing	_	amaze	_	VBG	0	_	_	_	_	_	_	_	O
+7	what	_	what	_	WP	0	_	_	_	_	_	_	_	S-Event
+8	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+9	happening	_	happen	_	VBG	0	_	_	_	_	_	happen.v	Event	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+11	us	_	u	_	PRP	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

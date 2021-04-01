@@ -1,0 +1,30 @@
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	accepted	_	accept	_	VBN	0	_	_	_	_	_	accept.v	Receiving	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Theme
+6	this	_	this	_	DT	0	_	_	_	_	_	_	_	I-Theme
+7	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Theme
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Theme
+9	reality	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Theme
+10	``	_	``	_	``	0	_	_	_	_	_	_	_	I-Theme
+11	,	_	,	_	,	0	_	_	_	_	_	_	_	I-Theme
+12	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+13	warns	_	warn	_	VBZ	0	_	_	_	_	_	_	_	I-Theme
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	accepted	_	accept	_	VBN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+7	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	reality	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+11	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+12	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Speaker
+13	warns	_	warn	_	VBZ	0	_	_	_	_	_	warn.v	Warning	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

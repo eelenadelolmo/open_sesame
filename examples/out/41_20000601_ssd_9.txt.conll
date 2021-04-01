@@ -1,0 +1,16 @@
+1	do	_	Do	_	NNP	0	_	_	_	_	_	_	_	O
+2	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+3	let	_	let	_	VB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	rhythm	_	rhythm	_	NN	0	_	_	_	_	_	rhythm.n	Temporal_pattern	S-Pattern
+6	stay	_	stay	_	NN	0	_	_	_	_	_	_	_	S-Subevent
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	do	_	Do	_	NNP	0	_	_	_	_	_	_	_	O
+2	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+3	let	_	let	_	VB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	rhythm	_	rhythm	_	NN	0	_	_	_	_	_	_	_	O
+6	stay	_	stay	_	NN	0	_	_	_	_	_	stay.n	Temporary_stay	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,42 @@
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Sound_source
+2	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Sound_source
+3	unk	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	I-Sound_source
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	play	_	play	_	VB	0	_	_	_	_	_	play.v	Make_noise	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Sound
+7	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Sound
+8	match	_	match	_	NN	0	_	_	_	_	_	_	_	I-Sound
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Sound
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Sound
+11	champions	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Sound
+12	league	_	League	_	NNP	0	_	_	_	_	_	_	_	I-Sound
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+3	unk	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	O
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Manner
+8	match	_	match	_	NN	0	_	_	_	_	_	match.n	Evaluative_comparison	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Standard_attribute
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Standard_attribute
+11	champions	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Standard_attribute
+12	league	_	League	_	NNP	0	_	_	_	_	_	_	_	I-Standard_attribute
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+3	unk	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	O
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+8	match	_	match	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	champions	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Name
+12	league	_	League	_	NNP	0	_	_	_	_	_	league.n	Organization	S-Organization
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,12 @@
+1	what	_	What	_	WP	0	_	_	_	_	_	_	_	S-Sound
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Sound_source
+4	laughing	_	laugh	_	VBG	0	_	_	_	_	_	laugh.v	Make_noise	O
+5	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+6	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+7	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+8	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+9	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+10	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

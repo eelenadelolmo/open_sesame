@@ -1,0 +1,13 @@
+1	while	_	While	_	IN	0	_	_	_	_	_	_	_	O
+2	protestants	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+3	distrust	_	UNK	_	VBP	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	reaction	_	reaction	_	NN	0	_	_	_	_	_	reaction.n	Response	O
+7	among	_	among	_	IN	0	_	_	_	_	_	_	_	B-Trigger
+8	catholics	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Trigger
+9	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	I-Trigger
+10	been	_	be	_	VBN	0	_	_	_	_	_	_	_	I-Trigger
+11	positive	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Trigger
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

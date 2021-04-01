@@ -1,0 +1,20 @@
+1	with	_	With	_	IN	0	_	_	_	_	_	_	_	O
+2	them	_	them	_	PRP	0	_	_	_	_	_	_	_	O
+3	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Experiencer
+4	feel	_	feel	_	VBP	0	_	_	_	_	_	feel.v	Feeling	O
+5	more	_	more	_	JJR	0	_	_	_	_	_	_	_	B-Emotional_state
+6	alive	_	alive	_	JJ	0	_	_	_	_	_	_	_	I-Emotional_state
+7	than	_	than	_	IN	0	_	_	_	_	_	_	_	I-Emotional_state
+8	ever	_	ever	_	RB	0	_	_	_	_	_	_	_	I-Emotional_state
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	with	_	With	_	IN	0	_	_	_	_	_	_	_	O
+2	them	_	them	_	PRP	0	_	_	_	_	_	_	_	O
+3	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Protagonist
+4	feel	_	feel	_	VBP	0	_	_	_	_	_	_	_	O
+5	more	_	more	_	JJR	0	_	_	_	_	_	_	_	S-Degree
+6	alive	_	alive	_	JJ	0	_	_	_	_	_	alive.a	Dead_or_alive	O
+7	than	_	than	_	IN	0	_	_	_	_	_	_	_	O
+8	ever	_	ever	_	RB	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

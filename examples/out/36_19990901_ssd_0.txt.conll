@@ -1,0 +1,30 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	debate	_	debate	_	NN	0	_	_	_	_	_	debate.n	Discussion	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	going	_	go	_	VBG	0	_	_	_	_	_	_	_	O
+8	better	_	better	_	JJR	0	_	_	_	_	_	_	_	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+10	private	_	private	_	JJ	0	_	_	_	_	_	_	_	O
+11	than	_	than	_	IN	0	_	_	_	_	_	_	_	O
+12	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+13	transcends	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Required_situation
+5	debate	_	debate	_	NN	0	_	_	_	_	_	_	_	I-Required_situation
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	going	_	go	_	VBG	0	_	_	_	_	_	_	_	O
+8	better	_	better	_	JJR	0	_	_	_	_	_	better.v	Required_event	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Circumstances
+10	private	_	private	_	JJ	0	_	_	_	_	_	_	_	I-Circumstances
+11	than	_	than	_	IN	0	_	_	_	_	_	_	_	I-Circumstances
+12	it	_	it	_	PRP	0	_	_	_	_	_	_	_	I-Circumstances
+13	transcends	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	I-Circumstances
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

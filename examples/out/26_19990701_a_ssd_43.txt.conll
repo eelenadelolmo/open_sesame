@@ -1,0 +1,14 @@
+1	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	visiting	_	visit	_	VBG	0	_	_	_	_	_	visit.v	Arriving	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Goal
+5	bars	_	bar	_	NNS	0	_	_	_	_	_	_	_	I-Goal
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	visiting	_	visit	_	VBG	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	bars	_	bar	_	NNS	0	_	_	_	_	_	bar.n	Buildings	S-Building
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

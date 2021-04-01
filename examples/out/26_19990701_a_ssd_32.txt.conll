@@ -1,0 +1,22 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Subpart
+2	later	_	later	_	JJ	0	_	_	_	_	_	later.a	Temporal_subregion	O
+3	served	_	serve	_	VBD	0	_	_	_	_	_	_	_	B-Time_period
+4	as	_	a	_	IN	0	_	_	_	_	_	_	_	I-Time_period
+5	germany	_	Germany	_	NNP	0	_	_	_	_	_	_	_	I-Time_period
+6	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Time_period
+7	ambassador	_	ambassador	_	NN	0	_	_	_	_	_	_	_	I-Time_period
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Time_period
+9	vichy	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Time_period
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Helper
+2	later	_	later	_	JJ	0	_	_	_	_	_	_	_	O
+3	served	_	serve	_	VBD	0	_	_	_	_	_	serve.v	Assistance	O
+4	as	_	a	_	IN	0	_	_	_	_	_	_	_	B-Benefited_party
+5	germany	_	Germany	_	NNP	0	_	_	_	_	_	_	_	I-Benefited_party
+6	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Benefited_party
+7	ambassador	_	ambassador	_	NN	0	_	_	_	_	_	_	_	I-Benefited_party
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Goal
+9	vichy	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Goal
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

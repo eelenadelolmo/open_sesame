@@ -1,0 +1,9 @@
+1	automatically	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Entity_1
+4	felt	_	felt	_	VBD	0	_	_	_	_	_	_	_	O
+5	like	_	like	_	IN	0	_	_	_	_	_	like.prep	Similarity	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Entity_2
+7	bastard	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Entity_2
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

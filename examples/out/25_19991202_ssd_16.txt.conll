@@ -1,0 +1,45 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+3	who	_	who	_	WP	0	_	_	_	_	_	_	_	O
+4	charges	_	charge	_	NNS	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	shut	_	shut	_	VB	0	_	_	_	_	_	_	_	O
+7	up	_	up	_	IN	0	_	_	_	_	_	_	_	O
+8	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+9	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+10	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+11	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+12	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+13	decency	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	who	_	who	_	WP	0	_	_	_	_	_	_	_	S-Leader
+4	charges	_	charge	_	NNS	0	_	_	_	_	_	charge.n	Leadership	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Activity
+6	shut	_	shut	_	VB	0	_	_	_	_	_	_	_	I-Activity
+7	up	_	up	_	IN	0	_	_	_	_	_	_	_	I-Activity
+8	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Activity
+9	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Activity
+10	he	_	he	_	PRP	0	_	_	_	_	_	_	_	I-Activity
+11	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	I-Activity
+12	no	_	no	_	DT	0	_	_	_	_	_	_	_	I-Activity
+13	decency	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Activity
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	who	_	who	_	WP	0	_	_	_	_	_	_	_	O
+4	charges	_	charge	_	NNS	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	shut	_	shut	_	VB	0	_	_	_	_	_	shut.v	Body_movement	O
+7	up	_	up	_	IN	0	_	_	_	_	_	_	_	B-Message
+8	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Message
+9	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Message
+10	he	_	he	_	PRP	0	_	_	_	_	_	_	_	I-Message
+11	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	I-Message
+12	no	_	no	_	DT	0	_	_	_	_	_	_	_	I-Message
+13	decency	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Message
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

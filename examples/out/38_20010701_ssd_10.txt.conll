@@ -1,0 +1,7 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+4	fantastic	_	fantastic	_	JJ	0	_	_	_	_	_	_	_	S-Aggregate_property
+5	group	_	group	_	NN	0	_	_	_	_	_	group.n	Aggregate	S-Aggregate
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

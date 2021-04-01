@@ -1,0 +1,14 @@
+1	lithuania	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Agent
+2	begins	_	begin	_	VBZ	0	_	_	_	_	_	begin.v	Activity_start	O
+3	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Activity
+4	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Activity
+5	agents	_	agent	_	NNS	0	_	_	_	_	_	_	_	I-Activity
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	lithuania	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	begins	_	begin	_	VBZ	0	_	_	_	_	_	_	_	O
+3	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Type
+5	agents	_	agent	_	NNS	0	_	_	_	_	_	agent.n	Active_substance	S-Substance
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

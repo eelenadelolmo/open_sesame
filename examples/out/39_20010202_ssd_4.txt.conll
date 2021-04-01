@@ -1,0 +1,20 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+3	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	whole	_	whole	_	JJ	0	_	_	_	_	_	_	_	S-Distance
+6	range	_	range	_	NN	0	_	_	_	_	_	range.n	Range	O
+7	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Distance
+8	tests	_	test	_	NNS	0	_	_	_	_	_	_	_	I-Distance
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+3	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	whole	_	whole	_	JJ	0	_	_	_	_	_	_	_	O
+6	range	_	range	_	NN	0	_	_	_	_	_	_	_	O
+7	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+8	tests	_	test	_	NNS	0	_	_	_	_	_	test.n	Operational_testing	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

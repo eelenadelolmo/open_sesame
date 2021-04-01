@@ -1,0 +1,45 @@
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Speaker
+2	wahid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+3	said	_	say	_	VBD	0	_	_	_	_	_	say.v	Statement	O
+4	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	S-Time
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+6	he	_	he	_	PRP	0	_	_	_	_	_	_	_	I-Message
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	I-Message
+8	asked	_	ask	_	VBN	0	_	_	_	_	_	_	_	I-Message
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+10	security	_	Security	_	NNP	0	_	_	_	_	_	_	_	I-Message
+11	minister	_	Minister	_	NNP	0	_	_	_	_	_	_	_	I-Message
+12	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Message
+13	resign	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Message
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+2	wahid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+4	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+8	asked	_	ask	_	VBN	0	_	_	_	_	_	ask.v	Questioning	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Addressee
+10	security	_	Security	_	NNP	0	_	_	_	_	_	_	_	I-Addressee
+11	minister	_	Minister	_	NNP	0	_	_	_	_	_	_	_	I-Addressee
+12	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Message
+13	resign	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Message
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+2	wahid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+4	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+8	asked	_	ask	_	VBN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	security	_	Security	_	NNP	0	_	_	_	_	_	security.n	Being_at_risk	O
+11	minister	_	Minister	_	NNP	0	_	_	_	_	_	_	_	O
+12	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+13	resign	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

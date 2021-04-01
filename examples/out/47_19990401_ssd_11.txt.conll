@@ -1,0 +1,20 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	11	_	11	_	CD	0	_	_	_	_	_	_	_	S-Descriptor
+3	floors	_	floor	_	NNS	0	_	_	_	_	_	floor.n	Architectural_part	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Whole
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Whole
+6	building	_	building	_	NN	0	_	_	_	_	_	_	_	I-Whole
+7	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+8	evicted	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	11	_	11	_	CD	0	_	_	_	_	_	_	_	O
+3	floors	_	floor	_	NNS	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	building	_	building	_	NN	0	_	_	_	_	_	building.n	Buildings	S-Building
+7	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+8	evicted	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

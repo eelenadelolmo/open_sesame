@@ -1,0 +1,28 @@
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	place	_	place	_	NN	0	_	_	_	_	_	place.n	Locale	S-Locale
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	ripoll	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	bar	_	bar	_	NN	0	_	_	_	_	_	_	_	O
+7	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+8	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	emergency	_	emergency	_	NN	0	_	_	_	_	_	_	_	O
+11	exits	_	exit	_	VBZ	0	_	_	_	_	_	_	_	O
+12	blocked	_	block	_	VBN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	place	_	place	_	NN	0	_	_	_	_	_	_	_	O
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Theme
+5	ripoll	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+6	bar	_	bar	_	NN	0	_	_	_	_	_	_	_	I-Theme
+7	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+8	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Theme
+10	emergency	_	emergency	_	NN	0	_	_	_	_	_	_	_	I-Theme
+11	exits	_	exit	_	VBZ	0	_	_	_	_	_	exit.v	Departing	O
+12	blocked	_	block	_	VBN	0	_	_	_	_	_	_	_	S-Path
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,20 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	mayor	_	mayor	_	NN	0	_	_	_	_	_	mayor.n	Leadership	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Leader
+4	sant	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Leader
+5	cugat	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Leader
+6	justifies	_	justify	_	VBZ	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	felling	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Agent
+2	mayor	_	mayor	_	NN	0	_	_	_	_	_	_	_	I-Agent
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Agent
+4	sant	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+5	cugat	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+6	justifies	_	justify	_	VBZ	0	_	_	_	_	_	justify.v	Justifying	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-State_of_affairs
+8	felling	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

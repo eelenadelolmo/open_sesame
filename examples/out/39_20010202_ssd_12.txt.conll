@@ -1,0 +1,13 @@
+1	do	_	Do	_	NNP	0	_	_	_	_	_	_	_	O
+2	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+3	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+4	think	_	think	_	VBP	0	_	_	_	_	_	think.v	Opinion	O
+5	all	_	all	_	DT	0	_	_	_	_	_	_	_	B-Opinion
+6	this	_	this	_	DT	0	_	_	_	_	_	_	_	I-Opinion
+7	undermines	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Opinion
+8	credibility	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Opinion
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Opinion
+10	russian	_	Russian	_	NNP	0	_	_	_	_	_	_	_	I-Opinion
+11	justice	_	justice	_	NN	0	_	_	_	_	_	_	_	I-Opinion
+12	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+

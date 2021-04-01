@@ -1,0 +1,42 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	same	_	same	_	JJ	0	_	_	_	_	_	same.a	Identicality	O
+3	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	S-Type
+4	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+5	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+6	trying	_	try	_	VBG	0	_	_	_	_	_	_	_	O
+7	now	_	now	_	RB	0	_	_	_	_	_	_	_	O
+8	along	_	along	_	IN	0	_	_	_	_	_	_	_	O
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+11	rhythm	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+12	kings	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+3	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	O
+4	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+5	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+6	trying	_	try	_	VBG	0	_	_	_	_	_	try.v	Attempt	O
+7	now	_	now	_	RB	0	_	_	_	_	_	_	_	B-Goal
+8	along	_	along	_	IN	0	_	_	_	_	_	_	_	I-Goal
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Goal
+10	the	_	The	_	DT	0	_	_	_	_	_	_	_	I-Goal
+11	rhythm	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Goal
+12	kings	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Goal
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+3	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	O
+4	i	_	I	_	PRP	0	_	_	_	_	_	_	_	B-Trajector_event
+5	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	I-Trajector_event
+6	trying	_	try	_	VBG	0	_	_	_	_	_	_	_	I-Trajector_event
+7	now	_	now	_	RB	0	_	_	_	_	_	now.adv	Temporal_collocation	O
+8	along	_	along	_	IN	0	_	_	_	_	_	_	_	B-Trajector_event
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Trajector_event
+10	the	_	The	_	DT	0	_	_	_	_	_	_	_	I-Trajector_event
+11	rhythm	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Trajector_event
+12	kings	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Trajector_event
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

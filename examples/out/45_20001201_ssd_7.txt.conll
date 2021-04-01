@@ -1,0 +1,11 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Hypothetical_event
+2	situation	_	situation	_	NN	0	_	_	_	_	_	_	_	I-Hypothetical_event
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	however	_	however	_	RB	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	likely	_	likely	_	JJ	0	_	_	_	_	_	likely.a	Likelihood	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Hypothetical_event
+9	worsen	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Hypothetical_event
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

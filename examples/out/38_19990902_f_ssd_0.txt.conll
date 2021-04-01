@@ -1,0 +1,11 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	government	_	Government	_	NNP	0	_	_	_	_	_	government.n	Leadership	S-Leader
+3	frames	_	frame	_	VBZ	0	_	_	_	_	_	_	_	O
+4	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+5	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	campaign	_	campaign	_	NN	0	_	_	_	_	_	_	_	O
+8	against	_	against	_	IN	0	_	_	_	_	_	_	_	O
+9	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

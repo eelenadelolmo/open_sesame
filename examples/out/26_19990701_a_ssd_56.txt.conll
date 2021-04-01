@@ -1,0 +1,26 @@
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	catalunya	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Agent
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+5	finished	_	finish	_	VBN	0	_	_	_	_	_	finish.v	Activity_finish	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+9	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+10	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+11	disappear	_	disappear	_	VB	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	catalunya	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+5	finished	_	finish	_	VBN	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Theme
+9	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+10	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+11	disappear	_	disappear	_	VB	0	_	_	_	_	_	disappear.v	Departing	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

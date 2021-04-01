@@ -1,0 +1,6 @@
+1	success	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+4	growing	_	grow	_	VBG	0	_	_	_	_	_	grow.v	Change_position_on_a_scale	O
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,12 @@
+1	for	_	For	_	IN	0	_	_	_	_	_	_	_	O
+2	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+3	statement	_	statement	_	NN	0	_	_	_	_	_	statement.n	Statement	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	must	_	must	_	MD	0	_	_	_	_	_	_	_	O
+7	have	_	have	_	VB	0	_	_	_	_	_	_	_	O
+8	apologized	_	apologize	_	VBN	0	_	_	_	_	_	_	_	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+10	parliament	_	Parliament	_	NNP	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

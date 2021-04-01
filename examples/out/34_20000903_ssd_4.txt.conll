@@ -1,0 +1,56 @@
+1	an	_	An	_	DT	0	_	_	_	_	_	_	_	O
+2	operation	_	operation	_	NN	0	_	_	_	_	_	operation.n	Businesses	S-Business
+3	whose	_	whose	_	WP$	0	_	_	_	_	_	_	_	B-Product
+4	ultimate	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Product
+5	goal	_	goal	_	NN	0	_	_	_	_	_	_	_	I-Product
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Product
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Product
+8	defeat	_	defeat	_	VB	0	_	_	_	_	_	_	_	I-Product
+9	nationalism	_	nationalism	_	NN	0	_	_	_	_	_	_	_	I-Product
+10	at	_	at	_	IN	0	_	_	_	_	_	_	_	I-Product
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Product
+12	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Product
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	an	_	An	_	DT	0	_	_	_	_	_	_	_	B-Goal
+2	operation	_	operation	_	NN	0	_	_	_	_	_	_	_	I-Goal
+3	whose	_	whose	_	WP$	0	_	_	_	_	_	_	_	S-Agent
+4	ultimate	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+5	goal	_	goal	_	NN	0	_	_	_	_	_	goal.n	Purpose	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Goal
+8	defeat	_	defeat	_	VB	0	_	_	_	_	_	_	_	I-Goal
+9	nationalism	_	nationalism	_	NN	0	_	_	_	_	_	_	_	I-Goal
+10	at	_	at	_	IN	0	_	_	_	_	_	_	_	I-Goal
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Goal
+12	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Goal
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	an	_	An	_	DT	0	_	_	_	_	_	_	_	O
+2	operation	_	operation	_	NN	0	_	_	_	_	_	_	_	O
+3	whose	_	whose	_	WP$	0	_	_	_	_	_	_	_	O
+4	ultimate	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+5	goal	_	goal	_	NN	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	defeat	_	defeat	_	VB	0	_	_	_	_	_	defeat.v	Beat_opponent	O
+9	nationalism	_	nationalism	_	NN	0	_	_	_	_	_	_	_	B-Competition
+10	at	_	at	_	IN	0	_	_	_	_	_	_	_	I-Competition
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Competition
+12	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Competition
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	an	_	An	_	DT	0	_	_	_	_	_	_	_	B-Figure
+2	operation	_	operation	_	NN	0	_	_	_	_	_	_	_	I-Figure
+3	whose	_	whose	_	WP$	0	_	_	_	_	_	_	_	I-Figure
+4	ultimate	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Figure
+5	goal	_	goal	_	NN	0	_	_	_	_	_	_	_	I-Figure
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	I-Figure
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Figure
+8	defeat	_	defeat	_	VB	0	_	_	_	_	_	_	_	I-Figure
+9	nationalism	_	nationalism	_	NN	0	_	_	_	_	_	_	_	I-Figure
+10	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+12	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Ground
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

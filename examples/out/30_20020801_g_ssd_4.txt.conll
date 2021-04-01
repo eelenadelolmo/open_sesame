@@ -1,0 +1,22 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Potential_hindrance
+2	station	_	station	_	NN	0	_	_	_	_	_	_	_	I-Potential_hindrance
+3	stopped	_	stop	_	VBD	0	_	_	_	_	_	stop.v	Preventing_or_letting	O
+4	broadcasting	_	broadcast	_	VBG	0	_	_	_	_	_	_	_	B-Event
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Event
+6	25	_	25	_	CD	0	_	_	_	_	_	_	_	I-Event
+7	may	_	May	_	NNP	0	_	_	_	_	_	_	_	I-Event
+8	last	_	last	_	JJ	0	_	_	_	_	_	_	_	I-Event
+9	year	_	year	_	NN	0	_	_	_	_	_	_	_	I-Event
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	station	_	station	_	NN	0	_	_	_	_	_	_	_	O
+3	stopped	_	stop	_	VBD	0	_	_	_	_	_	_	_	O
+4	broadcasting	_	broadcast	_	VBG	0	_	_	_	_	_	_	_	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	25	_	25	_	CD	0	_	_	_	_	_	_	_	O
+7	may	_	May	_	NNP	0	_	_	_	_	_	_	_	O
+8	last	_	last	_	JJ	0	_	_	_	_	_	_	_	S-Relative_time
+9	year	_	year	_	NN	0	_	_	_	_	_	year.n	Calendric_unit	S-Unit
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

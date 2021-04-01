@@ -1,0 +1,10 @@
+1	or	_	Or	_	CC	0	_	_	_	_	_	_	_	O
+2	maybe	_	maybe	_	RB	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	first	_	First	_	NNP	0	_	_	_	_	_	first.adv	First_experience	O
+7	world	_	World	_	NNP	0	_	_	_	_	_	_	_	B-Experience
+8	war	_	War	_	NNP	0	_	_	_	_	_	_	_	I-Experience
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

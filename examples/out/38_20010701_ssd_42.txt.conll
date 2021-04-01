@@ -1,0 +1,9 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	as	_	a	_	IN	0	_	_	_	_	_	_	_	O
+5	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Perceiver_passive
+6	see	_	see	_	VBP	0	_	_	_	_	_	see.v	Perception_experience	O
+7	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Phenomenon
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

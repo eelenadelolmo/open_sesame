@@ -1,0 +1,60 @@
+1	many	_	Many	_	JJ	0	_	_	_	_	_	many.a	Quantified_mass	S-Quantity
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Individuals
+3	today	_	today	_	NN	0	_	_	_	_	_	_	_	I-Individuals
+4	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Individuals
+5	bands	_	band	_	NNS	0	_	_	_	_	_	_	_	I-Individuals
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+9	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+10	live	_	live	_	JJ	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	O
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+3	today	_	today	_	NN	0	_	_	_	_	_	today.n	Calendric_unit	S-Unit
+4	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+5	bands	_	band	_	NNS	0	_	_	_	_	_	_	_	O
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+9	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+10	live	_	live	_	JJ	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	B-Aggregate_property
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Aggregate_property
+3	today	_	today	_	NN	0	_	_	_	_	_	_	_	I-Aggregate_property
+4	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Aggregate_property
+5	bands	_	band	_	NNS	0	_	_	_	_	_	band.n	Aggregate	S-Aggregate
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+9	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+10	live	_	live	_	JJ	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	B-Sound_source
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Sound_source
+3	today	_	today	_	NN	0	_	_	_	_	_	_	_	I-Sound_source
+4	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Sound_source
+5	bands	_	band	_	NNS	0	_	_	_	_	_	_	_	I-Sound_source
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+9	play	_	play	_	VB	0	_	_	_	_	_	play.v	Make_noise	O
+10	live	_	live	_	JJ	0	_	_	_	_	_	_	_	S-Path
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	B-Location
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Location
+3	today	_	today	_	NN	0	_	_	_	_	_	_	_	I-Location
+4	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Location
+5	bands	_	band	_	NNS	0	_	_	_	_	_	_	_	I-Location
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+9	play	_	play	_	VB	0	_	_	_	_	_	_	_	O
+10	live	_	live	_	JJ	0	_	_	_	_	_	live.v	Residence	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

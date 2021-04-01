@@ -1,0 +1,23 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	can	_	Can	_	MD	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Resident
+4	space	_	space	_	NN	0	_	_	_	_	_	_	_	I-Resident
+5	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Resident
+6	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Resident
+7	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+8	occupied	_	occupy	_	VBN	0	_	_	_	_	_	occupy.v	Residence	O
+9	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+10	promoting	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+11	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+12	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+13	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+14	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+15	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+16	nationalist	_	nationalist	_	JJ	0	_	_	_	_	_	_	_	O
+17	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+18	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+19	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+20	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+21	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+22	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

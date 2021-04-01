@@ -1,0 +1,5 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	S-Stimulus
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	boring	_	bore	_	VBG	0	_	_	_	_	_	bore.v	Experiencer_obj	O
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

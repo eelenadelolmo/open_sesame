@@ -1,0 +1,30 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	former	_	former	_	JJ	0	_	_	_	_	_	former.a	Time_vector	O
+3	tax	_	tax	_	NN	0	_	_	_	_	_	_	_	S-Event
+4	adviser	_	adviser	_	NN	0	_	_	_	_	_	_	_	O
+5	travelled	_	travel	_	VBD	0	_	_	_	_	_	_	_	O
+6	constantly	_	constantly	_	RB	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	switzerland	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+10	liechtenstein	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+12	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+13	1990s	_	1990s	_	NNS	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Traveler
+2	former	_	former	_	JJ	0	_	_	_	_	_	_	_	I-Traveler
+3	tax	_	tax	_	NN	0	_	_	_	_	_	_	_	I-Traveler
+4	adviser	_	adviser	_	NN	0	_	_	_	_	_	_	_	I-Traveler
+5	travelled	_	travel	_	VBD	0	_	_	_	_	_	travel.v	Travel	O
+6	constantly	_	constantly	_	RB	0	_	_	_	_	_	_	_	B-Goal
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Goal
+8	switzerland	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Goal
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Goal
+10	liechtenstein	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Goal
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Time
+12	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+13	1990s	_	1990s	_	NNS	0	_	_	_	_	_	_	_	I-Time
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

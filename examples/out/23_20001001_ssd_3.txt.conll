@@ -1,0 +1,14 @@
+1	robert	_	Robert	_	NNP	0	_	_	_	_	_	_	_	B-Recipient
+2	de	_	de	_	IN	0	_	_	_	_	_	_	_	I-Recipient
+3	niro	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Recipient
+4	trotted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+5	through	_	through	_	IN	0	_	_	_	_	_	_	_	O
+6	san	_	San	_	NNP	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	receive	_	receive	_	VB	0	_	_	_	_	_	receive.v	Receiving	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Theme
+11	donostia	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+12	prize	_	Prize	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

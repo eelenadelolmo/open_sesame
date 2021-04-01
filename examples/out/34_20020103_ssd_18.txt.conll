@@ -1,0 +1,39 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Theme
+3	left	_	leave	_	VBD	0	_	_	_	_	_	leave.v	Departing	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Path
+5	girlfriend	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Path
+6	standing	_	standing	_	NN	0	_	_	_	_	_	_	_	I-Path
+7	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Path
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Path
+9	altar	_	altar	_	NN	0	_	_	_	_	_	_	_	I-Path
+10	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+11	vanished	_	vanish	_	VBD	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+3	left	_	leave	_	VBD	0	_	_	_	_	_	_	_	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+5	girlfriend	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	standing	_	standing	_	NN	0	_	_	_	_	_	_	_	O
+7	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	altar	_	altar	_	NN	0	_	_	_	_	_	altar.n	Building_subparts	S-Building_part
+10	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+11	vanished	_	vanish	_	VBD	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+3	left	_	leave	_	VBD	0	_	_	_	_	_	_	_	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+5	girlfriend	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	standing	_	standing	_	NN	0	_	_	_	_	_	_	_	O
+7	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	altar	_	altar	_	NN	0	_	_	_	_	_	_	_	O
+10	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+11	vanished	_	vanish	_	VBD	0	_	_	_	_	_	vanish.v	Departing	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

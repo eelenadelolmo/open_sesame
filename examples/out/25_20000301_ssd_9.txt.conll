@@ -1,0 +1,56 @@
+1	joan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+5	one	_	one	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Entity
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Entity
+8	most	_	most	_	RBS	0	_	_	_	_	_	_	_	I-Entity
+9	internationally	_	internationally	_	RB	0	_	_	_	_	_	_	_	I-Entity
+10	renowned	_	renowned	_	VBN	0	_	_	_	_	_	_	_	I-Entity
+11	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Entity
+12	artists	_	artist	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	joan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+5	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	most	_	most	_	RBS	0	_	_	_	_	_	_	_	S-Descriptor
+9	internationally	_	internationally	_	RB	0	_	_	_	_	_	internationally.adv	Political_locales	B-Locale
+10	renowned	_	renowned	_	VBN	0	_	_	_	_	_	_	_	I-Locale
+11	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Locale
+12	artists	_	artist	_	NNS	0	_	_	_	_	_	_	_	I-Locale
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	joan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+5	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	most	_	most	_	RBS	0	_	_	_	_	_	_	_	B-Degree
+9	internationally	_	internationally	_	RB	0	_	_	_	_	_	_	_	I-Degree
+10	renowned	_	renowned	_	VBN	0	_	_	_	_	_	renowned.a	Fame	O
+11	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Entity
+12	artists	_	artist	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	joan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+5	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	most	_	most	_	RBS	0	_	_	_	_	_	_	_	B-Descriptor
+9	internationally	_	internationally	_	RB	0	_	_	_	_	_	_	_	I-Descriptor
+10	renowned	_	renowned	_	VBN	0	_	_	_	_	_	_	_	I-Descriptor
+11	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Descriptor
+12	artists	_	artist	_	NNS	0	_	_	_	_	_	artist.n	Create_physical_artwork	S-Creator
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

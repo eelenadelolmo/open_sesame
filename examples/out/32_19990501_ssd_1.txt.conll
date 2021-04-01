@@ -1,0 +1,40 @@
+1	between	_	UNK	_	IN	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	three	_	three	_	CD	0	_	_	_	_	_	_	_	O
+5	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	40	_	40	_	CD	0	_	_	_	_	_	_	_	O
+8	wounded	_	wound	_	VBD	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	between	_	UNK	_	IN	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	three	_	three	_	CD	0	_	_	_	_	_	three.num	Cardinal_numbers	S-Number
+5	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	S-Unit
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	40	_	40	_	CD	0	_	_	_	_	_	_	_	O
+8	wounded	_	wound	_	VBD	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	between	_	UNK	_	IN	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	three	_	three	_	CD	0	_	_	_	_	_	_	_	O
+5	dead	_	dead	_	JJ	0	_	_	_	_	_	dead.a	Dead_or_alive	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	40	_	40	_	CD	0	_	_	_	_	_	_	_	O
+8	wounded	_	wound	_	VBD	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	between	_	UNK	_	IN	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+4	three	_	three	_	CD	0	_	_	_	_	_	_	_	O
+5	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	40	_	40	_	CD	0	_	_	_	_	_	_	_	S-Degree
+8	wounded	_	wound	_	VBD	0	_	_	_	_	_	wound.v	Cause_harm	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

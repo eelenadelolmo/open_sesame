@@ -1,0 +1,18 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	failure	_	failure	_	NN	0	_	_	_	_	_	failure.n	Success_or_failure	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	primakov	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+6	trip	_	trip	_	NN	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	yugoslavia	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+10	germany	_	Germany	_	NNP	0	_	_	_	_	_	_	_	O
+11	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	attributed	_	attribute	_	VBN	0	_	_	_	_	_	_	_	O
+13	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+14	nato	_	NATO	_	NNP	0	_	_	_	_	_	_	_	O
+15	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+16	intransigence	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,30 @@
+1	complaint	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+3	lack	_	lack	_	NN	0	_	_	_	_	_	lack.n	Possession	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Possession
+5	vet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Possession
+6	places	_	place	_	NNS	0	_	_	_	_	_	_	_	I-Possession
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Possession
+8	tarragona	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Possession
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	complaint	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+3	lack	_	lack	_	NN	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	vet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Inherent_purpose
+6	places	_	place	_	NNS	0	_	_	_	_	_	place.n	Locale	S-Locale
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	tarragona	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	complaint	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+3	lack	_	lack	_	NN	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	vet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Figure
+6	places	_	place	_	NNS	0	_	_	_	_	_	_	_	I-Figure
+7	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+8	tarragona	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Ground
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

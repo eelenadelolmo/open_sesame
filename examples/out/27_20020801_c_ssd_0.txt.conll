@@ -1,0 +1,32 @@
+1	14	_	14	_	CD	0	_	_	_	_	_	_	_	S-Count
+2	hours	_	hour	_	NNS	0	_	_	_	_	_	hour.n	Calendric_unit	S-Unit
+3	waiting	_	wait	_	VBG	0	_	_	_	_	_	_	_	O
+4	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+5	mao	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	airport	_	airport	_	NN	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	14	_	14	_	CD	0	_	_	_	_	_	_	_	B-Place
+2	hours	_	hour	_	NNS	0	_	_	_	_	_	_	_	I-Place
+3	waiting	_	wait	_	VBG	0	_	_	_	_	_	wait.v	Waiting	O
+4	at	_	at	_	IN	0	_	_	_	_	_	_	_	B-Place
+5	mao	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Place
+6	airport	_	airport	_	NN	0	_	_	_	_	_	_	_	I-Place
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	14	_	14	_	CD	0	_	_	_	_	_	_	_	O
+2	hours	_	hour	_	NNS	0	_	_	_	_	_	_	_	O
+3	waiting	_	wait	_	VBG	0	_	_	_	_	_	_	_	O
+4	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+5	mao	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Ground
+6	airport	_	airport	_	NN	0	_	_	_	_	_	_	_	I-Ground
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	14	_	14	_	CD	0	_	_	_	_	_	_	_	O
+2	hours	_	hour	_	NNS	0	_	_	_	_	_	_	_	O
+3	waiting	_	wait	_	VBG	0	_	_	_	_	_	_	_	O
+4	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+5	mao	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Name
+6	airport	_	airport	_	NN	0	_	_	_	_	_	airport.n	Buildings	S-Building
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

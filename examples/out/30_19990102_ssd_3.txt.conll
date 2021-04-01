@@ -1,0 +1,52 @@
+1	karadzic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Partner_1
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Partner_1
+3	wife	_	wife	_	NN	0	_	_	_	_	_	wife.n	Personal_relationship	S-Partner_2
+4	overemphasized	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	arrest	_	arrest	_	JJS	0	_	_	_	_	_	_	_	O
+7	warrants	_	warrant	_	NNS	0	_	_	_	_	_	_	_	O
+8	issued	_	issue	_	VBN	0	_	_	_	_	_	_	_	O
+9	against	_	against	_	IN	0	_	_	_	_	_	_	_	O
+10	her	_	her	_	PRP$	0	_	_	_	_	_	_	_	O
+11	husband	_	husband	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	karadzic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+3	wife	_	wife	_	NN	0	_	_	_	_	_	_	_	O
+4	overemphasized	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	arrest	_	arrest	_	JJS	0	_	_	_	_	_	arrest.v	Arrest	O
+7	warrants	_	warrant	_	NNS	0	_	_	_	_	_	_	_	S-Suspect
+8	issued	_	issue	_	VBN	0	_	_	_	_	_	_	_	O
+9	against	_	against	_	IN	0	_	_	_	_	_	_	_	O
+10	her	_	her	_	PRP$	0	_	_	_	_	_	_	_	O
+11	husband	_	husband	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	karadzic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+3	wife	_	wife	_	NN	0	_	_	_	_	_	_	_	O
+4	overemphasized	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	arrest	_	arrest	_	JJS	0	_	_	_	_	_	_	_	S-Descriptor
+7	warrants	_	warrant	_	NNS	0	_	_	_	_	_	warrant.n	Documents	S-Document
+8	issued	_	issue	_	VBN	0	_	_	_	_	_	_	_	O
+9	against	_	against	_	IN	0	_	_	_	_	_	_	_	O
+10	her	_	her	_	PRP$	0	_	_	_	_	_	_	_	O
+11	husband	_	husband	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	karadzic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+3	wife	_	wife	_	NN	0	_	_	_	_	_	_	_	O
+4	overemphasized	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	arrest	_	arrest	_	JJS	0	_	_	_	_	_	_	_	O
+7	warrants	_	warrant	_	NNS	0	_	_	_	_	_	_	_	O
+8	issued	_	issue	_	VBN	0	_	_	_	_	_	_	_	O
+9	against	_	against	_	IN	0	_	_	_	_	_	_	_	O
+10	her	_	her	_	PRP$	0	_	_	_	_	_	_	_	S-Partner_2
+11	husband	_	husband	_	NN	0	_	_	_	_	_	husband.n	Personal_relationship	S-Partner_1
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

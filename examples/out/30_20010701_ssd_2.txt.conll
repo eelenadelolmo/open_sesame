@@ -1,0 +1,6 @@
+1	silence	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	answer	_	answer	_	NN	0	_	_	_	_	_	answer.n	Communication_response	O
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

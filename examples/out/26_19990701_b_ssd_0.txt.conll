@@ -1,0 +1,18 @@
+1	odyssey	_	Odyssey	_	NNP	0	_	_	_	_	_	_	_	S-Figure
+2	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+4	clinic	_	clinic	_	JJ	0	_	_	_	_	_	_	_	I-Ground
+5	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Ground
+6	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	I-Ground
+7	son	_	son	_	NN	0	_	_	_	_	_	_	_	I-Ground
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	odyssey	_	Odyssey	_	NNP	0	_	_	_	_	_	_	_	O
+2	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	clinic	_	clinic	_	JJ	0	_	_	_	_	_	_	_	O
+5	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+6	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	S-Ego
+7	son	_	son	_	NN	0	_	_	_	_	_	son.n	Kinship	S-Alter
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

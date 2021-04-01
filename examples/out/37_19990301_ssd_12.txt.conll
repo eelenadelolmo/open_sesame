@@ -1,0 +1,10 @@
+1	no	_	No	_	DT	0	_	_	_	_	_	_	_	O
+2	more	_	more	_	JJR	0	_	_	_	_	_	more.a	Increment	O
+3	artifacts	_	artifact	_	NNS	0	_	_	_	_	_	_	_	S-Class
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	no	_	No	_	DT	0	_	_	_	_	_	_	_	O
+2	more	_	more	_	JJR	0	_	_	_	_	_	_	_	O
+3	artifacts	_	artifact	_	NNS	0	_	_	_	_	_	artifact.n	Artifact	O
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

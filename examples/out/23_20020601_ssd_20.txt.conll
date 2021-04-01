@@ -1,0 +1,39 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Speaker
+2	four	_	four	_	CD	0	_	_	_	_	_	_	_	I-Speaker
+3	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	I-Speaker
+4	union	_	union	_	NN	0	_	_	_	_	_	_	_	I-Speaker
+5	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	I-Speaker
+6	reject	_	reject	_	VBP	0	_	_	_	_	_	reject.v	Respond_to_proposal	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Proposal
+8	signing	_	sign	_	VBG	0	_	_	_	_	_	_	_	I-Proposal
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Proposal
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Proposal
+11	agreement	_	agreement	_	NN	0	_	_	_	_	_	_	_	I-Proposal
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	four	_	four	_	CD	0	_	_	_	_	_	_	_	O
+3	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	O
+4	union	_	union	_	NN	0	_	_	_	_	_	_	_	O
+5	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	O
+6	reject	_	reject	_	VBP	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	signing	_	sign	_	VBG	0	_	_	_	_	_	sign.v	Sign_agreement	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Agreement
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Agreement
+11	agreement	_	agreement	_	NN	0	_	_	_	_	_	_	_	I-Agreement
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	four	_	four	_	CD	0	_	_	_	_	_	_	_	O
+3	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	O
+4	union	_	union	_	NN	0	_	_	_	_	_	_	_	O
+5	centres	_	centre	_	NNS	0	_	_	_	_	_	_	_	O
+6	reject	_	reject	_	VBP	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	signing	_	sign	_	VBG	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	agreement	_	agreement	_	NN	0	_	_	_	_	_	agreement.n	Make_agreement_on_action	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

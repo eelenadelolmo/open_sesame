@@ -1,0 +1,30 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	idea	_	idea	_	NN	0	_	_	_	_	_	idea.n	Awareness	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Cognizer
+4	rne	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Cognizer
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	cede	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	land	_	land	_	NN	0	_	_	_	_	_	_	_	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+12	state	_	State	_	NNP	0	_	_	_	_	_	_	_	O
+13	heritage	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	idea	_	idea	_	NN	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	rne	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	cede	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	land	_	land	_	NN	0	_	_	_	_	_	_	_	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+12	state	_	State	_	NNP	0	_	_	_	_	_	state.n	Leadership	B-Leader
+13	heritage	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Leader
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

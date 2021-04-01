@@ -1,0 +1,13 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Agent
+2	generalitat	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+3	assumes	_	assume	_	VBZ	0	_	_	_	_	_	assume.v	Adopt_selection	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Attribute
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Attribute
+6	user	_	user	_	NN	0	_	_	_	_	_	_	_	I-Attribute
+7	does	_	do	_	VBZ	0	_	_	_	_	_	_	_	I-Attribute
+8	not	_	not	_	RB	0	_	_	_	_	_	_	_	I-Attribute
+9	trust	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Attribute
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Attribute
+11	cacs	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Attribute
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

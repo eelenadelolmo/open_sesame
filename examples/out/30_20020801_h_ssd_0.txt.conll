@@ -1,0 +1,9 @@
+1	issued	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+2	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+3	sant	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	joan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	album	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+7	drugs	_	drug	_	NNS	0	_	_	_	_	_	drug.n	Intoxicants	S-Intoxicant
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

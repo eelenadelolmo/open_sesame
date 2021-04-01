@@ -1,0 +1,7 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Event
+2	finally	_	finally	_	RB	0	_	_	_	_	_	finally.adv	Time_vector	O
+3	got	_	get	_	VBD	0	_	_	_	_	_	_	_	B-Event
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Event
+5	flan	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

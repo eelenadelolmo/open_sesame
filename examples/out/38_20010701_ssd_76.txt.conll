@@ -1,0 +1,21 @@
+1	how	_	How	_	WRB	0	_	_	_	_	_	_	_	S-Concept_1
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	relationship	_	relationship	_	NN	0	_	_	_	_	_	relationship.n	Cognitive_connection	O
+5	between	_	between	_	IN	0	_	_	_	_	_	_	_	B-Concept_2
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Concept_2
+7	beatles	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Concept_2
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Concept_2
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Concept_2
+10	stones	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Concept_2
+11	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+12	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+13	1960s	_	1960s	_	CD	0	_	_	_	_	_	_	_	O
+14	really	_	really	_	RB	0	_	_	_	_	_	_	_	O
+15	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+16	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+17	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+18	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+19	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+20	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

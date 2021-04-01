@@ -1,0 +1,36 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	havana	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	summit	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Selector
+7	elections	_	election	_	NNS	0	_	_	_	_	_	election.n	Change_of_leadership	O
+8	focused	_	focus	_	VBD	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	meeting	_	meeting	_	NN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Agent
+2	havana	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+3	summit	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+4	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Agent
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Agent
+6	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+7	elections	_	election	_	NNS	0	_	_	_	_	_	_	_	I-Agent
+8	focused	_	focus	_	VBD	0	_	_	_	_	_	focus.v	Emphasizing	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Consideration
+10	meeting	_	meeting	_	NN	0	_	_	_	_	_	_	_	I-Consideration
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	havana	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	summit	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	elections	_	election	_	NNS	0	_	_	_	_	_	_	_	O
+8	focused	_	focus	_	VBD	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	meeting	_	meeting	_	NN	0	_	_	_	_	_	meeting.n	Discussion	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

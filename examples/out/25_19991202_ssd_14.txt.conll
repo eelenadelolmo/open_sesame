@@ -1,0 +1,18 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	payer	_	payer	_	NN	0	_	_	_	_	_	payer.n	Commerce_pay	O
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+6	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+7	afraid	_	afraid	_	JJ	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	payer	_	payer	_	NN	0	_	_	_	_	_	_	_	O
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Experiencer
+6	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+7	afraid	_	afraid	_	JJ	0	_	_	_	_	_	afraid.a	Fear	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,22 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	constitutional	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Entity
+3	reform	_	reform	_	NN	0	_	_	_	_	_	reform.n	Reforming_a_system	O
+4	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	backdrop	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+7	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	confrontation	_	confrontation	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	constitutional	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+3	reform	_	reform	_	NN	0	_	_	_	_	_	_	_	O
+4	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	backdrop	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+7	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	confrontation	_	confrontation	_	NN	0	_	_	_	_	_	confrontation.n	Hostile_encounter	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

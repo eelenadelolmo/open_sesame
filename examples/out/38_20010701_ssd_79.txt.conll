@@ -1,0 +1,14 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	press	_	press	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	responsible	_	responsible	_	JJ	0	_	_	_	_	_	_	_	O
+8	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+9	fueling	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+11	non-existent	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+12	war	_	war	_	NN	0	_	_	_	_	_	war.n	Hostile_encounter	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

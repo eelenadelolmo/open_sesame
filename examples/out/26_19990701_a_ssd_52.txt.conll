@@ -1,0 +1,7 @@
+1	ta	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	from	_	from	_	IN	0	_	_	_	_	_	_	_	O
+3	me	_	me	_	PRP	0	_	_	_	_	_	_	_	O
+4	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+5	unfair	_	unfair	_	JJ	0	_	_	_	_	_	unfair.a	Fairness_evaluation	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

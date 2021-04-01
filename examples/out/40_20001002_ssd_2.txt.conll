@@ -1,0 +1,12 @@
+1	painted	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	insults	_	insult	_	NNS	0	_	_	_	_	_	insult.n	Cause_emotion	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	institutional	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	neglect	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	assaults	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+10	homicides	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

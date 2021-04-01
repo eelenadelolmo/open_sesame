@@ -1,0 +1,55 @@
+1	several	_	Several	_	JJ	0	_	_	_	_	_	several.a	Quantified_mass	S-Quantity
+2	mass	_	mass	_	NN	0	_	_	_	_	_	_	_	B-Individuals
+3	graves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Individuals
+4	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	discovered	_	discover	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	region	_	region	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	several	_	Several	_	JJ	0	_	_	_	_	_	_	_	O
+2	mass	_	mass	_	NN	0	_	_	_	_	_	mass.n	Quantified_mass	S-Quantity
+3	graves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Individuals
+4	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	discovered	_	discover	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	region	_	region	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	several	_	Several	_	JJ	0	_	_	_	_	_	_	_	B-Phenomenon
+2	mass	_	mass	_	NN	0	_	_	_	_	_	_	_	I-Phenomenon
+3	graves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Phenomenon
+4	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	discovered	_	discover	_	VBN	0	_	_	_	_	_	discover.v	Becoming_aware	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Ground
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Ground
+9	region	_	region	_	NN	0	_	_	_	_	_	_	_	I-Ground
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	several	_	Several	_	JJ	0	_	_	_	_	_	_	_	B-Figure
+2	mass	_	mass	_	NN	0	_	_	_	_	_	_	_	I-Figure
+3	graves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Figure
+4	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	discovered	_	discover	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+9	region	_	region	_	NN	0	_	_	_	_	_	_	_	I-Ground
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	several	_	Several	_	JJ	0	_	_	_	_	_	_	_	O
+2	mass	_	mass	_	NN	0	_	_	_	_	_	_	_	O
+3	graves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+4	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	discovered	_	discover	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	region	_	region	_	NN	0	_	_	_	_	_	region.n	Locale	S-Locale
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

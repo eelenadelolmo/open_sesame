@@ -1,0 +1,32 @@
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	recommends	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+4	those	_	those	_	DT	0	_	_	_	_	_	_	_	O
+5	affected	_	affect	_	VBD	0	_	_	_	_	_	affect.v	Objective_influence	O
+6	fill	_	fill	_	NN	0	_	_	_	_	_	_	_	O
+7	out	_	out	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	complaint	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	sheet	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+12	report	_	report	_	VB	0	_	_	_	_	_	_	_	O
+13	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+14	infringement	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	recommends	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+4	those	_	those	_	DT	0	_	_	_	_	_	_	_	O
+5	affected	_	affect	_	VBD	0	_	_	_	_	_	_	_	O
+6	fill	_	fill	_	NN	0	_	_	_	_	_	_	_	O
+7	out	_	out	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	complaint	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	sheet	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+12	report	_	report	_	VB	0	_	_	_	_	_	report.v	Statement	O
+13	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Message
+14	infringement	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Message
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

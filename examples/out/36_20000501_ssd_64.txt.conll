@@ -1,0 +1,26 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Event
+2	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+3	continue	_	continue	_	VB	0	_	_	_	_	_	continue.v	Process_continue	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Event
+5	defend	_	defend	_	VB	0	_	_	_	_	_	_	_	I-Event
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Event
+7	coexistence	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Event
+9	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Event
+10	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Event
+11	spanish	_	Spanish	_	NNP	0	_	_	_	_	_	_	_	I-Event
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Assailant
+2	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+3	continue	_	continue	_	VB	0	_	_	_	_	_	_	_	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+5	defend	_	defend	_	VB	0	_	_	_	_	_	defend.v	Defending	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Victim
+7	coexistence	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Victim
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Victim
+9	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Victim
+10	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Victim
+11	spanish	_	Spanish	_	NNP	0	_	_	_	_	_	_	_	I-Victim
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

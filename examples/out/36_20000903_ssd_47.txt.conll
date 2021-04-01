@@ -1,0 +1,27 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+2	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+3	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+4	believe	_	believe	_	VB	0	_	_	_	_	_	believe.v	Certainty	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Content
+6	historical	_	historical	_	JJ	0	_	_	_	_	_	_	_	I-Content
+7	repairs	_	repair	_	NNS	0	_	_	_	_	_	_	_	I-Content
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	B-Figure
+2	do	_	do	_	VBP	0	_	_	_	_	_	_	_	I-Figure
+3	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	I-Figure
+4	believe	_	believe	_	VB	0	_	_	_	_	_	_	_	I-Figure
+5	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+6	historical	_	historical	_	JJ	0	_	_	_	_	_	_	_	B-Ground
+7	repairs	_	repair	_	NNS	0	_	_	_	_	_	_	_	I-Ground
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+3	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+4	believe	_	believe	_	VB	0	_	_	_	_	_	_	_	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+6	historical	_	historical	_	JJ	0	_	_	_	_	_	_	_	S-Self_mover
+7	repairs	_	repair	_	NNS	0	_	_	_	_	_	repair.v	Self_motion	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

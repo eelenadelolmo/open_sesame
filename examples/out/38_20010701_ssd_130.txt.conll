@@ -1,0 +1,45 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+3	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	S-Ego
+4	daughters	_	daughter	_	NNS	0	_	_	_	_	_	daughter.n	Kinship	S-Alter
+5	now	_	now	_	RB	0	_	_	_	_	_	_	_	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+8	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+9	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+10	trade	_	trade	_	VB	0	_	_	_	_	_	_	_	O
+11	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+12	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+13	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+3	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	B-Trajector_event
+4	daughters	_	daughter	_	NNS	0	_	_	_	_	_	_	_	I-Trajector_event
+5	now	_	now	_	RB	0	_	_	_	_	_	now.adv	Temporal_collocation	O
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+8	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+9	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+10	trade	_	trade	_	VB	0	_	_	_	_	_	_	_	O
+11	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+12	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+13	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Exchanger_1
+2	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+3	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	B-Exchanger_1
+4	daughters	_	daughter	_	NNS	0	_	_	_	_	_	_	_	I-Exchanger_1
+5	now	_	now	_	RB	0	_	_	_	_	_	_	_	S-Time
+6	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Exchanger_1
+8	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+9	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+10	trade	_	trade	_	VB	0	_	_	_	_	_	trade.v	Exchange	O
+11	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Theme_1
+12	for	_	for	_	IN	0	_	_	_	_	_	_	_	I-Theme_1
+13	anything	_	anything	_	NN	0	_	_	_	_	_	_	_	I-Theme_1
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

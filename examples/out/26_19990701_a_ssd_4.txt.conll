@@ -1,0 +1,34 @@
+1	last	_	Last	_	JJ	0	_	_	_	_	_	last.a	Relative_time	O
+2	night	_	night	_	NN	0	_	_	_	_	_	_	_	S-Focal_occasion
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	grup	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	set	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	foundation	_	Foundation	_	NNP	0	_	_	_	_	_	_	_	O
+8	awarded	_	award	_	VBD	0	_	_	_	_	_	_	_	O
+9	him	_	him	_	PRP	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	citizen	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+12	award	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+13	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+14	honors	_	honor	_	NNS	0	_	_	_	_	_	_	_	O
+15	us	_	u	_	PRP	0	_	_	_	_	_	_	_	O
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	last	_	Last	_	JJ	0	_	_	_	_	_	_	_	S-Relative_time
+2	night	_	night	_	NN	0	_	_	_	_	_	night.n	Calendric_unit	S-Unit
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	grup	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	set	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	foundation	_	Foundation	_	NNP	0	_	_	_	_	_	_	_	O
+8	awarded	_	award	_	VBD	0	_	_	_	_	_	_	_	O
+9	him	_	him	_	PRP	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	citizen	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+12	award	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+13	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+14	honors	_	honor	_	NNS	0	_	_	_	_	_	_	_	O
+15	us	_	u	_	PRP	0	_	_	_	_	_	_	_	O
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

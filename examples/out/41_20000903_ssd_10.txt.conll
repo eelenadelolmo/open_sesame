@@ -1,0 +1,39 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	beginnings	_	beginning	_	NNS	0	_	_	_	_	_	beginning.n	Temporal_subregion	S-Subpart
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Time_period
+4	social	_	social	_	JJ	0	_	_	_	_	_	_	_	I-Time_period
+5	transformations	_	transformation	_	NNS	0	_	_	_	_	_	_	_	I-Time_period
+6	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+7	imply	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+9	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	O
+10	legal	_	legal	_	JJ	0	_	_	_	_	_	_	_	O
+11	impasse	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	beginnings	_	beginning	_	NNS	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	social	_	social	_	JJ	0	_	_	_	_	_	_	_	S-Entity
+5	transformations	_	transformation	_	NNS	0	_	_	_	_	_	transformation.n	Cause_change	O
+6	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+7	imply	_	UNK	_	RB	0	_	_	_	_	_	_	_	B-Final_category
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Final_category
+9	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	I-Final_category
+10	legal	_	legal	_	JJ	0	_	_	_	_	_	_	_	I-Final_category
+11	impasse	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Final_category
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	beginnings	_	beginning	_	NNS	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	social	_	social	_	JJ	0	_	_	_	_	_	_	_	O
+5	transformations	_	transformation	_	NNS	0	_	_	_	_	_	_	_	O
+6	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+7	imply	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+9	certain	_	certain	_	JJ	0	_	_	_	_	_	certain.a	Idiosyncrasy	O
+10	legal	_	legal	_	JJ	0	_	_	_	_	_	_	_	B-Entity
+11	impasse	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Entity
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

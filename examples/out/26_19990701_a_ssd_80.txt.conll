@@ -1,0 +1,26 @@
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	B-Event
+2	invention	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+3	allowed	_	allow	_	VBD	0	_	_	_	_	_	allow.v	Preventing_or_letting	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Event
+5	cotton	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+6	thread	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	stretch	_	stretch	_	VB	0	_	_	_	_	_	_	_	O
+9	mechanically	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+10	without	_	without	_	IN	0	_	_	_	_	_	_	_	O
+11	breaking	_	break	_	VBG	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	invention	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	allowed	_	allow	_	VBD	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	cotton	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+6	thread	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	stretch	_	stretch	_	VB	0	_	_	_	_	_	_	_	O
+9	mechanically	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+10	without	_	without	_	IN	0	_	_	_	_	_	_	_	O
+11	breaking	_	break	_	VBG	0	_	_	_	_	_	break.v	Cause_to_fragment	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

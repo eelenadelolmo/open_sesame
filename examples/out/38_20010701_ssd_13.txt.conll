@@ -1,0 +1,12 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	did	_	Did	_	NNP	0	_	_	_	_	_	_	_	O
+3	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+4	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+5	miss	_	miss	_	VBZ	0	_	_	_	_	_	miss.v	Success_or_failure	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Goal
+7	closeness	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Goal
+8	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Goal
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Goal
+10	public	_	public	_	NN	0	_	_	_	_	_	_	_	I-Goal
+11	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+

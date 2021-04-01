@@ -1,0 +1,48 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	yeah	_	Yeah	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	business	_	business	_	NN	0	_	_	_	_	_	business.n	Businesses	S-Business
+7	started	_	start	_	VBD	0	_	_	_	_	_	_	_	O
+8	killing	_	kill	_	VBG	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	yeah	_	Yeah	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Agent
+6	business	_	business	_	NN	0	_	_	_	_	_	_	_	I-Agent
+7	started	_	start	_	VBD	0	_	_	_	_	_	start.v	Activity_start	O
+8	killing	_	kill	_	VBG	0	_	_	_	_	_	_	_	B-Activity
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Activity
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	I-Activity
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	yeah	_	Yeah	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Killer
+6	business	_	business	_	NN	0	_	_	_	_	_	_	_	I-Killer
+7	started	_	start	_	VBD	0	_	_	_	_	_	_	_	O
+8	killing	_	kill	_	VBG	0	_	_	_	_	_	kill.v	Killing	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Victim
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	I-Victim
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	yeah	_	Yeah	_	NNP	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	business	_	business	_	NN	0	_	_	_	_	_	_	_	O
+7	started	_	start	_	VBD	0	_	_	_	_	_	_	_	O
+8	killing	_	kill	_	VBG	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	music	_	music	_	JJ	0	_	_	_	_	_	music.n	Performing_arts	S-Performance
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

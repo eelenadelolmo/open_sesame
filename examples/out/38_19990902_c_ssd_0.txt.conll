@@ -1,0 +1,10 @@
+1	gil	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Submittor
+2	filed	_	file	_	VBD	0	_	_	_	_	_	file.v	Submitting_documents	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Documents
+4	complaint	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Documents
+5	against	_	against	_	IN	0	_	_	_	_	_	_	_	I-Documents
+6	almunia	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Documents
+7	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Documents
+8	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Documents
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

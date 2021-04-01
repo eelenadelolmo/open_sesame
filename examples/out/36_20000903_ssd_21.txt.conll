@@ -1,0 +1,10 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	political	_	political	_	JJ	0	_	_	_	_	_	_	_	O
+4	justice	_	justice	_	NN	0	_	_	_	_	_	_	_	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	feasible	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Domain
+8	goal	_	goal	_	NN	0	_	_	_	_	_	goal.n	Purpose	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

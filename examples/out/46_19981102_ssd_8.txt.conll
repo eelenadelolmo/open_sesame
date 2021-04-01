@@ -1,0 +1,26 @@
+1	despite	_	Despite	_	IN	0	_	_	_	_	_	_	_	O
+2	official	_	official	_	JJ	0	_	_	_	_	_	official.n	Leadership	S-Role
+3	optimism	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+8	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+9	featured	_	feature	_	VBN	0	_	_	_	_	_	_	_	O
+10	controversial	_	controversial	_	JJ	0	_	_	_	_	_	_	_	O
+11	chapters	_	chapter	_	NNS	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	despite	_	Despite	_	IN	0	_	_	_	_	_	_	_	O
+2	official	_	official	_	JJ	0	_	_	_	_	_	_	_	O
+3	optimism	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+8	have	_	have	_	VBP	0	_	_	_	_	_	_	_	O
+9	featured	_	feature	_	VBN	0	_	_	_	_	_	_	_	O
+10	controversial	_	controversial	_	JJ	0	_	_	_	_	_	_	_	S-Ordinality
+11	chapters	_	chapter	_	NNS	0	_	_	_	_	_	chapter.n	Part_ordered_segments	S-Part
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

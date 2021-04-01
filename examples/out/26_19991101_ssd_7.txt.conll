@@ -1,0 +1,39 @@
+1	international	_	International	_	NNP	0	_	_	_	_	_	international.a	Political_locales	S-Locale
+2	observers	_	observer	_	NNS	0	_	_	_	_	_	_	_	S-Population
+3	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+4	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+5	doubts	_	doubt	_	NNS	0	_	_	_	_	_	_	_	O
+6	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	cleanliness	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	consultation	_	consultation	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	international	_	International	_	NNP	0	_	_	_	_	_	_	_	B-Cognizer
+2	observers	_	observer	_	NNS	0	_	_	_	_	_	_	_	I-Cognizer
+3	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+4	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+5	doubts	_	doubt	_	NNS	0	_	_	_	_	_	doubt.n	Certainty	O
+6	about	_	about	_	IN	0	_	_	_	_	_	_	_	B-Content
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Content
+8	cleanliness	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Content
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Content
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Content
+11	consultation	_	consultation	_	NN	0	_	_	_	_	_	_	_	I-Content
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	international	_	International	_	NNP	0	_	_	_	_	_	_	_	O
+2	observers	_	observer	_	NNS	0	_	_	_	_	_	_	_	O
+3	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+4	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+5	doubts	_	doubt	_	NNS	0	_	_	_	_	_	_	_	O
+6	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	cleanliness	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+11	consultation	_	consultation	_	NN	0	_	_	_	_	_	consultation.n	Discussion	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

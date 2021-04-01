@@ -1,0 +1,12 @@
+1	rambouillet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	starting	_	start	_	VBG	0	_	_	_	_	_	start.v	Activity_start	O
+4	point	_	point	_	NN	0	_	_	_	_	_	_	_	S-Activity
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	rambouillet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	starting	_	start	_	VBG	0	_	_	_	_	_	_	_	O
+4	point	_	point	_	NN	0	_	_	_	_	_	point.n	Locale	S-Locale
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

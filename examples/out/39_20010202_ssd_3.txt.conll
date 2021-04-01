@@ -1,0 +1,10 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	can	_	Can	_	MD	0	_	_	_	_	_	_	_	O
+3	we	_	we	_	PRP	0	_	_	_	_	_	_	_	O
+4	get	_	get	_	VB	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	evidence	_	evidence	_	NN	0	_	_	_	_	_	evidence.n	Evidence	O
+7	against	_	against	_	IN	0	_	_	_	_	_	_	_	B-Proposition
+8	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Proposition
+9	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+

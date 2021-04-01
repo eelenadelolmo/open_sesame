@@ -1,0 +1,16 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	you	_	You	_	PRP	0	_	_	_	_	_	_	_	O
+3	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	college	_	college	_	NN	0	_	_	_	_	_	college.n	Locale_by_use	S-Locale
+6	professor	_	professor	_	NN	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	you	_	You	_	PRP	0	_	_	_	_	_	_	_	O
+3	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+5	college	_	college	_	NN	0	_	_	_	_	_	_	_	S-Institution
+6	professor	_	professor	_	NN	0	_	_	_	_	_	professor.n	Education_teaching	S-Teacher
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

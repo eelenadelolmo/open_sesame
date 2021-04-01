@@ -1,0 +1,24 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	civil	_	civil	_	NN	0	_	_	_	_	_	civil.a	Social_interaction_evaluation	O
+3	war	_	war	_	NN	0	_	_	_	_	_	_	_	S-Behavior
+4	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	unfortunately	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	all	_	all	_	DT	0	_	_	_	_	_	_	_	O
+10	spaniards	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	civil	_	civil	_	NN	0	_	_	_	_	_	_	_	S-Sides
+3	war	_	war	_	NN	0	_	_	_	_	_	war.n	Hostile_encounter	O
+4	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	unfortunately	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	all	_	all	_	DT	0	_	_	_	_	_	_	_	O
+10	spaniards	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

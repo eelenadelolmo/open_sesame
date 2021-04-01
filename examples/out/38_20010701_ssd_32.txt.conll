@@ -1,0 +1,11 @@
+1	have	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Entity
+3	become	_	become	_	VBP	0	_	_	_	_	_	become.v	Becoming	O
+4	conservative	_	conservative	_	JJ	0	_	_	_	_	_	_	_	S-Final_quality
+5	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+6	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+8	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+9	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

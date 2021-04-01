@@ -1,0 +1,36 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	investigation	_	investigation	_	NN	0	_	_	_	_	_	investigation.n	Criminal_investigation	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	passed	_	pass	_	VBN	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	another	_	another	_	DT	0	_	_	_	_	_	_	_	O
+7	judge	_	judge	_	NN	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Process
+2	investigation	_	investigation	_	NN	0	_	_	_	_	_	_	_	I-Process
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	passed	_	pass	_	VBN	0	_	_	_	_	_	pass.v	Process_end	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Manner
+6	another	_	another	_	DT	0	_	_	_	_	_	_	_	I-Manner
+7	judge	_	judge	_	NN	0	_	_	_	_	_	_	_	I-Manner
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	investigation	_	investigation	_	NN	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	passed	_	pass	_	VBN	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	another	_	another	_	DT	0	_	_	_	_	_	another.n	Increment	O
+7	judge	_	judge	_	NN	0	_	_	_	_	_	_	_	S-Class
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	investigation	_	investigation	_	NN	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	passed	_	pass	_	VBN	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	another	_	another	_	DT	0	_	_	_	_	_	_	_	O
+7	judge	_	judge	_	NN	0	_	_	_	_	_	judge.n	People_by_vocation	S-Person
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

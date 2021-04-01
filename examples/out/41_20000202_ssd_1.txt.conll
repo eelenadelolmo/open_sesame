@@ -1,0 +1,30 @@
+1	john	_	John	_	NNP	0	_	_	_	_	_	_	_	B-Agent
+2	mccain	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	brought	_	bring	_	VBN	0	_	_	_	_	_	bring.v	Bringing	O
+5	even	_	even	_	RB	0	_	_	_	_	_	_	_	B-Goal
+6	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	I-Goal
+7	lucky	_	lucky	_	JJ	0	_	_	_	_	_	_	_	I-Goal
+8	charms	_	charm	_	NNS	0	_	_	_	_	_	_	_	I-Goal
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	john	_	John	_	NNP	0	_	_	_	_	_	_	_	O
+2	mccain	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	brought	_	bring	_	VBN	0	_	_	_	_	_	_	_	O
+5	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+6	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+7	lucky	_	lucky	_	JJ	0	_	_	_	_	_	lucky.a	Luck	O
+8	charms	_	charm	_	NNS	0	_	_	_	_	_	_	_	S-State_of_affairs
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	john	_	John	_	NNP	0	_	_	_	_	_	_	_	O
+2	mccain	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+4	brought	_	bring	_	VBN	0	_	_	_	_	_	_	_	O
+5	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+6	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Stimulus
+7	lucky	_	lucky	_	JJ	0	_	_	_	_	_	_	_	I-Stimulus
+8	charms	_	charm	_	NNS	0	_	_	_	_	_	charm.v	Experiencer_obj	I-Stimulus
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

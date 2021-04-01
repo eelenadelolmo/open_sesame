@@ -1,0 +1,24 @@
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	most	_	most	_	RBS	0	_	_	_	_	_	_	_	S-Degree
+8	female	_	female	_	JJ	0	_	_	_	_	_	female.a	Body_description_holistic	O
+9	parliamentary	_	UNK	_	NN	0	_	_	_	_	_	_	_	B-Individual
+10	group	_	group	_	NN	0	_	_	_	_	_	_	_	I-Individual
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	however	_	However	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	most	_	most	_	RBS	0	_	_	_	_	_	_	_	B-Aggregate_property
+8	female	_	female	_	JJ	0	_	_	_	_	_	_	_	I-Aggregate_property
+9	parliamentary	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Aggregate_property
+10	group	_	group	_	NN	0	_	_	_	_	_	group.n	Aggregate	S-Aggregate
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

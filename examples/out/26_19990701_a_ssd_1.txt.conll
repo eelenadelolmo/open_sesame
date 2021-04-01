@@ -1,0 +1,30 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+2	usually	_	usually	_	RB	0	_	_	_	_	_	_	_	O
+3	closes	_	close	_	VBZ	0	_	_	_	_	_	close.v	Closure	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Container_portal
+5	eyes	_	eye	_	NNS	0	_	_	_	_	_	_	_	I-Container_portal
+6	when	_	when	_	WRB	0	_	_	_	_	_	_	_	B-Time
+7	he	_	he	_	PRP	0	_	_	_	_	_	_	_	I-Time
+8	talks	_	talk	_	VBZ	0	_	_	_	_	_	_	_	I-Time
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	usually	_	usually	_	RB	0	_	_	_	_	_	_	_	O
+3	closes	_	close	_	VBZ	0	_	_	_	_	_	_	_	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	S-Possessor
+5	eyes	_	eye	_	NNS	0	_	_	_	_	_	eye.n	Body_parts	S-Body_part
+6	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+7	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+8	talks	_	talk	_	VBZ	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	usually	_	usually	_	RB	0	_	_	_	_	_	_	_	O
+3	closes	_	close	_	VBZ	0	_	_	_	_	_	_	_	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+5	eyes	_	eye	_	NNS	0	_	_	_	_	_	_	_	O
+6	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+7	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Interlocutors
+8	talks	_	talk	_	VBZ	0	_	_	_	_	_	talk.v	Chatting	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

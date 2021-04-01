@@ -1,0 +1,40 @@
+1	progress	_	Progress	_	NN	0	_	_	_	_	_	progress.n	Progression	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	achieved	_	achieve	_	VBN	0	_	_	_	_	_	_	_	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	single	_	single	_	JJ	0	_	_	_	_	_	_	_	O
+8	day	_	day	_	NN	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	progress	_	Progress	_	NN	0	_	_	_	_	_	_	_	S-Goal
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	achieved	_	achieve	_	VBN	0	_	_	_	_	_	achieve.v	Accomplishment	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Time
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Time
+7	single	_	single	_	JJ	0	_	_	_	_	_	_	_	I-Time
+8	day	_	day	_	NN	0	_	_	_	_	_	_	_	I-Time
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	progress	_	Progress	_	NN	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	achieved	_	achieve	_	VBN	0	_	_	_	_	_	_	_	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	single	_	single	_	JJ	0	_	_	_	_	_	single.a	Sole_instance	O
+8	day	_	day	_	NN	0	_	_	_	_	_	_	_	S-Type
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	progress	_	Progress	_	NN	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	achieved	_	achieve	_	VBN	0	_	_	_	_	_	_	_	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	single	_	single	_	JJ	0	_	_	_	_	_	_	_	S-Relative_time
+8	day	_	day	_	NN	0	_	_	_	_	_	day.n	Calendric_unit	S-Unit
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

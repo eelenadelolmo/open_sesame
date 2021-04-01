@@ -1,0 +1,72 @@
+1	two	_	Two	_	CD	0	_	_	_	_	_	two.num	Cardinal_numbers	S-Number
+2	other	_	other	_	JJ	0	_	_	_	_	_	_	_	B-Entity
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+4	died	_	die	_	VBD	0	_	_	_	_	_	_	_	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+8	raid	_	raid	_	NN	0	_	_	_	_	_	_	_	O
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	S-Increment
+2	other	_	other	_	JJ	0	_	_	_	_	_	other.a	Increment	O
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	_	_	S-Class
+4	died	_	die	_	VBD	0	_	_	_	_	_	_	_	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+8	raid	_	raid	_	NN	0	_	_	_	_	_	_	_	O
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	other	_	other	_	JJ	0	_	_	_	_	_	_	_	O
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	adult.n	People_by_age	S-Person
+4	died	_	die	_	VBD	0	_	_	_	_	_	_	_	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+8	raid	_	raid	_	NN	0	_	_	_	_	_	_	_	O
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	B-Protagonist
+2	other	_	other	_	JJ	0	_	_	_	_	_	_	_	I-Protagonist
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	_	_	I-Protagonist
+4	died	_	die	_	VBD	0	_	_	_	_	_	die.v	Death	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	B-Time
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+7	same	_	same	_	JJ	0	_	_	_	_	_	_	_	I-Time
+8	raid	_	raid	_	NN	0	_	_	_	_	_	_	_	I-Time
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Time
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Time
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	other	_	other	_	JJ	0	_	_	_	_	_	_	_	O
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	_	_	O
+4	died	_	die	_	VBD	0	_	_	_	_	_	_	_	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	same	_	same	_	JJ	0	_	_	_	_	_	same.a	Identicality	O
+8	raid	_	raid	_	NN	0	_	_	_	_	_	_	_	B-Type
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Type
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Type
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	other	_	other	_	JJ	0	_	_	_	_	_	_	_	O
+3	adults	_	adult	_	NNS	0	_	_	_	_	_	_	_	O
+4	died	_	die	_	VBD	0	_	_	_	_	_	_	_	O
+5	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	same	_	same	_	JJ	0	_	_	_	_	_	_	_	O
+8	raid	_	raid	_	NN	0	_	_	_	_	_	raid.n	Attack	O
+9	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-Victim
+10	rafah	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Victim
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

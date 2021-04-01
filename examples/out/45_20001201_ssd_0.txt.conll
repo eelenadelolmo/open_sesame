@@ -1,0 +1,20 @@
+1	joaquim	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	molins	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	'	_	'	_	POS	0	_	_	_	_	_	_	_	O
+4	horror	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+5	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+6	caught	_	catch	_	VBN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Aggregate_property
+9	municipal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Aggregate_property
+10	group	_	group	_	NN	0	_	_	_	_	_	group.n	Aggregate	S-Aggregate
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Aggregate_property
+12	barcelona	_	Barcelona	_	NNP	0	_	_	_	_	_	_	_	I-Aggregate_property
+13	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+14	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+15	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+16	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	O
+17	worst	_	worst	_	JJ	0	_	_	_	_	_	_	_	O
+18	moments	_	moment	_	NNS	0	_	_	_	_	_	_	_	O
+19	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

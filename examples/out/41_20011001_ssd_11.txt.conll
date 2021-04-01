@@ -1,0 +1,39 @@
+1	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+2	death	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	intelligence	_	intelligence	_	NN	0	_	_	_	_	_	intelligence.n	Information	S-Information
+5	''	_	''	_	''	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	dumbest	_	UNK	_	JJS	0	_	_	_	_	_	_	_	O
+9	scream	_	scream	_	NN	0	_	_	_	_	_	_	_	O
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+11	history	_	history	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+2	death	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	intelligence	_	intelligence	_	NN	0	_	_	_	_	_	_	_	O
+5	''	_	''	_	''	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	dumbest	_	UNK	_	JJS	0	_	_	_	_	_	_	_	S-Depictive
+9	scream	_	scream	_	NN	0	_	_	_	_	_	scream.v	Make_noise	O
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+11	history	_	history	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+2	death	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	intelligence	_	intelligence	_	NN	0	_	_	_	_	_	_	_	O
+5	''	_	''	_	''	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	dumbest	_	UNK	_	JJS	0	_	_	_	_	_	_	_	O
+9	scream	_	scream	_	NN	0	_	_	_	_	_	_	_	O
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+11	history	_	history	_	NN	0	_	_	_	_	_	history.n	Individual_history	S-Events
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

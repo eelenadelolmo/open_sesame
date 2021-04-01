@@ -1,0 +1,7 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+3	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+4	different	_	different	_	JJ	0	_	_	_	_	_	different.a	Similarity	O
+5	surnames	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Entities
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

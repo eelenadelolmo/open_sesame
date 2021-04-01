@@ -1,0 +1,14 @@
+1	for	_	For	_	IN	0	_	_	_	_	_	_	_	O
+2	me	_	me	_	PRP	0	_	_	_	_	_	_	_	O
+3	spain	_	Spain	_	NNP	0	_	_	_	_	_	_	_	O
+4	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+5	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+6	just	_	just	_	RB	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	country	_	country	_	NN	0	_	_	_	_	_	country.n	Political_locales	S-Locale
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Name
+10	castanets	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Name
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Name
+12	bulls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Name
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

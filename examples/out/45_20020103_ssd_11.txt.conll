@@ -1,0 +1,45 @@
+1	for	_	For	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	time	_	time	_	NN	0	_	_	_	_	_	_	_	O
+4	being	_	be	_	VBG	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	armies	_	UNK	_	NNPS	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	both	_	both	_	DT	0	_	_	_	_	_	_	_	O
+10	states	_	state	_	NNS	0	_	_	_	_	_	state.n	Leadership	S-Leader
+11	remain	_	remain	_	VBP	0	_	_	_	_	_	_	_	O
+12	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+13	alert	_	alert	_	NN	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	for	_	For	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	time	_	time	_	NN	0	_	_	_	_	_	_	_	O
+4	being	_	be	_	VBG	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Entity
+7	armies	_	UNK	_	NNPS	0	_	_	_	_	_	_	_	I-Entity
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Entity
+9	both	_	both	_	DT	0	_	_	_	_	_	_	_	I-Entity
+10	states	_	state	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+11	remain	_	remain	_	VBP	0	_	_	_	_	_	remain.v	State_continue	O
+12	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-State
+13	alert	_	alert	_	NN	0	_	_	_	_	_	_	_	I-State
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	for	_	For	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	time	_	time	_	NN	0	_	_	_	_	_	_	_	O
+4	being	_	be	_	VBG	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Perceiver
+7	armies	_	UNK	_	NNPS	0	_	_	_	_	_	_	_	I-Perceiver
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Perceiver
+9	both	_	both	_	DT	0	_	_	_	_	_	_	_	I-Perceiver
+10	states	_	state	_	NNS	0	_	_	_	_	_	_	_	I-Perceiver
+11	remain	_	remain	_	VBP	0	_	_	_	_	_	_	_	O
+12	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+13	alert	_	alert	_	NN	0	_	_	_	_	_	alert.n	Attention	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

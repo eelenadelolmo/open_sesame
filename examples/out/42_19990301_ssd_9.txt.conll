@@ -1,0 +1,28 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	russian	_	Russian	_	JJ	0	_	_	_	_	_	russian.a	Origin	S-Origin
+3	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Entity
+4	padalka	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Entity
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+7	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	station	_	station	_	NN	0	_	_	_	_	_	_	_	O
+10	since	_	since	_	IN	0	_	_	_	_	_	_	_	O
+11	august	_	August	_	NNP	0	_	_	_	_	_	_	_	O
+12	1998	_	1998	_	CD	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Figure
+2	russian	_	Russian	_	JJ	0	_	_	_	_	_	_	_	I-Figure
+3	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+4	padalka	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+7	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+9	station	_	station	_	NN	0	_	_	_	_	_	_	_	I-Ground
+10	since	_	since	_	IN	0	_	_	_	_	_	_	_	B-Time
+11	august	_	August	_	NNP	0	_	_	_	_	_	_	_	I-Time
+12	1998	_	1998	_	CD	0	_	_	_	_	_	_	_	I-Time
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

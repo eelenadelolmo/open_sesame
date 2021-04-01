@@ -1,0 +1,33 @@
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	B-Time
+2	1993	_	1993	_	CD	0	_	_	_	_	_	_	_	I-Time
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	grapo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Cognizer
+5	decided	_	decide	_	VBD	0	_	_	_	_	_	decide.v	Deciding	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Decision
+7	continue	_	continue	_	VB	0	_	_	_	_	_	_	_	I-Decision
+8	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	I-Decision
+9	activities	_	activity	_	NNS	0	_	_	_	_	_	_	_	I-Decision
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	1993	_	1993	_	CD	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	grapo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	decided	_	decide	_	VBD	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	continue	_	continue	_	VB	0	_	_	_	_	_	continue.v	Process_continue	O
+8	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	B-Event
+9	activities	_	activity	_	NNS	0	_	_	_	_	_	_	_	I-Event
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	1993	_	1993	_	CD	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	grapo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	decided	_	decide	_	VBD	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	continue	_	continue	_	VB	0	_	_	_	_	_	_	_	O
+8	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	S-Agent
+9	activities	_	activity	_	NNS	0	_	_	_	_	_	activity.n	Intentionally_act	S-Act
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

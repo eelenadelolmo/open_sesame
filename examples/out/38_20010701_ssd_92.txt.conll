@@ -1,0 +1,26 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	that	_	that	_	DT	0	_	_	_	_	_	_	_	S-Behavior
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	never	_	never	_	RB	0	_	_	_	_	_	_	_	O
+5	encourage	_	encourage	_	VB	0	_	_	_	_	_	encourage.v	Subjective_influence	O
+6	me	_	me	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Action
+8	join	_	join	_	VB	0	_	_	_	_	_	_	_	I-Action
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Action
+10	stones	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Action
+11	again	_	again	_	RB	0	_	_	_	_	_	_	_	I-Action
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	that	_	that	_	DT	0	_	_	_	_	_	_	_	O
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	never	_	never	_	RB	0	_	_	_	_	_	_	_	O
+5	encourage	_	encourage	_	VB	0	_	_	_	_	_	_	_	O
+6	me	_	me	_	PRP	0	_	_	_	_	_	_	_	S-New_member
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	join	_	join	_	VB	0	_	_	_	_	_	join.v	Becoming_a_member	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Group
+10	stones	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Group
+11	again	_	again	_	RB	0	_	_	_	_	_	_	_	S-Depictive
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

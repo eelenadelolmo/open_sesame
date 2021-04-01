@@ -1,0 +1,39 @@
+1	fatf	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Communicator
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	indicated	_	indicate	_	VBN	0	_	_	_	_	_	indicate.v	Communication	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+5	these	_	these	_	DT	0	_	_	_	_	_	_	_	I-Message
+6	organizations	_	organization	_	NNS	0	_	_	_	_	_	_	_	I-Message
+7	are	_	be	_	VBP	0	_	_	_	_	_	_	_	I-Message
+8	``	_	``	_	``	0	_	_	_	_	_	_	_	I-Message
+9	especially	_	especially	_	RB	0	_	_	_	_	_	_	_	I-Message
+10	vulnerable	_	vulnerable	_	JJ	0	_	_	_	_	_	_	_	I-Message
+11	``	_	``	_	``	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	fatf	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	indicated	_	indicate	_	VBN	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	these	_	these	_	DT	0	_	_	_	_	_	_	_	O
+6	organizations	_	organization	_	NNS	0	_	_	_	_	_	organization.n	Organization	S-Organization
+7	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+8	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+9	especially	_	especially	_	RB	0	_	_	_	_	_	_	_	O
+10	vulnerable	_	vulnerable	_	JJ	0	_	_	_	_	_	_	_	O
+11	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	fatf	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	indicated	_	indicate	_	VBN	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	these	_	these	_	DT	0	_	_	_	_	_	_	_	B-Asset
+6	organizations	_	organization	_	NNS	0	_	_	_	_	_	_	_	I-Asset
+7	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+8	``	_	``	_	``	0	_	_	_	_	_	_	_	O
+9	especially	_	especially	_	RB	0	_	_	_	_	_	_	_	S-Degree
+10	vulnerable	_	vulnerable	_	JJ	0	_	_	_	_	_	vulnerable.a	Being_at_risk	O
+11	``	_	``	_	``	0	_	_	_	_	_	_	_	S-Asset
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

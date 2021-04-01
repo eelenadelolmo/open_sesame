@@ -1,0 +1,36 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	S-Locale
+2	just	_	just	_	RB	0	_	_	_	_	_	_	_	S-Name
+3	fell	_	fell	_	VBD	0	_	_	_	_	_	fell.n	Natural_features	S-Locale
+4	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-Relative_location
+5	me	_	me	_	PRP	0	_	_	_	_	_	_	_	I-Relative_location
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	fell	_	fell	_	VBD	0	_	_	_	_	_	_	_	O
+8	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+9	us	_	u	_	PRP	0	_	_	_	_	_	_	_	O
+10	all	_	all	_	DT	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	B-Figure
+2	just	_	just	_	RB	0	_	_	_	_	_	_	_	I-Figure
+3	fell	_	fell	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+4	on	_	on	_	IN	0	_	_	_	_	_	on.prep	Spatial_contact	O
+5	me	_	me	_	PRP	0	_	_	_	_	_	_	_	S-Ground
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	fell	_	fell	_	VBD	0	_	_	_	_	_	_	_	O
+8	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+9	us	_	u	_	PRP	0	_	_	_	_	_	_	_	O
+10	all	_	all	_	DT	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	B-Figure
+2	just	_	just	_	RB	0	_	_	_	_	_	_	_	I-Figure
+3	fell	_	fell	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+4	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Figure
+5	me	_	me	_	PRP	0	_	_	_	_	_	_	_	I-Figure
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	I-Figure
+7	fell	_	fell	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+8	on	_	on	_	IN	0	_	_	_	_	_	on.prep	Spatial_contact	O
+9	us	_	u	_	PRP	0	_	_	_	_	_	_	_	B-Ground
+10	all	_	all	_	DT	0	_	_	_	_	_	_	_	I-Ground
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

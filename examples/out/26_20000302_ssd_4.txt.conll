@@ -1,0 +1,56 @@
+1	in	_	In	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+2	addition	_	addition	_	NN	0	_	_	_	_	_	_	_	B-Figure
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	I-Figure
+4	11	_	11	_	CD	0	_	_	_	_	_	_	_	I-Figure
+5	men	_	men	_	NNS	0	_	_	_	_	_	_	_	I-Figure
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+7	killed	_	kill	_	VBN	0	_	_	_	_	_	_	_	I-Figure
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Figure
+9	eight	_	eight	_	CD	0	_	_	_	_	_	_	_	I-Figure
+10	people	_	people	_	NNS	0	_	_	_	_	_	_	_	I-Figure
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+12	injured	_	injure	_	VBN	0	_	_	_	_	_	_	_	I-Figure
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	addition	_	addition	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	11	_	11	_	CD	0	_	_	_	_	_	_	_	B-Victim
+5	men	_	men	_	NNS	0	_	_	_	_	_	_	_	I-Victim
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	killed	_	kill	_	VBN	0	_	_	_	_	_	kill.v	Killing	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	eight	_	eight	_	CD	0	_	_	_	_	_	_	_	O
+10	people	_	people	_	NNS	0	_	_	_	_	_	_	_	O
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	injured	_	injure	_	VBN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	addition	_	addition	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	11	_	11	_	CD	0	_	_	_	_	_	_	_	O
+5	men	_	men	_	NNS	0	_	_	_	_	_	_	_	O
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	killed	_	kill	_	VBN	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	eight	_	eight	_	CD	0	_	_	_	_	_	_	_	O
+10	people	_	people	_	NNS	0	_	_	_	_	_	people.n	People	S-Person
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	injured	_	injure	_	VBN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	in	_	In	_	IN	0	_	_	_	_	_	_	_	O
+2	addition	_	addition	_	NN	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	11	_	11	_	CD	0	_	_	_	_	_	_	_	O
+5	men	_	men	_	NNS	0	_	_	_	_	_	_	_	O
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	killed	_	kill	_	VBN	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	eight	_	eight	_	CD	0	_	_	_	_	_	_	_	B-Victim
+10	people	_	people	_	NNS	0	_	_	_	_	_	_	_	I-Victim
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	injured	_	injure	_	VBN	0	_	_	_	_	_	injure.v	Cause_harm	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

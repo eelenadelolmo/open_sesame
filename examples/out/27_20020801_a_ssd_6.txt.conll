@@ -1,0 +1,40 @@
+1	once	_	Once	_	RB	0	_	_	_	_	_	_	_	O
+2	there	_	there	_	RB	0	_	_	_	_	_	there.adv	Locative_relation	S-Ground
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	they	_	they	_	PRP	0	_	_	_	_	_	_	_	B-Ground
+5	received	_	receive	_	VBD	0	_	_	_	_	_	_	_	I-Ground
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Ground
+7	similar	_	similar	_	JJ	0	_	_	_	_	_	_	_	I-Ground
+8	response	_	response	_	NN	0	_	_	_	_	_	_	_	I-Ground
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	once	_	Once	_	RB	0	_	_	_	_	_	_	_	O
+2	there	_	there	_	RB	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	they	_	they	_	PRP	0	_	_	_	_	_	_	_	S-Recipient
+5	received	_	receive	_	VBD	0	_	_	_	_	_	receive.v	Receiving	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Theme
+7	similar	_	similar	_	JJ	0	_	_	_	_	_	_	_	I-Theme
+8	response	_	response	_	NN	0	_	_	_	_	_	_	_	I-Theme
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	once	_	Once	_	RB	0	_	_	_	_	_	_	_	O
+2	there	_	there	_	RB	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+5	received	_	receive	_	VBD	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	similar	_	similar	_	JJ	0	_	_	_	_	_	similar.a	Similarity	O
+8	response	_	response	_	NN	0	_	_	_	_	_	_	_	S-Entity_1
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	once	_	Once	_	RB	0	_	_	_	_	_	_	_	O
+2	there	_	there	_	RB	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+5	received	_	receive	_	VBD	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	similar	_	similar	_	JJ	0	_	_	_	_	_	_	_	S-Manner
+8	response	_	response	_	NN	0	_	_	_	_	_	response.n	Response	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

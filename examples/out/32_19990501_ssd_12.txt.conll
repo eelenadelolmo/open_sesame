@@ -1,0 +1,56 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+2	assured	_	assure	_	VBD	0	_	_	_	_	_	assure.v	Telling	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+4	there	_	there	_	EX	0	_	_	_	_	_	_	_	I-Message
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	I-Message
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	I-Message
+7	an	_	an	_	DT	0	_	_	_	_	_	_	_	I-Message
+8	escape	_	escape	_	NN	0	_	_	_	_	_	_	_	I-Message
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Message
+10	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	_	_	I-Message
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Message
+12	macedonia	_	Macedonia	_	NNP	0	_	_	_	_	_	_	_	I-Message
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	assured	_	assure	_	VBD	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	S-Figure
+4	there	_	there	_	EX	0	_	_	_	_	_	there.adv	Locative_relation	B-Ground
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	I-Ground
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	I-Ground
+7	an	_	an	_	DT	0	_	_	_	_	_	_	_	I-Ground
+8	escape	_	escape	_	NN	0	_	_	_	_	_	_	_	I-Ground
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Ground
+10	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	_	_	I-Ground
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Ground
+12	macedonia	_	Macedonia	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	assured	_	assure	_	VBD	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+4	there	_	there	_	EX	0	_	_	_	_	_	_	_	O
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+7	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+8	escape	_	escape	_	NN	0	_	_	_	_	_	escape.n	Departing	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Theme
+10	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	_	_	I-Theme
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Place
+12	macedonia	_	Macedonia	_	NNP	0	_	_	_	_	_	_	_	I-Place
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	assured	_	assure	_	VBD	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+4	there	_	there	_	EX	0	_	_	_	_	_	_	_	O
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	O
+6	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+7	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+8	escape	_	escape	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	soldier.n	Member_of_military	S-Person
+11	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+12	macedonia	_	Macedonia	_	NNP	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

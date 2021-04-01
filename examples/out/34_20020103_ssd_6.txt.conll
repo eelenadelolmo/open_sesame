@@ -1,0 +1,11 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	S-Item
+3	spread	_	spread	_	NN	0	_	_	_	_	_	spread.v	Expansion	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unfortunately	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+8	very	_	very	_	RB	0	_	_	_	_	_	_	_	O
+9	limited	_	limit	_	VBN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

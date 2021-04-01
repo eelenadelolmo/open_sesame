@@ -1,0 +1,7 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	end	_	end	_	NN	0	_	_	_	_	_	end.n	Process_end	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Process
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Process
+5	truce	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Process
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

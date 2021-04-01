@@ -1,0 +1,11 @@
+1	musically	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	our	_	our	_	PRP$	0	_	_	_	_	_	_	_	O
+4	past	_	past	_	JJ	0	_	_	_	_	_	past.a	Relative_time	O
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	richer	_	richer	_	RBR	0	_	_	_	_	_	_	_	O
+7	than	_	than	_	IN	0	_	_	_	_	_	_	_	O
+8	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	O
+9	present	_	present	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

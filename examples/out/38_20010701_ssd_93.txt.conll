@@ -1,0 +1,8 @@
+1	as	_	As	_	IN	0	_	_	_	_	_	_	_	B-Message
+2	much	_	much	_	JJ	0	_	_	_	_	_	_	_	I-Message
+3	as	_	a	_	IN	0	_	_	_	_	_	_	_	I-Message
+4	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+5	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+6	asked	_	ask	_	VBN	0	_	_	_	_	_	ask.v	Questioning	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

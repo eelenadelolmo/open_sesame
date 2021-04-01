@@ -1,0 +1,39 @@
+1	according	_	According	_	VBG	0	_	_	_	_	_	_	_	O
+2	to	_	to	_	TO	0	_	_	_	_	_	to.prep	Goal	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Landmark
+4	fbi	_	FBI	_	NNP	0	_	_	_	_	_	_	_	I-Landmark
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	arrest	_	arrest	_	JJS	0	_	_	_	_	_	_	_	O
+8	took	_	took	_	NN	0	_	_	_	_	_	_	_	O
+9	place	_	place	_	NN	0	_	_	_	_	_	_	_	O
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+11	chicago	_	Chicago	_	NNP	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	according	_	According	_	VBG	0	_	_	_	_	_	_	_	O
+2	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	fbi	_	FBI	_	NNP	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	arrest	_	arrest	_	JJS	0	_	_	_	_	_	arrest.v	Arrest	O
+8	took	_	took	_	NN	0	_	_	_	_	_	_	_	B-Offense
+9	place	_	place	_	NN	0	_	_	_	_	_	_	_	I-Offense
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Offense
+11	chicago	_	Chicago	_	NNP	0	_	_	_	_	_	_	_	I-Offense
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	according	_	According	_	VBG	0	_	_	_	_	_	_	_	O
+2	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	fbi	_	FBI	_	NNP	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	arrest	_	arrest	_	JJS	0	_	_	_	_	_	_	_	O
+8	took	_	took	_	NN	0	_	_	_	_	_	_	_	O
+9	place	_	place	_	NN	0	_	_	_	_	_	place.n	Locale	S-Locale
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Relative_location
+11	chicago	_	Chicago	_	NNP	0	_	_	_	_	_	_	_	I-Relative_location
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,14 @@
+1	if	_	If	_	IN	0	_	_	_	_	_	_	_	O
+2	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	screws	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	erc	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Producer
+8	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+9	itself	_	itself	_	VB	0	_	_	_	_	_	_	_	O
+10	make	_	make	_	VB	0	_	_	_	_	_	make.v	Manufacturing	O
+11	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Product
+12	checkmate	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Product
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

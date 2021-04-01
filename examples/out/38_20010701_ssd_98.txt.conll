@@ -1,0 +1,21 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBN	0	_	_	_	_	_	say.v	Statement	O
+4	next	_	next	_	JJ	0	_	_	_	_	_	_	_	B-Message
+5	year	_	year	_	NN	0	_	_	_	_	_	_	_	I-Message
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBN	0	_	_	_	_	_	_	_	O
+4	next	_	next	_	JJ	0	_	_	_	_	_	next.a	Relative_time	O
+5	year	_	year	_	NN	0	_	_	_	_	_	_	_	S-Focal_occasion
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBN	0	_	_	_	_	_	_	_	O
+4	next	_	next	_	JJ	0	_	_	_	_	_	_	_	S-Relative_time
+5	year	_	year	_	NN	0	_	_	_	_	_	year.n	Calendric_unit	S-Unit
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

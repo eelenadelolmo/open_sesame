@@ -1,0 +1,56 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	85-year-old	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Governed
+3	chilean	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Governed
+4	dictator	_	dictator	_	NN	0	_	_	_	_	_	dictator.n	Leadership	S-Leader
+5	entered	_	enter	_	VBD	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+7	military	_	military	_	JJ	0	_	_	_	_	_	_	_	O
+8	hospital	_	hospital	_	NN	0	_	_	_	_	_	_	_	O
+9	escorted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+10	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	motorists	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Agent
+2	85-year-old	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Agent
+3	chilean	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+4	dictator	_	dictator	_	NN	0	_	_	_	_	_	_	_	I-Agent
+5	entered	_	enter	_	VBD	0	_	_	_	_	_	enter.v	Activity_start	O
+6	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	B-Activity
+7	military	_	military	_	JJ	0	_	_	_	_	_	_	_	I-Activity
+8	hospital	_	hospital	_	NN	0	_	_	_	_	_	_	_	I-Activity
+9	escorted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	B-Time
+10	by	_	by	_	IN	0	_	_	_	_	_	_	_	I-Time
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	I-Time
+12	motorists	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Time
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	85-year-old	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+3	chilean	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	dictator	_	dictator	_	NN	0	_	_	_	_	_	_	_	O
+5	entered	_	enter	_	VBD	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+7	military	_	military	_	JJ	0	_	_	_	_	_	military.a	Military	S-Force
+8	hospital	_	hospital	_	NN	0	_	_	_	_	_	_	_	O
+9	escorted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+10	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	motorists	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	85-year-old	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+3	chilean	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	dictator	_	dictator	_	NN	0	_	_	_	_	_	_	_	O
+5	entered	_	enter	_	VBD	0	_	_	_	_	_	_	_	O
+6	unk	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+7	military	_	military	_	JJ	0	_	_	_	_	_	_	_	O
+8	hospital	_	hospital	_	NN	0	_	_	_	_	_	hospital.n	Buildings	S-Building
+9	escorted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+10	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	motorists	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,26 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+3	who	_	who	_	WP	0	_	_	_	_	_	_	_	B-Entity
+4	cheats	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+7	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+10	who	_	who	_	WP	0	_	_	_	_	_	_	_	O
+11	endures	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	one	_	one	_	CD	0	_	_	_	_	_	_	_	O
+3	who	_	who	_	WP	0	_	_	_	_	_	_	_	O
+4	cheats	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+7	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	one	_	one	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+10	who	_	who	_	WP	0	_	_	_	_	_	_	_	O
+11	endures	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,48 @@
+1	eduard	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Speaker
+2	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+3	asks	_	ask	_	VBZ	0	_	_	_	_	_	ask.v	Questioning	O
+4	hospitals	_	hospital	_	NNS	0	_	_	_	_	_	_	_	S-Speaker
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Message
+6	hire	_	hire	_	VB	0	_	_	_	_	_	_	_	I-Message
+7	doctors	_	doctor	_	NNS	0	_	_	_	_	_	_	_	I-Message
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Message
+9	need	_	need	_	VB	0	_	_	_	_	_	_	_	I-Message
+10	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-Message
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	eduard	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	asks	_	ask	_	VBZ	0	_	_	_	_	_	_	_	O
+4	hospitals	_	hospital	_	NNS	0	_	_	_	_	_	hospital.n	Buildings	S-Building
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	hire	_	hire	_	VB	0	_	_	_	_	_	_	_	O
+7	doctors	_	doctor	_	NNS	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	need	_	need	_	VB	0	_	_	_	_	_	_	_	O
+10	them	_	them	_	PRP	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	eduard	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	asks	_	ask	_	VBZ	0	_	_	_	_	_	_	_	O
+4	hospitals	_	hospital	_	NNS	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	hire	_	hire	_	VB	0	_	_	_	_	_	hire.v	Hiring	O
+7	doctors	_	doctor	_	NNS	0	_	_	_	_	_	_	_	S-Employee
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Task
+9	need	_	need	_	VB	0	_	_	_	_	_	_	_	I-Task
+10	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-Task
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	eduard	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	rius	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	asks	_	ask	_	VBZ	0	_	_	_	_	_	_	_	O
+4	hospitals	_	hospital	_	NNS	0	_	_	_	_	_	_	_	O
+5	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+6	hire	_	hire	_	VB	0	_	_	_	_	_	_	_	O
+7	doctors	_	doctor	_	NNS	0	_	_	_	_	_	_	_	S-Cognizer
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	need	_	need	_	VB	0	_	_	_	_	_	need.v	Needing	O
+10	them	_	them	_	PRP	0	_	_	_	_	_	_	_	S-Requirement
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

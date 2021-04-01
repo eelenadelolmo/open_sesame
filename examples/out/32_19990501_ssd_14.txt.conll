@@ -1,0 +1,48 @@
+1	there	_	There	_	EX	0	_	_	_	_	_	there.adv	Locative_relation	B-Ground
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Ground
+3	no	_	no	_	DT	0	_	_	_	_	_	_	_	I-Ground
+4	doubt	_	doubt	_	NN	0	_	_	_	_	_	_	_	I-Ground
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Ground
+6	milosevic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+7	would	_	would	_	MD	0	_	_	_	_	_	_	_	I-Ground
+8	lose	_	lose	_	VB	0	_	_	_	_	_	_	_	I-Ground
+9	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	I-Ground
+10	support	_	support	_	NN	0	_	_	_	_	_	_	_	I-Ground
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+4	doubt	_	doubt	_	NN	0	_	_	_	_	_	doubt.n	Certainty	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Content
+6	milosevic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Content
+7	would	_	would	_	MD	0	_	_	_	_	_	_	_	I-Content
+8	lose	_	lose	_	VB	0	_	_	_	_	_	_	_	I-Content
+9	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	I-Content
+10	support	_	support	_	NN	0	_	_	_	_	_	_	_	I-Content
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+4	doubt	_	doubt	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	milosevic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Earner
+7	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+8	lose	_	lose	_	VB	0	_	_	_	_	_	lose.v	Earnings_and_losses	O
+9	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Earnings
+10	support	_	support	_	NN	0	_	_	_	_	_	_	_	I-Earnings
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+4	doubt	_	doubt	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	milosevic	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Supporter
+7	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+8	lose	_	lose	_	VB	0	_	_	_	_	_	_	_	O
+9	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	S-Supporter
+10	support	_	support	_	NN	0	_	_	_	_	_	support.v	Supporting	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

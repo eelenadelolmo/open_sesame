@@ -1,0 +1,16 @@
+1	out	_	Out	_	IN	0	_	_	_	_	_	_	_	O
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+3	personal	_	personal	_	JJ	0	_	_	_	_	_	_	_	O
+4	or	_	or	_	CC	0	_	_	_	_	_	_	_	O
+5	professional	_	professional	_	JJ	0	_	_	_	_	_	professional.a	People_by_vocation	S-Person
+6	respect	_	respect	_	NN	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	out	_	Out	_	IN	0	_	_	_	_	_	_	_	O
+2	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+3	personal	_	personal	_	JJ	0	_	_	_	_	_	_	_	B-Evaluee
+4	or	_	or	_	CC	0	_	_	_	_	_	_	_	I-Evaluee
+5	professional	_	professional	_	JJ	0	_	_	_	_	_	_	_	I-Evaluee
+6	respect	_	respect	_	NN	0	_	_	_	_	_	respect.n	Judgment	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

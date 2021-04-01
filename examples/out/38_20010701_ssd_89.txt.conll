@@ -1,0 +1,22 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Recipient
+2	get	_	get	_	VBP	0	_	_	_	_	_	get.v	Getting	O
+3	along	_	along	_	IN	0	_	_	_	_	_	_	_	B-Theme
+4	very	_	very	_	RB	0	_	_	_	_	_	_	_	I-Theme
+5	well	_	well	_	RB	0	_	_	_	_	_	_	_	I-Theme
+6	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Theme
+7	all	_	all	_	DT	0	_	_	_	_	_	_	_	I-Theme
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Theme
+9	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-Theme
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Figure
+2	get	_	get	_	VBP	0	_	_	_	_	_	_	_	O
+3	along	_	along	_	IN	0	_	_	_	_	_	along.prep	Locative_relation	O
+4	very	_	very	_	RB	0	_	_	_	_	_	_	_	B-Ground
+5	well	_	well	_	RB	0	_	_	_	_	_	_	_	I-Ground
+6	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+7	all	_	all	_	DT	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	them	_	them	_	PRP	0	_	_	_	_	_	_	_	S-Ground
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

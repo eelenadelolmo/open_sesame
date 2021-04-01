@@ -1,0 +1,24 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	accident	_	accident	_	NN	0	_	_	_	_	_	accident.n	Catastrophe	S-Undesirable_event
+3	ended	_	end	_	VBD	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+6	injuries	_	injury	_	NNS	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Process
+2	accident	_	accident	_	NN	0	_	_	_	_	_	_	_	I-Process
+3	ended	_	end	_	VBD	0	_	_	_	_	_	end.v	Process_end	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	B-Process
+5	no	_	no	_	DT	0	_	_	_	_	_	_	_	I-Process
+6	injuries	_	injury	_	NNS	0	_	_	_	_	_	_	_	I-Process
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	accident	_	accident	_	NN	0	_	_	_	_	_	_	_	O
+3	ended	_	end	_	VBD	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	no	_	no	_	DT	0	_	_	_	_	_	_	_	O
+6	injuries	_	injury	_	NNS	0	_	_	_	_	_	injury.n	Experience_bodily_harm	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

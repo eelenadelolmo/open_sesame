@@ -1,0 +1,24 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Experiencer
+2	want	_	want	_	VBP	0	_	_	_	_	_	want.v	Desiring	O
+3	an	_	an	_	DT	0	_	_	_	_	_	_	_	B-Event
+4	integrative	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Event
+5	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Event
+6	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Event
+7	overcomes	_	overcome	_	VBZ	0	_	_	_	_	_	_	_	I-Event
+8	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Event
+9	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Event
+10	egocentrism	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Event
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+2	want	_	want	_	VBP	0	_	_	_	_	_	_	_	O
+3	an	_	an	_	DT	0	_	_	_	_	_	_	_	B-Conqueror
+4	integrative	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Conqueror
+5	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Conqueror
+6	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Conqueror
+7	overcomes	_	overcome	_	VBZ	0	_	_	_	_	_	overcome.v	Conquering	O
+8	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Theme
+9	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Theme
+10	egocentrism	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Theme
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

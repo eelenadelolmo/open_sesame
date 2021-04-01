@@ -1,0 +1,19 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	do	_	Do	_	VBP	0	_	_	_	_	_	_	_	O
+3	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Party_1
+4	agree	_	agree	_	VB	0	_	_	_	_	_	agree.v	Make_agreement_on_action	O
+5	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+6	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+8	funding	_	funding	_	NN	0	_	_	_	_	_	_	_	O
+9	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+10	catalonia	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+12	insufficient	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+13	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+14	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+15	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+16	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+17	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+18	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

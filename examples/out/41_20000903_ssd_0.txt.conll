@@ -1,0 +1,60 @@
+1	operation	_	UNK	_	NN	0	_	_	_	_	_	_	_	B-Benefited_party
+2	ostra	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Benefited_party
+3	serves	_	serve	_	VBZ	0	_	_	_	_	_	serve.v	Assistance	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Goal
+5	exemplify	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Goal
+6	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	I-Goal
+7	evolutions	_	evolution	_	NNS	0	_	_	_	_	_	_	_	I-Goal
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Goal
+9	modern	_	modern	_	JJ	0	_	_	_	_	_	_	_	I-Goal
+10	law	_	law	_	NN	0	_	_	_	_	_	_	_	I-Goal
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	operation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	ostra	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	serves	_	serve	_	VBZ	0	_	_	_	_	_	_	_	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+5	exemplify	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+6	certain	_	certain	_	JJ	0	_	_	_	_	_	certain.a	Idiosyncrasy	O
+7	evolutions	_	evolution	_	NNS	0	_	_	_	_	_	_	_	B-Entity
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Entity
+9	modern	_	modern	_	JJ	0	_	_	_	_	_	_	_	I-Entity
+10	law	_	law	_	NN	0	_	_	_	_	_	_	_	I-Entity
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	operation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	ostra	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	serves	_	serve	_	VBZ	0	_	_	_	_	_	_	_	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+5	exemplify	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+6	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	O
+7	evolutions	_	evolution	_	NNS	0	_	_	_	_	_	evolution.n	Coming_to_be	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Entity
+9	modern	_	modern	_	JJ	0	_	_	_	_	_	_	_	I-Entity
+10	law	_	law	_	NN	0	_	_	_	_	_	_	_	I-Entity
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	operation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	ostra	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	serves	_	serve	_	VBZ	0	_	_	_	_	_	_	_	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+5	exemplify	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+6	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	O
+7	evolutions	_	evolution	_	NNS	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	modern	_	modern	_	JJ	0	_	_	_	_	_	modern.a	Temporal_collocation	O
+10	law	_	law	_	NN	0	_	_	_	_	_	_	_	S-Trajector_entity
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	operation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	ostra	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	serves	_	serve	_	VBZ	0	_	_	_	_	_	_	_	O
+4	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+5	exemplify	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+6	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	O
+7	evolutions	_	evolution	_	NNS	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	modern	_	modern	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+10	law	_	law	_	NN	0	_	_	_	_	_	law.n	Law	S-Law
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

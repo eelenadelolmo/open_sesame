@@ -1,0 +1,1 @@
+Although the contract already contains the conditions in case of cancellation.

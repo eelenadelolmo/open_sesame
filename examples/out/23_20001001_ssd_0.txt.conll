@@ -1,0 +1,8 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Interlocutors
+2	snorted	_	UNK	_	VBD	0	_	_	_	_	_	_	_	O
+3	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+4	more	_	more	_	JJR	0	_	_	_	_	_	_	_	O
+5	than	_	than	_	IN	0	_	_	_	_	_	_	_	O
+6	talked	_	talk	_	VBN	0	_	_	_	_	_	talk.v	Chatting	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

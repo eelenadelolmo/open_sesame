@@ -1,0 +1,16 @@
+1	there	_	There	_	EX	0	_	_	_	_	_	there.adv	Locative_relation	B-Ground
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	I-Ground
+3	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	_	_	I-Ground
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	B-Figure
+5	democratic	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Figure
+6	hives	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Figure
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	soldiers	_	soldier	_	NNS	0	_	_	_	_	_	soldier.n	Member_of_military	S-Person
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	democratic	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	hives	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

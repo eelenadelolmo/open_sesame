@@ -1,0 +1,48 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+2	think	_	think	_	VBP	0	_	_	_	_	_	think.v	Opinion	O
+3	they	_	they	_	PRP	0	_	_	_	_	_	_	_	B-Opinion
+4	notice	_	notice	_	VBP	0	_	_	_	_	_	_	_	I-Opinion
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Opinion
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	I-Opinion
+7	put	_	put	_	VBD	0	_	_	_	_	_	_	_	I-Opinion
+8	love	_	love	_	VBP	0	_	_	_	_	_	_	_	I-Opinion
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Opinion
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	I-Opinion
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	think	_	think	_	VBP	0	_	_	_	_	_	_	_	O
+3	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+4	notice	_	notice	_	VBP	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+7	put	_	put	_	VBD	0	_	_	_	_	_	put.v	Placing	O
+8	love	_	love	_	VBP	0	_	_	_	_	_	_	_	B-Goal
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Goal
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	I-Goal
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	think	_	think	_	VBP	0	_	_	_	_	_	_	_	O
+3	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+4	notice	_	notice	_	VBP	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	S-Experiencer
+7	put	_	put	_	VBD	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	VBP	0	_	_	_	_	_	love.v	Experiencer_focus	O
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Content
+10	music	_	music	_	JJ	0	_	_	_	_	_	_	_	I-Content
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	think	_	think	_	VBP	0	_	_	_	_	_	_	_	O
+3	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+4	notice	_	notice	_	VBP	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	O
+7	put	_	put	_	VBD	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	VBP	0	_	_	_	_	_	_	_	O
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+10	music	_	music	_	JJ	0	_	_	_	_	_	music.n	Performing_arts	S-Performance
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

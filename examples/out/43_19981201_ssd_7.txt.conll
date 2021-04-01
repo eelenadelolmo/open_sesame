@@ -1,0 +1,44 @@
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	S-Fact
+2	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+3	explain	_	explain	_	VB	0	_	_	_	_	_	explain.v	Explaining_the_facts	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-State_of_affairs
+5	house	_	house	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+6	registering	_	register	_	VBG	0	_	_	_	_	_	_	_	I-State_of_affairs
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-State_of_affairs
+8	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	I-State_of_affairs
+9	disorder	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+3	explain	_	explain	_	VB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	house	_	house	_	NN	0	_	_	_	_	_	house.n	Buildings	S-Building
+6	registering	_	register	_	VBG	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	O
+9	disorder	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+3	explain	_	explain	_	VB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Cognizer
+5	house	_	house	_	NN	0	_	_	_	_	_	_	_	I-Cognizer
+6	registering	_	register	_	VBG	0	_	_	_	_	_	register.v	Becoming_aware	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Phenomenon
+8	certain	_	certain	_	JJ	0	_	_	_	_	_	_	_	I-Phenomenon
+9	disorder	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Phenomenon
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+3	explain	_	explain	_	VB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	house	_	house	_	NN	0	_	_	_	_	_	_	_	O
+6	registering	_	register	_	VBG	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	certain	_	certain	_	JJ	0	_	_	_	_	_	certain.a	Idiosyncrasy	O
+9	disorder	_	UNK	_	NN	0	_	_	_	_	_	_	_	S-Entity
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

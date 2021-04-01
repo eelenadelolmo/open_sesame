@@ -1,0 +1,56 @@
+1	one	_	One	_	CD	0	_	_	_	_	_	one.num	Cardinal_numbers	S-Number
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+6	international	_	international	_	JJ	0	_	_	_	_	_	_	_	O
+7	tribunal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+10	equivalent	_	equivalent	_	NN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	force	_	force	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	one	_	One	_	CD	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	create.v	Intentionally_create	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	B-Created_entity
+6	international	_	international	_	JJ	0	_	_	_	_	_	_	_	I-Created_entity
+7	tribunal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Created_entity
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Created_entity
+9	an	_	an	_	DT	0	_	_	_	_	_	_	_	I-Created_entity
+10	equivalent	_	equivalent	_	NN	0	_	_	_	_	_	_	_	I-Created_entity
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	I-Created_entity
+12	force	_	force	_	NN	0	_	_	_	_	_	_	_	I-Created_entity
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	one	_	One	_	CD	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+6	international	_	international	_	JJ	0	_	_	_	_	_	international.a	Political_locales	S-Locale
+7	tribunal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+10	equivalent	_	equivalent	_	NN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	force	_	force	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	one	_	One	_	CD	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	create	_	create	_	VB	0	_	_	_	_	_	_	_	O
+5	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+6	international	_	international	_	JJ	0	_	_	_	_	_	_	_	O
+7	tribunal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+10	equivalent	_	equivalent	_	NN	0	_	_	_	_	_	_	_	O
+11	police	_	police	_	NN	0	_	_	_	_	_	_	_	O
+12	force	_	force	_	NN	0	_	_	_	_	_	force.n	Military	S-Force
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,36 @@
+1	all	_	All	_	DT	0	_	_	_	_	_	all.a	Quantified_mass	S-Quantity
+2	television	_	television	_	NN	0	_	_	_	_	_	_	_	B-Individuals
+3	screenings	_	screening	_	NNS	0	_	_	_	_	_	_	_	I-Individuals
+4	won	_	win	_	VBD	0	_	_	_	_	_	_	_	O
+5	bush	_	Bush	_	NNP	0	_	_	_	_	_	_	_	O
+6	after	_	after	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+9	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	closed	_	close	_	VBN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	all	_	All	_	DT	0	_	_	_	_	_	_	_	B-Focal_occasion
+2	television	_	television	_	NN	0	_	_	_	_	_	_	_	I-Focal_occasion
+3	screenings	_	screening	_	NNS	0	_	_	_	_	_	_	_	I-Focal_occasion
+4	won	_	win	_	VBD	0	_	_	_	_	_	_	_	I-Focal_occasion
+5	bush	_	Bush	_	NNP	0	_	_	_	_	_	_	_	I-Focal_occasion
+6	after	_	after	_	IN	0	_	_	_	_	_	after.prep	Relative_time	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Landmark_occasion
+8	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Landmark_occasion
+9	were	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Landmark_occasion
+10	closed	_	close	_	VBN	0	_	_	_	_	_	_	_	I-Landmark_occasion
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	all	_	All	_	DT	0	_	_	_	_	_	_	_	O
+2	television	_	television	_	NN	0	_	_	_	_	_	_	_	O
+3	screenings	_	screening	_	NNS	0	_	_	_	_	_	_	_	O
+4	won	_	win	_	VBD	0	_	_	_	_	_	_	_	O
+5	bush	_	Bush	_	NNP	0	_	_	_	_	_	_	_	O
+6	after	_	after	_	IN	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Container_portal
+8	polls	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Container_portal
+9	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	closed	_	close	_	VBN	0	_	_	_	_	_	close.v	Closure	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

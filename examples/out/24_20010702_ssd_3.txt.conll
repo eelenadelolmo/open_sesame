@@ -1,0 +1,24 @@
+1	on	_	On	_	IN	0	_	_	_	_	_	on.prep	Spatial_contact	O
+2	june	_	June	_	NNP	0	_	_	_	_	_	_	_	B-Ground
+3	1st	_	UNK	_	CD	0	_	_	_	_	_	_	_	I-Ground
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	he	_	he	_	PRP	0	_	_	_	_	_	_	_	B-Figure
+6	was	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Figure
+7	admitted	_	admit	_	VBN	0	_	_	_	_	_	_	_	I-Figure
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Figure
+9	this	_	this	_	DT	0	_	_	_	_	_	_	_	I-Figure
+10	centre	_	centre	_	NN	0	_	_	_	_	_	_	_	I-Figure
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	on	_	On	_	IN	0	_	_	_	_	_	_	_	B-Time
+2	june	_	June	_	NNP	0	_	_	_	_	_	_	_	I-Time
+3	1st	_	UNK	_	CD	0	_	_	_	_	_	_	_	I-Time
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+6	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	admitted	_	admit	_	VBN	0	_	_	_	_	_	admit.v	Reveal_secret	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Information
+9	this	_	this	_	DT	0	_	_	_	_	_	_	_	I-Information
+10	centre	_	centre	_	NN	0	_	_	_	_	_	_	_	I-Information
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

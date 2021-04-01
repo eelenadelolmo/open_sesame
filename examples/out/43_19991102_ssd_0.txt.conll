@@ -1,0 +1,42 @@
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	american	_	American	_	NNP	0	_	_	_	_	_	American.n	People_by_origin	S-Person
+3	archaeologists	_	archaeologist	_	NNS	0	_	_	_	_	_	_	_	O
+4	just	_	just	_	RB	0	_	_	_	_	_	_	_	O
+5	made	_	make	_	VBD	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	big	_	big	_	JJ	0	_	_	_	_	_	_	_	O
+8	stir	_	stir	_	NN	0	_	_	_	_	_	_	_	O
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+10	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+11	new	_	new	_	JJ	0	_	_	_	_	_	_	_	O
+12	theory	_	theory	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	american	_	American	_	NNP	0	_	_	_	_	_	_	_	O
+3	archaeologists	_	archaeologist	_	NNS	0	_	_	_	_	_	archaeologist.n	People_by_vocation	S-Person
+4	just	_	just	_	RB	0	_	_	_	_	_	_	_	O
+5	made	_	make	_	VBD	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	big	_	big	_	JJ	0	_	_	_	_	_	_	_	O
+8	stir	_	stir	_	NN	0	_	_	_	_	_	_	_	O
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+10	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+11	new	_	new	_	JJ	0	_	_	_	_	_	_	_	O
+12	theory	_	theory	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	american	_	American	_	NNP	0	_	_	_	_	_	_	_	O
+3	archaeologists	_	archaeologist	_	NNS	0	_	_	_	_	_	_	_	O
+4	just	_	just	_	RB	0	_	_	_	_	_	_	_	O
+5	made	_	make	_	VBD	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	big	_	big	_	JJ	0	_	_	_	_	_	_	_	O
+8	stir	_	stir	_	NN	0	_	_	_	_	_	_	_	O
+9	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+10	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+11	new	_	new	_	JJ	0	_	_	_	_	_	new.a	Age	S-Age
+12	theory	_	theory	_	NN	0	_	_	_	_	_	_	_	S-Entity
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

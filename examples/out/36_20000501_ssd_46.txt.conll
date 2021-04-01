@@ -1,0 +1,42 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	there	_	There	_	EX	0	_	_	_	_	_	there.adv	Locative_relation	S-Ground
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	B-Ground
+5	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Ground
+6	regional	_	regional	_	JJ	0	_	_	_	_	_	_	_	I-Ground
+7	congress	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Ground
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Ground
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Ground
+10	party	_	party	_	NN	0	_	_	_	_	_	_	_	I-Ground
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Ground
+12	september	_	September	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+6	regional	_	regional	_	JJ	0	_	_	_	_	_	regional.a	Locale	S-Locale
+7	congress	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	party	_	party	_	NN	0	_	_	_	_	_	_	_	O
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+12	september	_	September	_	NNP	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	there	_	There	_	EX	0	_	_	_	_	_	_	_	O
+3	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+6	regional	_	regional	_	JJ	0	_	_	_	_	_	_	_	O
+7	congress	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+8	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	party	_	party	_	NN	0	_	_	_	_	_	party.n	Aggregate	S-Aggregate
+11	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+12	september	_	September	_	NNP	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

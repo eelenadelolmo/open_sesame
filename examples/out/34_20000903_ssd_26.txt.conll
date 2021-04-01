@@ -1,0 +1,27 @@
+1	just	_	Just	_	RB	0	_	_	_	_	_	_	_	S-Degree
+2	like	_	like	_	IN	0	_	_	_	_	_	like.prep	Similarity	O
+3	that	_	that	_	DT	0	_	_	_	_	_	_	_	B-Entity_2
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	I-Entity_2
+5	matching	_	match	_	VBG	0	_	_	_	_	_	_	_	I-Entity_2
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Entity_2
+7	defense	_	defense	_	NN	0	_	_	_	_	_	_	_	I-Entity_2
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	just	_	Just	_	RB	0	_	_	_	_	_	_	_	O
+2	like	_	like	_	IN	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	DT	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	matching	_	match	_	VBG	0	_	_	_	_	_	match.v	Evaluative_comparison	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Profiled_item
+7	defense	_	defense	_	NN	0	_	_	_	_	_	_	_	I-Profiled_item
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	just	_	Just	_	RB	0	_	_	_	_	_	_	_	O
+2	like	_	like	_	IN	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	DT	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	matching	_	match	_	VBG	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	defense	_	defense	_	NN	0	_	_	_	_	_	defense.n	Defending	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,28 @@
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	only	_	only	_	JJ	0	_	_	_	_	_	only.a	Sole_instance	O
+6	issue	_	issue	_	NN	0	_	_	_	_	_	_	_	S-Item
+7	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+8	irritated	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	israeli	_	Israeli	_	NNP	0	_	_	_	_	_	_	_	O
+11	extreme	_	extreme	_	NN	0	_	_	_	_	_	_	_	O
+12	right	_	right	_	RB	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	this	_	This	_	DT	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	only	_	only	_	JJ	0	_	_	_	_	_	_	_	O
+6	issue	_	issue	_	NN	0	_	_	_	_	_	issue.n	Point_of_dispute	O
+7	that	_	that	_	WDT	0	_	_	_	_	_	_	_	O
+8	irritated	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	israeli	_	Israeli	_	NNP	0	_	_	_	_	_	_	_	O
+11	extreme	_	extreme	_	NN	0	_	_	_	_	_	_	_	O
+12	right	_	right	_	RB	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

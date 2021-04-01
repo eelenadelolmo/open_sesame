@@ -1,0 +1,32 @@
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	S-Assailant
+2	attack	_	attack	_	VBP	0	_	_	_	_	_	attack.v	Attack	O
+3	an	_	an	_	DT	0	_	_	_	_	_	_	_	B-Victim
+4	electrician	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Victim
+5	they	_	they	_	PRP	0	_	_	_	_	_	_	_	I-Victim
+6	thought	_	think	_	VBD	0	_	_	_	_	_	_	_	I-Victim
+7	was	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Victim
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Victim
+9	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Victim
+10	deputy	_	deputy	_	NN	0	_	_	_	_	_	_	_	I-Victim
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Victim
+12	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Victim
+13	radio	_	radio	_	NN	0	_	_	_	_	_	_	_	I-Victim
+14	station	_	station	_	NN	0	_	_	_	_	_	_	_	I-Victim
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	attack	_	attack	_	VBP	0	_	_	_	_	_	_	_	O
+3	an	_	an	_	DT	0	_	_	_	_	_	_	_	O
+4	electrician	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+5	they	_	they	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+6	thought	_	think	_	VBD	0	_	_	_	_	_	think.v	Opinion	O
+7	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Opinion
+9	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Opinion
+10	deputy	_	deputy	_	NN	0	_	_	_	_	_	_	_	I-Opinion
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Opinion
+12	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Opinion
+13	radio	_	radio	_	NN	0	_	_	_	_	_	_	_	I-Opinion
+14	station	_	station	_	NN	0	_	_	_	_	_	_	_	I-Opinion
+15	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

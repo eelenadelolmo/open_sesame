@@ -1,0 +1,36 @@
+1	look	_	Look	_	NNP	0	_	_	_	_	_	look.n	Scrutiny	O
+2	at	_	at	_	IN	0	_	_	_	_	_	_	_	B-Ground
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Ground
+4	racist	_	racist	_	NN	0	_	_	_	_	_	_	_	I-Ground
+5	reading	_	reading	_	NN	0	_	_	_	_	_	_	_	I-Ground
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Ground
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Ground
+8	little	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+9	mermaid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+10	!	_	!	_	.	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	look	_	Look	_	NNP	0	_	_	_	_	_	_	_	O
+2	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+4	racist	_	racist	_	NN	0	_	_	_	_	_	_	_	I-Ground
+5	reading	_	reading	_	NN	0	_	_	_	_	_	_	_	I-Ground
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Ground
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Ground
+8	little	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+9	mermaid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Ground
+10	!	_	!	_	.	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	look	_	Look	_	NNP	0	_	_	_	_	_	_	_	O
+2	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	racist	_	racist	_	NN	0	_	_	_	_	_	_	_	S-Form
+5	reading	_	reading	_	NN	0	_	_	_	_	_	reading.n	Linguistic_meaning	O
+6	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Form
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Form
+8	little	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Form
+9	mermaid	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Form
+10	!	_	!	_	.	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

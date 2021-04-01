@@ -1,0 +1,55 @@
+1	two	_	Two	_	CD	0	_	_	_	_	_	two.num	Cardinal_numbers	S-Number
+2	alleged	_	allege	_	VBN	0	_	_	_	_	_	_	_	B-Entity
+3	serb	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Entity
+4	war	_	war	_	NN	0	_	_	_	_	_	_	_	I-Entity
+5	criminals	_	criminal	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	kosovo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	alleged	_	allege	_	VBN	0	_	_	_	_	_	allege.v	Statement	O
+3	serb	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Message
+4	war	_	war	_	NN	0	_	_	_	_	_	_	_	I-Message
+5	criminals	_	criminal	_	NNS	0	_	_	_	_	_	_	_	I-Message
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	kosovo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	alleged	_	allege	_	VBN	0	_	_	_	_	_	_	_	O
+3	serb	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Sides
+4	war	_	war	_	NN	0	_	_	_	_	_	war.n	Hostile_encounter	O
+5	criminals	_	criminal	_	NNS	0	_	_	_	_	_	_	_	O
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	kosovo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	O
+2	alleged	_	allege	_	VBN	0	_	_	_	_	_	_	_	O
+3	serb	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	war	_	war	_	NN	0	_	_	_	_	_	_	_	O
+5	criminals	_	criminal	_	NNS	0	_	_	_	_	_	criminal.a	Legality	O
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	kosovo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	two	_	Two	_	CD	0	_	_	_	_	_	_	_	B-Suspect
+2	alleged	_	allege	_	VBN	0	_	_	_	_	_	_	_	I-Suspect
+3	serb	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Suspect
+4	war	_	war	_	NN	0	_	_	_	_	_	_	_	I-Suspect
+5	criminals	_	criminal	_	NNS	0	_	_	_	_	_	_	_	I-Suspect
+6	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	arrest.v	Arrest	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Time
+9	kosovo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Time
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

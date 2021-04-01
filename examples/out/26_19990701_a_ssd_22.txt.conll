@@ -1,0 +1,9 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	tell	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	me	_	me	_	PRP	0	_	_	_	_	_	_	_	O
+4	what	_	what	_	WP	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	country	_	country	_	NN	0	_	_	_	_	_	country.n	Political_locales	S-Locale
+7	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,39 @@
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+3	said	_	say	_	VBD	0	_	_	_	_	_	say.v	Statement	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Message
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	B-Message
+8	want	_	want	_	VBP	0	_	_	_	_	_	_	_	I-Message
+9	your	_	your	_	PRP$	0	_	_	_	_	_	_	_	I-Message
+10	sound	_	sound	_	NN	0	_	_	_	_	_	_	_	I-Message
+11	'	_	'	_	''	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Experiencer
+8	want	_	want	_	VBP	0	_	_	_	_	_	want.v	Desiring	O
+9	your	_	your	_	PRP$	0	_	_	_	_	_	_	_	B-Event
+10	sound	_	sound	_	NN	0	_	_	_	_	_	_	_	I-Event
+11	'	_	'	_	''	0	_	_	_	_	_	_	_	I-Event
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	said	_	say	_	VBD	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+8	want	_	want	_	VBP	0	_	_	_	_	_	_	_	O
+9	your	_	your	_	PRP$	0	_	_	_	_	_	_	_	O
+10	sound	_	sound	_	NN	0	_	_	_	_	_	sound.n	Sounds	O
+11	'	_	'	_	''	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

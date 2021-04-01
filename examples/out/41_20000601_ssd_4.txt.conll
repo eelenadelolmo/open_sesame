@@ -1,0 +1,24 @@
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Cognizer
+3	converging	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Cognizer
+4	ones	_	one	_	NNS	0	_	_	_	_	_	_	_	I-Cognizer
+5	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+6	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+7	know	_	know	_	VB	0	_	_	_	_	_	know.v	Awareness	O
+8	what	_	what	_	WP	0	_	_	_	_	_	_	_	B-Content
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-Content
+10	do	_	do	_	VB	0	_	_	_	_	_	_	_	I-Content
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	converging	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+4	ones	_	one	_	NNS	0	_	_	_	_	_	_	_	O
+5	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+6	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+7	know	_	know	_	VB	0	_	_	_	_	_	_	_	O
+8	what	_	what	_	WP	0	_	_	_	_	_	_	_	S-Act
+9	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+10	do	_	do	_	VB	0	_	_	_	_	_	do.v	Intentionally_act	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

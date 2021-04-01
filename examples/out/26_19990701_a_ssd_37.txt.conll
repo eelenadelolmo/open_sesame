@@ -1,0 +1,14 @@
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+4	bad	_	bad	_	JJ	0	_	_	_	_	_	bad.a	Desirability	O
+5	example	_	example	_	NN	0	_	_	_	_	_	_	_	S-Evaluee
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	that	_	That	_	DT	0	_	_	_	_	_	_	_	S-Type
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+4	bad	_	bad	_	JJ	0	_	_	_	_	_	_	_	S-Instance_prop
+5	example	_	example	_	NN	0	_	_	_	_	_	example.n	Instance	S-Instance
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

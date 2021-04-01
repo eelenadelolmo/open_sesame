@@ -1,0 +1,36 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	mean	_	mean	_	VBP	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	O
+9	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+10	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+11	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+12	they	_	they	_	PRP	0	_	_	_	_	_	_	_	B-Event
+13	're	_	're	_	VBP	0	_	_	_	_	_	_	_	I-Event
+14	always	_	always	_	RB	0	_	_	_	_	_	always.adv	Frequency	O
+15	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Event
+16	same	_	same	_	JJ	0	_	_	_	_	_	_	_	I-Event
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	mean	_	mean	_	VBP	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+7	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+8	thing	_	thing	_	NN	0	_	_	_	_	_	_	_	O
+9	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+10	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+11	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+12	they	_	they	_	PRP	0	_	_	_	_	_	_	_	S-Type
+13	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+14	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+15	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+16	same	_	same	_	JJ	0	_	_	_	_	_	same.a	Identicality	O
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

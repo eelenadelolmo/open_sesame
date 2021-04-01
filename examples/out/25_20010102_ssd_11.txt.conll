@@ -1,0 +1,56 @@
+1	thabet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Target
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	shot	_	shoot	_	VBN	0	_	_	_	_	_	shoot.v	Hit_target	O
+4	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	sunday	_	Sunday	_	NNP	0	_	_	_	_	_	_	_	O
+7	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+8	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+9	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	near	_	near	_	IN	0	_	_	_	_	_	_	_	O
+11	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+12	home	_	home	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	thabet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Protagonist
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	shot	_	shoot	_	VBN	0	_	_	_	_	_	_	_	O
+4	dead	_	dead	_	JJ	0	_	_	_	_	_	dead.a	Dead_or_alive	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	sunday	_	Sunday	_	NNP	0	_	_	_	_	_	_	_	O
+7	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+8	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+9	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	near	_	near	_	IN	0	_	_	_	_	_	_	_	O
+11	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+12	home	_	home	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	thabet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	shot	_	shoot	_	VBN	0	_	_	_	_	_	_	_	O
+4	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	sunday	_	Sunday	_	NNP	0	_	_	_	_	_	_	_	O
+7	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+8	he	_	he	_	PRP	0	_	_	_	_	_	_	_	S-Figure
+9	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	near	_	near	_	IN	0	_	_	_	_	_	near.prep	Locative_relation	O
+11	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Ground
+12	home	_	home	_	NN	0	_	_	_	_	_	_	_	I-Ground
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	thabet	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	shot	_	shoot	_	VBN	0	_	_	_	_	_	_	_	O
+4	dead	_	dead	_	JJ	0	_	_	_	_	_	_	_	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	sunday	_	Sunday	_	NNP	0	_	_	_	_	_	_	_	O
+7	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+8	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+9	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+10	near	_	near	_	IN	0	_	_	_	_	_	_	_	O
+11	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+12	home	_	home	_	NN	0	_	_	_	_	_	home.n	Buildings	S-Building
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

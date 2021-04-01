@@ -1,0 +1,26 @@
+1	gelman	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Ego
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Ego
+3	son	_	son	_	NN	0	_	_	_	_	_	son.n	Kinship	B-Alter
+4	marcelo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Alter
+5	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+6	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	_	_	O
+8	during	_	during	_	IN	0	_	_	_	_	_	_	_	O
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+10	argentine	_	Argentine	_	JJ	0	_	_	_	_	_	_	_	O
+11	dictatorship	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	gelman	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Suspect
+2	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Suspect
+3	son	_	son	_	NN	0	_	_	_	_	_	_	_	I-Suspect
+4	marcelo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Suspect
+5	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+6	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+7	arrested	_	arrest	_	VBN	0	_	_	_	_	_	arrest.v	Arrest	O
+8	during	_	during	_	IN	0	_	_	_	_	_	_	_	B-Time
+9	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+10	argentine	_	Argentine	_	JJ	0	_	_	_	_	_	_	_	I-Time
+11	dictatorship	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Time
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

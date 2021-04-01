@@ -1,0 +1,45 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	executive	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+4	unceasing	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+5	pressure	_	pressure	_	NN	0	_	_	_	_	_	pressure.n	Attempt_suasion	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	having	_	have	_	VBG	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+9	double	_	double	_	JJ	0	_	_	_	_	_	_	_	O
+10	effect	_	effect	_	NN	0	_	_	_	_	_	_	_	O
+11	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+12	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+13	rows	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Owner
+2	executive	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Owner
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Owner
+4	unceasing	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Owner
+5	pressure	_	pressure	_	NN	0	_	_	_	_	_	_	_	I-Owner
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	having	_	have	_	VBG	0	_	_	_	_	_	have.v	Possession	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Possession
+9	double	_	double	_	JJ	0	_	_	_	_	_	_	_	I-Possession
+10	effect	_	effect	_	NN	0	_	_	_	_	_	_	_	I-Possession
+11	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Possession
+12	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Possession
+13	rows	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	I-Possession
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	executive	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+4	unceasing	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+5	pressure	_	pressure	_	NN	0	_	_	_	_	_	_	_	O
+6	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+7	having	_	have	_	VBG	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+9	double	_	double	_	JJ	0	_	_	_	_	_	_	_	O
+10	effect	_	effect	_	NN	0	_	_	_	_	_	effect.n	Objective_influence	O
+11	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-Dependent_entity
+12	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Dependent_entity
+13	rows	_	UNK	_	VBZ	0	_	_	_	_	_	_	_	I-Dependent_entity
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,55 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	ban	_	ban	_	NN	0	_	_	_	_	_	ban.n	Prohibiting_or_licensing	O
+3	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-State_of_affairs
+4	live	_	live	_	JJ	0	_	_	_	_	_	_	_	I-State_of_affairs
+5	livestock	_	livestock	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+6	exports	_	export	_	NNS	0	_	_	_	_	_	_	_	I-State_of_affairs
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	I-State_of_affairs
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-State_of_affairs
+9	force	_	force	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	ban	_	ban	_	NN	0	_	_	_	_	_	_	_	O
+3	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	JJ	0	_	_	_	_	_	live.v	Residence	O
+5	livestock	_	livestock	_	NN	0	_	_	_	_	_	_	_	B-Location
+6	exports	_	export	_	NNS	0	_	_	_	_	_	_	_	I-Location
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	force	_	force	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	ban	_	ban	_	NN	0	_	_	_	_	_	_	_	O
+3	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	JJ	0	_	_	_	_	_	_	_	O
+5	livestock	_	livestock	_	NN	0	_	_	_	_	_	_	_	S-Goods
+6	exports	_	export	_	NNS	0	_	_	_	_	_	export.v	Exporting	O
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Importing_area
+9	force	_	force	_	NN	0	_	_	_	_	_	_	_	I-Importing_area
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-State
+2	ban	_	ban	_	NN	0	_	_	_	_	_	_	_	I-State
+3	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-State
+4	live	_	live	_	JJ	0	_	_	_	_	_	_	_	I-State
+5	livestock	_	livestock	_	NN	0	_	_	_	_	_	_	_	I-State
+6	exports	_	export	_	NNS	0	_	_	_	_	_	_	_	I-State
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	remain.v	State_continue	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-State
+9	force	_	force	_	NN	0	_	_	_	_	_	_	_	I-State
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	ban	_	ban	_	NN	0	_	_	_	_	_	_	_	O
+3	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	JJ	0	_	_	_	_	_	_	_	O
+5	livestock	_	livestock	_	NN	0	_	_	_	_	_	_	_	O
+6	exports	_	export	_	NNS	0	_	_	_	_	_	_	_	O
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	force	_	force	_	NN	0	_	_	_	_	_	force.n	Military	S-Force
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

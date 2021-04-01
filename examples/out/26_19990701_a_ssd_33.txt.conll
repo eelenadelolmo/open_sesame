@@ -1,0 +1,34 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	were	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	war	_	war	_	NN	0	_	_	_	_	_	war.n	Hostile_encounter	O
+5	correspondents	_	correspondent	_	NNS	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	little	_	little	_	RB	0	_	_	_	_	_	_	_	O
+8	better	_	better	_	RBR	0	_	_	_	_	_	_	_	O
+9	informed	_	inform	_	VBN	0	_	_	_	_	_	_	_	O
+10	before	_	before	_	IN	0	_	_	_	_	_	_	_	O
+11	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+12	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+13	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+14	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+15	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	were	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	war	_	war	_	NN	0	_	_	_	_	_	_	_	O
+5	correspondents	_	correspondent	_	NNS	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	little	_	little	_	RB	0	_	_	_	_	_	_	_	O
+8	better	_	better	_	RBR	0	_	_	_	_	_	_	_	O
+9	informed	_	inform	_	VBN	0	_	_	_	_	_	inform.v	Telling	O
+10	before	_	before	_	IN	0	_	_	_	_	_	_	_	S-Manner
+11	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+12	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+13	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+14	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+15	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,12 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	always	_	always	_	RB	0	_	_	_	_	_	always.adv	Frequency	O
+4	friends	_	friend	_	NNS	0	_	_	_	_	_	_	_	S-Event
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	S-Partner_2
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+4	friends	_	friend	_	NNS	0	_	_	_	_	_	friend.n	Personal_relationship	S-Partner_1
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

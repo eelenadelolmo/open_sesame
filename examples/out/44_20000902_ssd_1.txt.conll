@@ -1,0 +1,11 @@
+1	water	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+3	more	_	more	_	JJR	0	_	_	_	_	_	more.a	Increment	O
+4	than	_	than	_	IN	0	_	_	_	_	_	_	_	B-Class
+5	wealth	_	wealth	_	NN	0	_	_	_	_	_	_	_	I-Class
+6	:	_	:	_	:	0	_	_	_	_	_	_	_	O
+7	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+8	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+9	life	_	life	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

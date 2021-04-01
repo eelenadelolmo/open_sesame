@@ -1,0 +1,22 @@
+1	arafat	_	Arafat	_	NNP	0	_	_	_	_	_	_	_	O
+2	met	_	meet	_	VBD	0	_	_	_	_	_	_	_	O
+3	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	yesterday.n	Calendric_unit	S-Unit
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	president	_	President	_	NNP	0	_	_	_	_	_	_	_	O
+6	hosni	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	mubarak	_	Mubarak	_	NNP	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	cairo	_	Cairo	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	arafat	_	Arafat	_	NNP	0	_	_	_	_	_	_	_	O
+2	met	_	meet	_	VBD	0	_	_	_	_	_	_	_	O
+3	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	president	_	President	_	NNP	0	_	_	_	_	_	president.n	Appellations	O
+6	hosni	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	mubarak	_	Mubarak	_	NNP	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	cairo	_	Cairo	_	NNP	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

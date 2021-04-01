@@ -1,0 +1,56 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Speaker
+2	british	_	British	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+3	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+4	acknowledged	_	acknowledge	_	VBD	0	_	_	_	_	_	acknowledge.v	Communication_response	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Trigger
+6	mad	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Trigger
+7	cow	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Trigger
+8	disease	_	disease	_	NN	0	_	_	_	_	_	_	_	I-Trigger
+9	could	_	could	_	MD	0	_	_	_	_	_	_	_	I-Trigger
+10	affect	_	affect	_	VB	0	_	_	_	_	_	_	_	I-Trigger
+11	human	_	human	_	JJ	0	_	_	_	_	_	_	_	I-Trigger
+12	health	_	health	_	NN	0	_	_	_	_	_	_	_	I-Trigger
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	british	_	British	_	NNP	0	_	_	_	_	_	_	_	O
+3	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	O
+4	acknowledged	_	acknowledge	_	VBD	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	mad	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Symptom
+7	cow	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Symptom
+8	disease	_	disease	_	NN	0	_	_	_	_	_	disease.n	Medical_conditions	S-Ailment
+9	could	_	could	_	MD	0	_	_	_	_	_	_	_	O
+10	affect	_	affect	_	VB	0	_	_	_	_	_	_	_	O
+11	human	_	human	_	JJ	0	_	_	_	_	_	_	_	O
+12	health	_	health	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	british	_	British	_	NNP	0	_	_	_	_	_	_	_	O
+3	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	O
+4	acknowledged	_	acknowledge	_	VBD	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	mad	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Possible_event
+7	cow	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Possible_event
+8	disease	_	disease	_	NN	0	_	_	_	_	_	_	_	I-Possible_event
+9	could	_	could	_	MD	0	_	_	_	_	_	could.v	Possibility	O
+10	affect	_	affect	_	VB	0	_	_	_	_	_	_	_	B-Possible_event
+11	human	_	human	_	JJ	0	_	_	_	_	_	_	_	I-Possible_event
+12	health	_	health	_	NN	0	_	_	_	_	_	_	_	I-Possible_event
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	british	_	British	_	NNP	0	_	_	_	_	_	_	_	O
+3	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	O
+4	acknowledged	_	acknowledge	_	VBD	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	mad	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Influencing_entity
+7	cow	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Influencing_entity
+8	disease	_	disease	_	NN	0	_	_	_	_	_	_	_	I-Influencing_entity
+9	could	_	could	_	MD	0	_	_	_	_	_	_	_	O
+10	affect	_	affect	_	VB	0	_	_	_	_	_	affect.v	Objective_influence	O
+11	human	_	human	_	JJ	0	_	_	_	_	_	_	_	B-Dependent_entity
+12	health	_	health	_	NN	0	_	_	_	_	_	_	_	I-Dependent_entity
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

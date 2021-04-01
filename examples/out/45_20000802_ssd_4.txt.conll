@@ -1,0 +1,20 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Potential_hindrance
+2	driver	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Potential_hindrance
+3	did	_	do	_	VBD	0	_	_	_	_	_	_	_	O
+4	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+5	stop	_	stop	_	VB	0	_	_	_	_	_	stop.v	Preventing_or_letting	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Event
+7	help	_	help	_	VB	0	_	_	_	_	_	_	_	I-Event
+8	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-Event
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	driver	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	did	_	do	_	VBD	0	_	_	_	_	_	_	_	O
+4	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+5	stop	_	stop	_	VB	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	help	_	help	_	VB	0	_	_	_	_	_	help.v	Assistance	O
+8	them	_	them	_	PRP	0	_	_	_	_	_	_	_	S-Benefited_party
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

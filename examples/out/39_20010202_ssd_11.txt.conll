@@ -1,0 +1,22 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	why	_	Why	_	WRB	0	_	_	_	_	_	_	_	O
+3	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+4	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+5	think	_	think	_	VB	0	_	_	_	_	_	think.v	Opinion	O
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	B-Opinion
+7	should	_	should	_	MD	0	_	_	_	_	_	_	_	I-Opinion
+8	publish	_	publish	_	VB	0	_	_	_	_	_	_	_	I-Opinion
+9	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-Opinion
+10	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	why	_	Why	_	WRB	0	_	_	_	_	_	_	_	O
+3	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+4	you	_	you	_	PRP	0	_	_	_	_	_	_	_	O
+5	think	_	think	_	VB	0	_	_	_	_	_	_	_	O
+6	we	_	we	_	PRP	0	_	_	_	_	_	_	_	S-State_of_affairs
+7	should	_	should	_	MD	0	_	_	_	_	_	should.v	Desirable_event	O
+8	publish	_	publish	_	VB	0	_	_	_	_	_	_	_	B-State_of_affairs
+9	them	_	them	_	PRP	0	_	_	_	_	_	_	_	I-State_of_affairs
+10	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+

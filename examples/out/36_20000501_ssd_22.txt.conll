@@ -1,0 +1,56 @@
+1	consideration	_	UNK	_	NN	0	_	_	_	_	_	_	_	S-State_of_affairs
+2	should	_	should	_	MD	0	_	_	_	_	_	should.v	Desirable_event	O
+3	also	_	also	_	RB	0	_	_	_	_	_	_	_	B-State_of_affairs
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	I-State_of_affairs
+5	given	_	give	_	VBN	0	_	_	_	_	_	_	_	I-State_of_affairs
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	I-State_of_affairs
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-State_of_affairs
+8	flow	_	flow	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-State_of_affairs
+10	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-State_of_affairs
+12	capital	_	capital	_	NN	0	_	_	_	_	_	_	_	I-State_of_affairs
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	consideration	_	UNK	_	NN	0	_	_	_	_	_	_	_	S-Theme
+2	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+3	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	given	_	give	_	VBN	0	_	_	_	_	_	give.v	Giving	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Purpose
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Purpose
+8	flow	_	flow	_	NN	0	_	_	_	_	_	_	_	I-Purpose
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Purpose
+10	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	I-Purpose
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Purpose
+12	capital	_	capital	_	NN	0	_	_	_	_	_	_	_	I-Purpose
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	consideration	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+3	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	given	_	give	_	VBN	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	flow	_	flow	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	trade	_	trade	_	NN	0	_	_	_	_	_	trade.n	Exchange	O
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+12	capital	_	capital	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	consideration	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+2	should	_	should	_	MD	0	_	_	_	_	_	_	_	O
+3	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+4	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+5	given	_	give	_	VBN	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+8	flow	_	flow	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	trade	_	trade	_	NN	0	_	_	_	_	_	_	_	O
+11	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+12	capital	_	capital	_	NN	0	_	_	_	_	_	capital.n	Relational_political_locales	S-Locale
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

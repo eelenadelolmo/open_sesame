@@ -1,0 +1,13 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+2	advocates	_	advocate	_	VBZ	0	_	_	_	_	_	advocate.v	Attempt_suasion	O
+3	weaving	_	UNK	_	VBG	0	_	_	_	_	_	_	_	B-Content
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	I-Content
+5	solid	_	solid	_	JJ	0	_	_	_	_	_	_	_	I-Content
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	I-Content
+7	bottom-up	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Content
+8	unity	_	unity	_	NN	0	_	_	_	_	_	_	_	I-Content
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Content
+10	all	_	all	_	DT	0	_	_	_	_	_	_	_	I-Content
+11	democrats	_	Democrats	_	NNPS	0	_	_	_	_	_	_	_	I-Content
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

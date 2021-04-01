@@ -1,0 +1,14 @@
+1	your	_	Your	_	PRP$	0	_	_	_	_	_	_	_	S-Ego
+2	son	_	son	_	NN	0	_	_	_	_	_	son.n	Kinship	S-Alter
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+5	murdered	_	murder	_	VBN	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	your	_	Your	_	PRP$	0	_	_	_	_	_	_	_	B-Victim
+2	son	_	son	_	NN	0	_	_	_	_	_	_	_	I-Victim
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	also	_	also	_	RB	0	_	_	_	_	_	_	_	O
+5	murdered	_	murder	_	VBN	0	_	_	_	_	_	murder.v	Killing	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

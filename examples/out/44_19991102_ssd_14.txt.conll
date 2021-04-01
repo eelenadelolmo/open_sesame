@@ -1,0 +1,5 @@
+1	catholics	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Entity
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	satisfied	_	satisfy	_	VBD	0	_	_	_	_	_	satisfy.v	Satisfying	O
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

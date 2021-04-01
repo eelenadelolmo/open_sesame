@@ -1,0 +1,52 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Supplier
+2	witness	_	witness	_	NN	0	_	_	_	_	_	_	_	I-Supplier
+3	provided	_	provide	_	VBD	0	_	_	_	_	_	provide.v	Supply	O
+4	confusing	_	confuse	_	VBG	0	_	_	_	_	_	_	_	B-Theme
+5	explanations	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Theme
+6	confirming	_	confirm	_	VBG	0	_	_	_	_	_	_	_	I-Theme
+7	details	_	detail	_	NNS	0	_	_	_	_	_	_	_	I-Theme
+8	stated	_	state	_	VBN	0	_	_	_	_	_	_	_	I-Theme
+9	by	_	by	_	IN	0	_	_	_	_	_	_	_	I-Theme
+10	felipe	_	Felipe	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+11	bayo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Stimulus
+2	witness	_	witness	_	NN	0	_	_	_	_	_	_	_	I-Stimulus
+3	provided	_	provide	_	VBD	0	_	_	_	_	_	_	_	O
+4	confusing	_	confuse	_	VBG	0	_	_	_	_	_	confuse.v	Experiencer_obj	O
+5	explanations	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Stimulus
+6	confirming	_	confirm	_	VBG	0	_	_	_	_	_	_	_	O
+7	details	_	detail	_	NNS	0	_	_	_	_	_	_	_	O
+8	stated	_	state	_	VBN	0	_	_	_	_	_	_	_	O
+9	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+10	felipe	_	Felipe	_	NNP	0	_	_	_	_	_	_	_	O
+11	bayo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Medium
+2	witness	_	witness	_	NN	0	_	_	_	_	_	_	_	I-Medium
+3	provided	_	provide	_	VBD	0	_	_	_	_	_	_	_	I-Medium
+4	confusing	_	confuse	_	VBG	0	_	_	_	_	_	_	_	I-Medium
+5	explanations	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Medium
+6	confirming	_	confirm	_	VBG	0	_	_	_	_	_	confirm.v	Verification	O
+7	details	_	detail	_	NNS	0	_	_	_	_	_	_	_	S-Unconfirmed_content
+8	stated	_	state	_	VBN	0	_	_	_	_	_	_	_	B-Manner
+9	by	_	by	_	IN	0	_	_	_	_	_	_	_	I-Manner
+10	felipe	_	Felipe	_	NNP	0	_	_	_	_	_	_	_	I-Manner
+11	bayo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Manner
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Message
+2	witness	_	witness	_	NN	0	_	_	_	_	_	_	_	I-Message
+3	provided	_	provide	_	VBD	0	_	_	_	_	_	_	_	I-Message
+4	confusing	_	confuse	_	VBG	0	_	_	_	_	_	_	_	I-Message
+5	explanations	_	UNK	_	NNS	0	_	_	_	_	_	_	_	I-Message
+6	confirming	_	confirm	_	VBG	0	_	_	_	_	_	_	_	I-Message
+7	details	_	detail	_	NNS	0	_	_	_	_	_	_	_	I-Message
+8	stated	_	state	_	VBN	0	_	_	_	_	_	state.v	Statement	O
+9	by	_	by	_	IN	0	_	_	_	_	_	_	_	B-Speaker
+10	felipe	_	Felipe	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+11	bayo	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

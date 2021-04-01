@@ -1,0 +1,44 @@
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	two	_	two	_	CD	0	_	_	_	_	_	two.num	Cardinal_numbers	S-Number
+4	basic	_	basic	_	JJ	0	_	_	_	_	_	_	_	B-Entity
+5	elements	_	element	_	NNS	0	_	_	_	_	_	_	_	I-Entity
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+7	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	NN	0	_	_	_	_	_	_	_	O
+9	story	_	story	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	two	_	two	_	CD	0	_	_	_	_	_	_	_	O
+4	basic	_	basic	_	JJ	0	_	_	_	_	_	basic.a	Being_necessary	O
+5	elements	_	element	_	NNS	0	_	_	_	_	_	_	_	S-Requirement
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+7	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	NN	0	_	_	_	_	_	_	_	O
+9	story	_	story	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	two	_	two	_	CD	0	_	_	_	_	_	_	_	O
+4	basic	_	basic	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+5	elements	_	element	_	NNS	0	_	_	_	_	_	element.n	Ingredients	S-Material
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+7	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	NN	0	_	_	_	_	_	_	_	O
+9	story	_	story	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	two	_	two	_	CD	0	_	_	_	_	_	_	_	O
+4	basic	_	basic	_	JJ	0	_	_	_	_	_	_	_	O
+5	elements	_	element	_	NNS	0	_	_	_	_	_	_	_	O
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+7	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+8	love	_	love	_	NN	0	_	_	_	_	_	love.v	Experiencer_focus	O
+9	story	_	story	_	NN	0	_	_	_	_	_	_	_	S-Content
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

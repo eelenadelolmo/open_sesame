@@ -1,0 +1,10 @@
+1	more	_	More	_	JJR	0	_	_	_	_	_	more.a	Increment	O
+2	urban	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Class
+3	control	_	control	_	NN	0	_	_	_	_	_	_	_	I-Class
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	more	_	More	_	JJR	0	_	_	_	_	_	_	_	O
+2	urban	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Dependent_entity
+3	control	_	control	_	NN	0	_	_	_	_	_	control.n	Being_in_control	O
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

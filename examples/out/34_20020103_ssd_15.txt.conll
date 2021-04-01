@@ -1,0 +1,8 @@
+1	yours	_	UNK	_	NNS	0	_	_	_	_	_	_	_	S-Sleeper
+2	comes	_	come	_	VBZ	0	_	_	_	_	_	_	_	O
+3	out	_	out	_	RP	0	_	_	_	_	_	out.a	Sleep	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Sleeper
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Sleeper
+6	closet	_	closet	_	NN	0	_	_	_	_	_	_	_	I-Sleeper
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

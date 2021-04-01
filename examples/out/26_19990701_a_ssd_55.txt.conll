@@ -1,0 +1,26 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	what	_	What	_	WP	0	_	_	_	_	_	_	_	O
+3	did	_	do	_	VBD	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	article	_	article	_	NN	0	_	_	_	_	_	article.n	Text	S-Text
+6	say	_	say	_	VBP	0	_	_	_	_	_	_	_	O
+7	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+8	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+9	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+10	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+11	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	what	_	What	_	WP	0	_	_	_	_	_	_	_	O
+3	did	_	do	_	VBD	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	article	_	article	_	NN	0	_	_	_	_	_	_	_	S-Message
+6	say	_	say	_	VBP	0	_	_	_	_	_	say.v	Statement	O
+7	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+8	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+9	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+10	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+11	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

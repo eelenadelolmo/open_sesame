@@ -1,0 +1,18 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	B-Cognizer
+2	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Cognizer
+3	can	_	can	_	MD	0	_	_	_	_	_	_	_	O
+4	choose	_	choose	_	VB	0	_	_	_	_	_	choose.v	Choosing	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	not	_	not	_	RB	0	_	_	_	_	_	_	_	B-Chosen
+7	between	_	between	_	IN	0	_	_	_	_	_	_	_	I-Chosen
+8	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Chosen
+9	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Chosen
+10	erc	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Chosen
+11	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+12	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+13	between	_	between	_	IN	0	_	_	_	_	_	_	_	O
+14	moderation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+15	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+16	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

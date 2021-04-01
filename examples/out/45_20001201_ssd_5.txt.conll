@@ -1,0 +1,28 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	internal	_	internal	_	JJ	0	_	_	_	_	_	_	_	S-Depictive
+3	struggle	_	struggle	_	NN	0	_	_	_	_	_	struggle.n	Hostile_encounter	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Side_2
+5	cdc	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Side_2
+6	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+7	left	_	leave	_	VBN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	government	_	government	_	NN	0	_	_	_	_	_	_	_	O
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+11	barcelona	_	Barcelona	_	NNP	0	_	_	_	_	_	_	_	O
+12	indifferent	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	internal	_	internal	_	JJ	0	_	_	_	_	_	_	_	O
+3	struggle	_	struggle	_	NN	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	cdc	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+6	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+7	left	_	leave	_	VBN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	government	_	government	_	NN	0	_	_	_	_	_	government.n	Leadership	S-Leader
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Governed
+11	barcelona	_	Barcelona	_	NNP	0	_	_	_	_	_	_	_	I-Governed
+12	indifferent	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

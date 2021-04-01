@@ -1,0 +1,28 @@
+1	those	_	Those	_	DT	0	_	_	_	_	_	_	_	O
+2	affected	_	affect	_	VBN	0	_	_	_	_	_	affect.v	Objective_influence	S-Dependent_entity
+3	again	_	again	_	RB	0	_	_	_	_	_	_	_	O
+4	complained	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+5	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	poor	_	poor	_	JJ	0	_	_	_	_	_	_	_	O
+8	care	_	care	_	NN	0	_	_	_	_	_	_	_	O
+9	they	_	they	_	PRP	0	_	_	_	_	_	_	_	O
+10	receive	_	receive	_	VBP	0	_	_	_	_	_	_	_	O
+11	from	_	from	_	IN	0	_	_	_	_	_	_	_	O
+12	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	those	_	Those	_	DT	0	_	_	_	_	_	_	_	O
+2	affected	_	affect	_	VBN	0	_	_	_	_	_	_	_	O
+3	again	_	again	_	RB	0	_	_	_	_	_	_	_	O
+4	complained	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+5	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	poor	_	poor	_	JJ	0	_	_	_	_	_	_	_	O
+8	care	_	care	_	NN	0	_	_	_	_	_	_	_	O
+9	they	_	they	_	PRP	0	_	_	_	_	_	_	_	S-Recipient
+10	receive	_	receive	_	VBP	0	_	_	_	_	_	receive.v	Receiving	O
+11	from	_	from	_	IN	0	_	_	_	_	_	_	_	B-Theme
+12	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Theme
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

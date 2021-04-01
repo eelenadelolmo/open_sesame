@@ -1,0 +1,21 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	is	_	Is	_	VBZ	0	_	_	_	_	_	_	_	O
+3	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+4	fair	_	fair	_	RB	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	catalan	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Figure
+8	image	_	image	_	NN	0	_	_	_	_	_	image.n	Impression	S-Impression
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Figure
+10	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Figure
+11	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+12	concentrates	_	concentrate	_	VBZ	0	_	_	_	_	_	_	_	I-Figure
+13	josep	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+14	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+15	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+16	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+17	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+18	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+19	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+20	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

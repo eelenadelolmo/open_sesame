@@ -1,0 +1,13 @@
+1	maybe	_	UNK	_	RB	0	_	_	_	_	_	_	_	O
+2	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+3	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+4	have	_	have	_	VB	0	_	_	_	_	_	_	_	O
+5	been	_	be	_	VBN	0	_	_	_	_	_	_	_	O
+6	someone	_	someone	_	NN	0	_	_	_	_	_	_	_	S-Stimulus
+7	very	_	very	_	RB	0	_	_	_	_	_	_	_	S-Degree
+8	boring	_	bore	_	VBG	0	_	_	_	_	_	bore.v	Experiencer_obj	O
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+11	happier	_	UNK	_	JJR	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

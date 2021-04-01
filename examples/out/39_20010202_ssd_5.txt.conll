@@ -1,0 +1,16 @@
+1	these	_	These	_	DT	0	_	_	_	_	_	_	_	S-Business_name
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	bank	_	bank	_	NN	0	_	_	_	_	_	bank.n	Businesses	S-Business
+4	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+5	tax	_	tax	_	NN	0	_	_	_	_	_	_	_	O
+6	documents	_	document	_	NNS	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	these	_	These	_	DT	0	_	_	_	_	_	_	_	O
+2	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+3	bank	_	bank	_	NN	0	_	_	_	_	_	_	_	O
+4	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+5	tax	_	tax	_	NN	0	_	_	_	_	_	_	_	S-Obligation
+6	documents	_	document	_	NNS	0	_	_	_	_	_	document.n	Documents	S-Document
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

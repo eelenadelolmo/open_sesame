@@ -1,0 +1,27 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	leader	_	leader	_	NN	0	_	_	_	_	_	leader.n	Leadership	O
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+4	repentance	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+5	moved	_	move	_	VBD	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	citizens	_	citizen	_	NNS	0	_	_	_	_	_	_	_	O
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Theme
+2	leader	_	leader	_	NN	0	_	_	_	_	_	_	_	I-Theme
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	I-Theme
+4	repentance	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Theme
+5	moved	_	move	_	VBD	0	_	_	_	_	_	move.v	Motion	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Theme
+7	citizens	_	citizen	_	NNS	0	_	_	_	_	_	_	_	I-Theme
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	leader	_	leader	_	NN	0	_	_	_	_	_	_	_	O
+3	's	_	's	_	POS	0	_	_	_	_	_	_	_	O
+4	repentance	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+5	moved	_	move	_	VBD	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	citizens	_	citizen	_	NNS	0	_	_	_	_	_	citizen.n	People_by_jurisdiction	S-Person
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

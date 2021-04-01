@@ -1,0 +1,8 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Side_1
+2	rhythm	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Side_1
+3	kings	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Side_1
+4	fought	_	fight	_	VBD	0	_	_	_	_	_	fight.v	Hostile_encounter	O
+5	against	_	against	_	IN	0	_	_	_	_	_	_	_	B-Side_2
+6	that	_	that	_	DT	0	_	_	_	_	_	_	_	I-Side_2
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

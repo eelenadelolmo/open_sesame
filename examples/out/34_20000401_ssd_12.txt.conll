@@ -1,0 +1,22 @@
+1	his	_	His	_	PRP$	0	_	_	_	_	_	_	_	S-Possessor
+2	body	_	body	_	NN	0	_	_	_	_	_	body.n	Body_parts	S-Body_part
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+5	returned	_	return	_	VBN	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	him	_	him	_	PRP	0	_	_	_	_	_	_	_	O
+8	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+9	1998	_	1998	_	CD	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	his	_	His	_	PRP$	0	_	_	_	_	_	_	_	B-Theme
+2	body	_	body	_	NN	0	_	_	_	_	_	_	_	I-Theme
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+5	returned	_	return	_	VBN	0	_	_	_	_	_	return.v	Arriving	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Goal
+7	him	_	him	_	PRP	0	_	_	_	_	_	_	_	I-Goal
+8	until	_	until	_	IN	0	_	_	_	_	_	_	_	O
+9	1998	_	1998	_	CD	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,12 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	flames	_	flame	_	NNS	0	_	_	_	_	_	flame.v	Location_of_light	S-Light
+3	spread	_	spread	_	VBP	0	_	_	_	_	_	_	_	O
+4	quickly	_	quickly	_	RB	0	_	_	_	_	_	_	_	O
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Item
+2	flames	_	flame	_	NNS	0	_	_	_	_	_	_	_	I-Item
+3	spread	_	spread	_	VBP	0	_	_	_	_	_	spread.v	Expansion	O
+4	quickly	_	quickly	_	RB	0	_	_	_	_	_	_	_	O
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,10 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	traffic	_	traffic	_	JJ	0	_	_	_	_	_	_	_	O
+3	unit	_	unit	_	NN	0	_	_	_	_	_	_	_	O
+4	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+5	276	_	UNK	_	CD	0	_	_	_	_	_	_	_	O
+6	agents	_	agent	_	NNS	0	_	_	_	_	_	agent.n	Active_substance	S-Substance
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	girona	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

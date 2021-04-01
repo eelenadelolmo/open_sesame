@@ -1,0 +1,9 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Support
+2	meant	_	mean	_	VBD	0	_	_	_	_	_	mean.v	Evidence	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Proposition
+4	it	_	it	_	PRP	0	_	_	_	_	_	_	_	I-Proposition
+5	had	_	have	_	VBD	0	_	_	_	_	_	_	_	I-Proposition
+6	no	_	no	_	DT	0	_	_	_	_	_	_	_	I-Proposition
+7	merit	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Proposition
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

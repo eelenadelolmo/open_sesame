@@ -1,0 +1,20 @@
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	S-Protagonist
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	just	_	just	_	RB	0	_	_	_	_	_	_	_	B-Manner
+4	very	_	very	_	RB	0	_	_	_	_	_	_	_	I-Manner
+5	shy	_	shy	_	JJ	0	_	_	_	_	_	shy.a	Sociability	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	you	_	you	_	PRP	0	_	_	_	_	_	_	_	B-Content
+8	know	_	know	_	VBP	0	_	_	_	_	_	_	_	I-Content
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	he	_	He	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	just	_	just	_	RB	0	_	_	_	_	_	_	_	O
+4	very	_	very	_	RB	0	_	_	_	_	_	_	_	O
+5	shy	_	shy	_	JJ	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+8	know	_	know	_	VBP	0	_	_	_	_	_	know.v	Awareness	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

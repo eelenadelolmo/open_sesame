@@ -1,0 +1,11 @@
+1	dealing	_	UNK	_	VBG	0	_	_	_	_	_	_	_	O
+2	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+3	ciu	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+5	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+6	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+7	goal	_	goal	_	NN	0	_	_	_	_	_	goal.n	Purpose	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Goal
+9	itself	_	itself	_	PRP	0	_	_	_	_	_	_	_	I-Goal
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

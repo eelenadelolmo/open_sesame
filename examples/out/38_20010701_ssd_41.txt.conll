@@ -1,0 +1,24 @@
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	B-Event
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Event
+3	always	_	always	_	RB	0	_	_	_	_	_	always.adv	Frequency	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Event
+5	most	_	most	_	RBS	0	_	_	_	_	_	_	_	I-Event
+6	reserved	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Event
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	least	_	least	_	JJS	0	_	_	_	_	_	_	_	O
+10	crazy	_	crazy	_	NN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	we	_	We	_	PRP	0	_	_	_	_	_	_	_	O
+2	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	always	_	always	_	RB	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	most	_	most	_	RBS	0	_	_	_	_	_	_	_	O
+6	reserved	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	least	_	least	_	JJS	0	_	_	_	_	_	_	_	O
+10	crazy	_	crazy	_	NN	0	_	_	_	_	_	crazy.a	Mental_property	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

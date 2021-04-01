@@ -1,0 +1,13 @@
+1	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	truth	_	truth	_	NN	0	_	_	_	_	_	_	_	O
+5	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	we	_	we	_	PRP	0	_	_	_	_	_	_	_	S-Producer
+8	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+9	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+10	make	_	make	_	VB	0	_	_	_	_	_	make.v	Manufacturing	O
+11	much	_	much	_	JJ	0	_	_	_	_	_	_	_	S-Product
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

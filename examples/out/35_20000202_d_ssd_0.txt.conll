@@ -1,0 +1,20 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	indonesian	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Name
+3	president	_	president	_	NN	0	_	_	_	_	_	president.n	Appellations	O
+4	asks	_	ask	_	VBZ	0	_	_	_	_	_	_	_	O
+5	general	_	General	_	NNP	0	_	_	_	_	_	_	_	O
+6	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+8	resign	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Speaker
+2	indonesian	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+3	president	_	president	_	NN	0	_	_	_	_	_	_	_	I-Speaker
+4	asks	_	ask	_	VBZ	0	_	_	_	_	_	ask.v	Questioning	O
+5	general	_	General	_	NNP	0	_	_	_	_	_	_	_	B-Addressee
+6	wiranto	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Addressee
+7	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Message
+8	resign	_	UNK	_	VB	0	_	_	_	_	_	_	_	I-Message
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

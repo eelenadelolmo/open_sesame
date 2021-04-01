@@ -1,0 +1,6 @@
+1	bullying	_	UNK	_	VBG	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	chilean	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Governed
+4	dictator	_	dictator	_	NN	0	_	_	_	_	_	dictator.n	Leadership	S-Leader
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,42 @@
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Resident
+2	prefer	_	UNK	_	VBP	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	VB	0	_	_	_	_	_	live.v	Residence	O
+5	from	_	from	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	present	_	present	_	NN	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	look	_	look	_	NN	0	_	_	_	_	_	_	_	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+12	future	_	future	_	NN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+2	prefer	_	UNK	_	VBP	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	VB	0	_	_	_	_	_	_	_	O
+5	from	_	from	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	present	_	present	_	NN	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	look	_	look	_	NN	0	_	_	_	_	_	look.n	Scrutiny	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Phenomenon
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Phenomenon
+12	future	_	future	_	NN	0	_	_	_	_	_	_	_	I-Phenomenon
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+2	prefer	_	UNK	_	VBP	0	_	_	_	_	_	_	_	O
+3	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+4	live	_	live	_	VB	0	_	_	_	_	_	_	_	O
+5	from	_	from	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	present	_	present	_	NN	0	_	_	_	_	_	_	_	O
+8	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+9	look	_	look	_	NN	0	_	_	_	_	_	_	_	O
+10	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+12	future	_	future	_	NN	0	_	_	_	_	_	future.n	Alternatives	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

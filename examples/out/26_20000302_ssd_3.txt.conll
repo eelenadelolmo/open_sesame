@@ -1,0 +1,56 @@
+1	among	_	Among	_	IN	0	_	_	_	_	_	among.prep	Be_subset_of	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Total
+3	victims	_	victim	_	NNS	0	_	_	_	_	_	_	_	I-Total
+4	were	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Total
+5	24	_	24	_	CD	0	_	_	_	_	_	_	_	I-Total
+6	women	_	woman	_	NNS	0	_	_	_	_	_	_	_	I-Total
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	whom	_	whom	_	WP	0	_	_	_	_	_	_	_	O
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	girls	_	girl	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	among	_	Among	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	victims	_	victim	_	NNS	0	_	_	_	_	_	victim.n	Catastrophe	S-Patient
+4	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	24	_	24	_	CD	0	_	_	_	_	_	_	_	B-Undesirable_event
+6	women	_	woman	_	NNS	0	_	_	_	_	_	_	_	I-Undesirable_event
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	whom	_	whom	_	WP	0	_	_	_	_	_	_	_	O
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	girls	_	girl	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	among	_	Among	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	victims	_	victim	_	NNS	0	_	_	_	_	_	_	_	O
+4	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	24	_	24	_	CD	0	_	_	_	_	_	_	_	S-Descriptor
+6	women	_	woman	_	NNS	0	_	_	_	_	_	woman.n	People	S-Person
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	whom	_	whom	_	WP	0	_	_	_	_	_	_	_	O
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	girls	_	girl	_	NNS	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	among	_	Among	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	victims	_	victim	_	NNS	0	_	_	_	_	_	_	_	O
+4	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+5	24	_	24	_	CD	0	_	_	_	_	_	_	_	O
+6	women	_	woman	_	NNS	0	_	_	_	_	_	_	_	O
+7	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+8	some	_	some	_	DT	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	whom	_	whom	_	WP	0	_	_	_	_	_	_	_	O
+11	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+12	girls	_	girl	_	NNS	0	_	_	_	_	_	girl.n	People	S-Person
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

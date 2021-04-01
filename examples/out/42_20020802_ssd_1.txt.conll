@@ -1,0 +1,14 @@
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	he	_	he	_	PRP	0	_	_	_	_	_	_	_	O
+3	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+4	put	_	put	_	VBN	0	_	_	_	_	_	_	_	O
+5	on	_	on	_	IN	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	poetic	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+8	title	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+9	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+10	sound	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+12	night	_	Night	_	NNP	0	_	_	_	_	_	night.n	Calendric_unit	S-Unit
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

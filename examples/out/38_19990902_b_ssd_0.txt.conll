@@ -1,0 +1,26 @@
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	invites	_	invite	_	VBZ	0	_	_	_	_	_	invite.v	Request	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Addressee
+4	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Addressee
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	I-Addressee
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Addressee
+7	psoe	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Addressee
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	B-Message
+9	join	_	join	_	VB	0	_	_	_	_	_	_	_	I-Message
+10	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	I-Message
+11	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	I-Message
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	invites	_	invite	_	VBZ	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	pp	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+7	psoe	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+8	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+9	join	_	join	_	VB	0	_	_	_	_	_	join.v	Becoming_a_member	O
+10	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Group
+11	government	_	Government	_	NNP	0	_	_	_	_	_	_	_	I-Group
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

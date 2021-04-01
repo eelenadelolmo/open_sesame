@@ -1,0 +1,20 @@
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	S-Figure
+2	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+3	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+4	sight	_	sight	_	NN	0	_	_	_	_	_	_	_	S-Ground
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	bother	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	they	_	They	_	PRP	0	_	_	_	_	_	_	_	S-Participant
+2	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+3	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+4	sight	_	sight	_	NN	0	_	_	_	_	_	sight.n	Range	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	do	_	do	_	VBP	0	_	_	_	_	_	_	_	O
+7	n't	_	n't	_	RB	0	_	_	_	_	_	_	_	O
+8	bother	_	UNK	_	VB	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

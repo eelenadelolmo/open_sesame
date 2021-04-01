@@ -1,0 +1,8 @@
+1	rural	_	Rural	_	NNP	0	_	_	_	_	_	rural.a	Locale_by_use	B-Locale
+2	houses	_	house	_	NNS	0	_	_	_	_	_	_	_	I-Locale
+3	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	rural	_	Rural	_	NNP	0	_	_	_	_	_	_	_	S-Type
+2	houses	_	house	_	NNS	0	_	_	_	_	_	house.n	Buildings	S-Building
+3	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

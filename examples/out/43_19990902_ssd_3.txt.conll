@@ -1,0 +1,15 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	content	_	content	_	NN	0	_	_	_	_	_	_	_	O
+3	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	office	_	office	_	NN	0	_	_	_	_	_	office.n	Building_subparts	S-Building_part
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	as	_	a	_	IN	0	_	_	_	_	_	_	_	O
+8	usual	_	usual	_	JJ	0	_	_	_	_	_	_	_	O
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+11	not	_	not	_	RB	0	_	_	_	_	_	_	_	O
+12	made	_	make	_	VBN	0	_	_	_	_	_	_	_	O
+13	public	_	public	_	JJ	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

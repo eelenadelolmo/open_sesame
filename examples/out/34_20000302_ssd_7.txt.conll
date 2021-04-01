@@ -1,0 +1,20 @@
+1	ugarte	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Speaker
+2	stated	_	state	_	VBD	0	_	_	_	_	_	state.v	Statement	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	I-Message
+5	family	_	family	_	NN	0	_	_	_	_	_	_	_	I-Message
+6	life	_	life	_	NN	0	_	_	_	_	_	_	_	I-Message
+7	was	_	be	_	VBD	0	_	_	_	_	_	_	_	I-Message
+8	intimate	_	intimate	_	JJ	0	_	_	_	_	_	_	_	I-Message
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	ugarte	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	stated	_	state	_	VBD	0	_	_	_	_	_	_	_	O
+3	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+4	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+5	family	_	family	_	NN	0	_	_	_	_	_	family.n	Kinship	S-Relatives
+6	life	_	life	_	NN	0	_	_	_	_	_	_	_	O
+7	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+8	intimate	_	intimate	_	JJ	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

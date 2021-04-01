@@ -1,0 +1,28 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	(	_	(	_	``	0	_	_	_	_	_	_	_	O
+3	laughing	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	)	_	)	_	NNP	0	_	_	_	_	_	_	_	O
+5	anarchist	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Practitioner
+6	political	_	political	_	JJ	0	_	_	_	_	_	_	_	S-Culture
+7	sciences	_	science	_	NNS	0	_	_	_	_	_	science.n	Craft	S-Activity
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	which	_	which	_	WDT	0	_	_	_	_	_	_	_	O
+10	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+11	very	_	very	_	RB	0	_	_	_	_	_	_	_	O
+12	forgotten	_	forget	_	VBN	0	_	_	_	_	_	_	_	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	(	_	(	_	``	0	_	_	_	_	_	_	_	O
+3	laughing	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+4	)	_	)	_	NNP	0	_	_	_	_	_	_	_	O
+5	anarchist	_	UNK	_	NNP	0	_	_	_	_	_	_	_	B-Salient_entity
+6	political	_	political	_	JJ	0	_	_	_	_	_	_	_	I-Salient_entity
+7	sciences	_	science	_	NNS	0	_	_	_	_	_	_	_	I-Salient_entity
+8	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+9	which	_	which	_	WDT	0	_	_	_	_	_	_	_	S-Salient_entity
+10	are	_	be	_	VBP	0	_	_	_	_	_	_	_	O
+11	very	_	very	_	RB	0	_	_	_	_	_	_	_	O
+12	forgotten	_	forget	_	VBN	0	_	_	_	_	_	forget.v	Remembering_experience	O
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,11 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Activity
+2	others	_	others	_	NNS	0	_	_	_	_	_	_	_	I-Activity
+3	were	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	kept	_	keep	_	VBN	0	_	_	_	_	_	keep.v	Activity_ongoing	O
+5	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Activity
+6	their	_	their	_	PRP$	0	_	_	_	_	_	_	_	I-Activity
+7	provisional	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Activity
+8	release	_	release	_	NN	0	_	_	_	_	_	_	_	I-Activity
+9	status	_	status	_	NN	0	_	_	_	_	_	_	_	I-Activity
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

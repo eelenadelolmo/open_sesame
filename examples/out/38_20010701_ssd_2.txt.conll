@@ -1,0 +1,17 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	what	_	What	_	WP	0	_	_	_	_	_	_	_	O
+3	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+4	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+5	matter	_	matter	_	NN	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	now	_	now	_	RB	0	_	_	_	_	_	_	_	O
+8	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Communicator
+9	charge	_	charge	_	VBP	0	_	_	_	_	_	charge.v	Judgment_communication	O
+10	little	_	little	_	JJ	0	_	_	_	_	_	_	_	B-Evaluee
+11	?	_	?	_	.	0	_	_	_	_	_	_	_	I-Evaluee
+12	-	_	-	_	:	0	_	_	_	_	_	_	_	I-Evaluee
+13	i	_	I	_	PRP	0	_	_	_	_	_	_	_	I-Evaluee
+14	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	I-Evaluee
+15	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Evaluee
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

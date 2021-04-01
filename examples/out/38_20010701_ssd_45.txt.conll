@@ -1,0 +1,20 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	truth	_	truth	_	NN	0	_	_	_	_	_	_	_	O
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+5	if	_	if	_	IN	0	_	_	_	_	_	_	_	O
+6	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Possible_event
+7	could	_	could	_	MD	0	_	_	_	_	_	could.v	Possibility	O
+8	erase	_	erase	_	VB	0	_	_	_	_	_	_	_	B-Possible_event
+9	that	_	that	_	IN	0	_	_	_	_	_	_	_	I-Possible_event
+10	stage	_	stage	_	NN	0	_	_	_	_	_	_	_	I-Possible_event
+11	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Possible_event
+12	my	_	my	_	PRP$	0	_	_	_	_	_	_	_	I-Possible_event
+13	life	_	life	_	NN	0	_	_	_	_	_	_	_	I-Possible_event
+14	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+15	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+16	would	_	would	_	MD	0	_	_	_	_	_	_	_	O
+17	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+18	delighted	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+19	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

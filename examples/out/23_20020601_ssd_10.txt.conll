@@ -1,0 +1,10 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	reinforcement	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+3	involves	_	involve	_	VBZ	0	_	_	_	_	_	_	_	O
+4	doubling	_	double	_	VBG	0	_	_	_	_	_	double.v	Change_position_on_a_scale	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Item
+6	usual	_	usual	_	JJ	0	_	_	_	_	_	_	_	I-Item
+7	police	_	police	_	NN	0	_	_	_	_	_	_	_	I-Item
+8	device	_	device	_	NN	0	_	_	_	_	_	_	_	I-Item
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

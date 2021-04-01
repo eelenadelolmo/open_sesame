@@ -1,0 +1,18 @@
+1	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+4	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+5	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+6	good	_	good	_	JJ	0	_	_	_	_	_	good.a	Desirability	O
+7	place	_	place	_	NN	0	_	_	_	_	_	_	_	S-Evaluee
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	well	_	Well	_	NNP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+4	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+5	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+6	good	_	good	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+7	place	_	place	_	NN	0	_	_	_	_	_	place.n	Locale	S-Locale
+8	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

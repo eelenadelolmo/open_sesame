@@ -1,0 +1,48 @@
+1	many	_	Many	_	JJ	0	_	_	_	_	_	many.a	Quantified_mass	S-Quantity
+2	fill	_	fill	_	NN	0	_	_	_	_	_	_	_	B-Individuals
+3	their	_	their	_	PRP$	0	_	_	_	_	_	_	_	I-Individuals
+4	mouths	_	mouth	_	NNS	0	_	_	_	_	_	_	_	I-Individuals
+5	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+6	talking	_	talk	_	VBG	0	_	_	_	_	_	_	_	O
+7	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+8	educating	_	educate	_	VBG	0	_	_	_	_	_	_	_	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+10	diversity	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	S-Cause
+2	fill	_	fill	_	NN	0	_	_	_	_	_	fill.v	Filling	O
+3	their	_	their	_	PRP$	0	_	_	_	_	_	_	_	B-Goal
+4	mouths	_	mouth	_	NNS	0	_	_	_	_	_	_	_	I-Goal
+5	by	_	by	_	IN	0	_	_	_	_	_	_	_	B-Time
+6	talking	_	talk	_	VBG	0	_	_	_	_	_	_	_	I-Time
+7	about	_	about	_	IN	0	_	_	_	_	_	_	_	I-Time
+8	educating	_	educate	_	VBG	0	_	_	_	_	_	_	_	I-Time
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Time
+10	diversity	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Time
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	O
+2	fill	_	fill	_	NN	0	_	_	_	_	_	_	_	O
+3	their	_	their	_	PRP$	0	_	_	_	_	_	_	_	O
+4	mouths	_	mouth	_	NNS	0	_	_	_	_	_	_	_	O
+5	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+6	talking	_	talk	_	VBG	0	_	_	_	_	_	talk.v	Chatting	O
+7	about	_	about	_	IN	0	_	_	_	_	_	_	_	B-Topic
+8	educating	_	educate	_	VBG	0	_	_	_	_	_	_	_	I-Topic
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Topic
+10	diversity	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Topic
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	many	_	Many	_	JJ	0	_	_	_	_	_	_	_	O
+2	fill	_	fill	_	NN	0	_	_	_	_	_	_	_	O
+3	their	_	their	_	PRP$	0	_	_	_	_	_	_	_	O
+4	mouths	_	mouth	_	NNS	0	_	_	_	_	_	_	_	O
+5	by	_	by	_	IN	0	_	_	_	_	_	_	_	O
+6	talking	_	talk	_	VBG	0	_	_	_	_	_	_	_	O
+7	about	_	about	_	IN	0	_	_	_	_	_	_	_	O
+8	educating	_	educate	_	VBG	0	_	_	_	_	_	educate.v	Education_teaching	O
+9	in	_	in	_	IN	0	_	_	_	_	_	_	_	B-Skill
+10	diversity	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Skill
+11	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

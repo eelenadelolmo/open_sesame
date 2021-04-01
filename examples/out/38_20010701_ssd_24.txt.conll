@@ -1,0 +1,22 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+4	wrong	_	wrong	_	JJ	0	_	_	_	_	_	wrong.a	Correctness	O
+5	attitude	_	attitude	_	NN	0	_	_	_	_	_	_	_	S-Information
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+9	works	_	work	_	VBZ	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	O
+2	's	_	's	_	VBZ	0	_	_	_	_	_	_	_	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+4	wrong	_	wrong	_	JJ	0	_	_	_	_	_	_	_	O
+5	attitude	_	attitude	_	NN	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Employee
+9	works	_	work	_	VBZ	0	_	_	_	_	_	work.v	Being_employed	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

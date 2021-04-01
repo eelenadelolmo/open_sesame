@@ -1,0 +1,14 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	spanish	_	Spanish	_	NNP	0	_	_	_	_	_	_	_	O
+3	evangelicals	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+4	applaud	_	UNK	_	VBP	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	dialogue	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+7	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	vatican	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+10	but	_	but	_	CC	0	_	_	_	_	_	_	_	O
+11	reject	_	reject	_	VB	0	_	_	_	_	_	reject.v	Respond_to_proposal	O
+12	integration	_	integration	_	NN	0	_	_	_	_	_	_	_	S-Proposal
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

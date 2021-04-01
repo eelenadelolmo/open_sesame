@@ -1,0 +1,30 @@
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+3	matter	_	matter	_	NN	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	state	_	state	_	NN	0	_	_	_	_	_	state.n	Leadership	S-Leader
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	as	_	a	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	felip	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+11	puig	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+12	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+13	acknowledged	_	acknowledge	_	VBN	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+3	matter	_	matter	_	NN	0	_	_	_	_	_	_	_	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+5	state	_	state	_	NN	0	_	_	_	_	_	_	_	O
+6	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+7	as	_	a	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Speaker
+9	unk	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Speaker
+10	felip	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+11	puig	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+12	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+13	acknowledged	_	acknowledge	_	VBN	0	_	_	_	_	_	acknowledge.v	Communication_response	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

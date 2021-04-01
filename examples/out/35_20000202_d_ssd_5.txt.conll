@@ -1,0 +1,40 @@
+1	at	_	At	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+3	moment	_	moment	_	NN	0	_	_	_	_	_	_	_	I-Ground
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Figure
+6	army	_	Army	_	NNP	0	_	_	_	_	_	_	_	I-Figure
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	I-Figure
+8	calm	_	calm	_	NN	0	_	_	_	_	_	_	_	I-Figure
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	at	_	At	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	moment	_	moment	_	NN	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	army	_	Army	_	NNP	0	_	_	_	_	_	army.n	Military	S-Force
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	O
+8	calm	_	calm	_	NN	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	at	_	At	_	IN	0	_	_	_	_	_	_	_	B-Time
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Time
+3	moment	_	moment	_	NN	0	_	_	_	_	_	_	_	I-Time
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Entity
+6	army	_	Army	_	NNP	0	_	_	_	_	_	_	_	I-Entity
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	remain.v	State_continue	O
+8	calm	_	calm	_	NN	0	_	_	_	_	_	_	_	S-State
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	at	_	At	_	IN	0	_	_	_	_	_	_	_	O
+2	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+3	moment	_	moment	_	NN	0	_	_	_	_	_	_	_	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Experiencer
+6	army	_	Army	_	NNP	0	_	_	_	_	_	_	_	I-Experiencer
+7	remains	_	remain	_	VBZ	0	_	_	_	_	_	_	_	O
+8	calm	_	calm	_	NN	0	_	_	_	_	_	calm.a	Experiencer_focus	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

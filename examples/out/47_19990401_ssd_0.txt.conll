@@ -1,0 +1,5 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	basque	_	UNK	_	NNP	0	_	_	_	_	_	_	_	S-Degree
+3	conflict	_	conflict	_	NN	0	_	_	_	_	_	conflict.n	Hostile_encounter	O
+4	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

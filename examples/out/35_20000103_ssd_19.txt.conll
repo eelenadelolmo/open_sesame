@@ -1,0 +1,24 @@
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+2	hospital	_	Hospital	_	NNP	0	_	_	_	_	_	hospital.n	Buildings	S-Building
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	incorporating	_	incorporate	_	VBG	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	system	_	system	_	NN	0	_	_	_	_	_	_	_	O
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	B-Total
+2	hospital	_	Hospital	_	NNP	0	_	_	_	_	_	_	_	I-Total
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	incorporating	_	incorporate	_	VBG	0	_	_	_	_	_	incorporate.v	Inclusion	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Part
+6	system	_	system	_	NN	0	_	_	_	_	_	_	_	I-Part
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	unk	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+2	hospital	_	Hospital	_	NNP	0	_	_	_	_	_	_	_	O
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	incorporating	_	incorporate	_	VBG	0	_	_	_	_	_	_	_	O
+5	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+6	system	_	system	_	NN	0	_	_	_	_	_	system.n	System	S-Complex
+7	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

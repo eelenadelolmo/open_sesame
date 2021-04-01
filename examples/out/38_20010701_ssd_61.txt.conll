@@ -1,0 +1,7 @@
+1	everything	_	Everything	_	NN	0	_	_	_	_	_	_	_	S-Patient
+2	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+3	healthy	_	healthy	_	JJ	0	_	_	_	_	_	healthy.a	Medical_conditions	O
+4	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+5	unpretentious	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

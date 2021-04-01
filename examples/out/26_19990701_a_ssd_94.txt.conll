@@ -1,0 +1,7 @@
+1	what	_	What	_	WP	0	_	_	_	_	_	_	_	O
+2	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+3	memory	_	memory	_	NN	0	_	_	_	_	_	memory.n	Memory	O
+4	of	_	of	_	IN	0	_	_	_	_	_	_	_	B-Content
+5	yours	_	yours	_	NNS	0	_	_	_	_	_	_	_	I-Content
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

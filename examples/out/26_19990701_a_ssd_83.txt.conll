@@ -1,0 +1,26 @@
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+5	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Figure
+6	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Ground
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+11	politics	_	politics	_	NNS	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+2	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+3	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+4	when	_	when	_	WRB	0	_	_	_	_	_	_	_	O
+5	i	_	I	_	PRP	0	_	_	_	_	_	_	_	S-Figure
+6	was	_	be	_	VBD	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	it	_	it	_	PRP	0	_	_	_	_	_	_	_	O
+9	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+10	in	_	in	_	IN	0	_	_	_	_	_	in.prep	Interior_profile_relation	O
+11	politics	_	politics	_	NNS	0	_	_	_	_	_	_	_	S-Ground
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

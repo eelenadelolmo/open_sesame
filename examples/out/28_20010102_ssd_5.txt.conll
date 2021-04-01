@@ -1,0 +1,6 @@
+1	but	_	But	_	CC	0	_	_	_	_	_	_	_	O
+2	arafat	_	Arafat	_	NNP	0	_	_	_	_	_	_	_	S-Response
+3	responded	_	respond	_	VBD	0	_	_	_	_	_	respond.v	Response	O
+4	immediately	_	immediately	_	RB	0	_	_	_	_	_	_	_	S-Response
+5	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

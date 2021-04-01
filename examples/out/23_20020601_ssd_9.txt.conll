@@ -1,0 +1,39 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Individuals
+2	72	_	72	_	CD	0	_	_	_	_	_	_	_	I-Individuals
+3	policemen	_	policeman	_	NNS	0	_	_	_	_	_	_	_	I-Individuals
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+6	distributed	_	distribute	_	VBN	0	_	_	_	_	_	distribute.v	Dispersal	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	three	_	three	_	CD	0	_	_	_	_	_	_	_	O
+9	shifts	_	shift	_	NNS	0	_	_	_	_	_	_	_	O
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+11	24	_	24	_	CD	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	72	_	72	_	CD	0	_	_	_	_	_	_	_	O
+3	policemen	_	policeman	_	NNS	0	_	_	_	_	_	_	_	O
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+6	distributed	_	distribute	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	three	_	three	_	CD	0	_	_	_	_	_	three.num	Cardinal_numbers	S-Number
+9	shifts	_	shift	_	NNS	0	_	_	_	_	_	_	_	S-Unit
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+11	24	_	24	_	CD	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	72	_	72	_	CD	0	_	_	_	_	_	_	_	O
+3	policemen	_	policeman	_	NNS	0	_	_	_	_	_	_	_	O
+4	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+5	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+6	distributed	_	distribute	_	VBN	0	_	_	_	_	_	_	_	O
+7	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+8	three	_	three	_	CD	0	_	_	_	_	_	_	_	O
+9	shifts	_	shift	_	NNS	0	_	_	_	_	_	shift.n	Change_position_on_a_scale	O
+10	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+11	24	_	24	_	CD	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

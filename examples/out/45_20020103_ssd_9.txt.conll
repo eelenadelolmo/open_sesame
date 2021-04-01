@@ -1,0 +1,36 @@
+1	new	_	New	_	NNP	0	_	_	_	_	_	_	_	B-Speaker
+2	delhi	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Speaker
+3	announced	_	announce	_	VBD	0	_	_	_	_	_	announce.v	Statement	O
+4	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	S-Manner
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	B-Message
+6	it	_	it	_	PRP	0	_	_	_	_	_	_	_	I-Message
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	I-Message
+8	completed	_	complete	_	VBN	0	_	_	_	_	_	_	_	I-Message
+9	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	I-Message
+10	troop	_	troop	_	NN	0	_	_	_	_	_	_	_	I-Message
+11	movements	_	movement	_	NNS	0	_	_	_	_	_	_	_	I-Message
+12	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Message
+13	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Message
+14	border	_	border	_	NN	0	_	_	_	_	_	_	_	I-Message
+15	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Message
+16	pakistan	_	Pakistan	_	NNP	0	_	_	_	_	_	_	_	I-Message
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	new	_	New	_	NNP	0	_	_	_	_	_	_	_	O
+2	delhi	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+3	announced	_	announce	_	VBD	0	_	_	_	_	_	_	_	O
+4	yesterday	_	yesterday	_	NN	0	_	_	_	_	_	_	_	O
+5	that	_	that	_	IN	0	_	_	_	_	_	_	_	O
+6	it	_	it	_	PRP	0	_	_	_	_	_	_	_	S-Agent
+7	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+8	completed	_	complete	_	VBN	0	_	_	_	_	_	complete.v	Activity_finish	O
+9	its	_	it	_	PRP$	0	_	_	_	_	_	_	_	B-Activity
+10	troop	_	troop	_	NN	0	_	_	_	_	_	_	_	I-Activity
+11	movements	_	movement	_	NNS	0	_	_	_	_	_	_	_	I-Activity
+12	on	_	on	_	IN	0	_	_	_	_	_	_	_	I-Activity
+13	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Activity
+14	border	_	border	_	NN	0	_	_	_	_	_	_	_	I-Activity
+15	with	_	with	_	IN	0	_	_	_	_	_	_	_	I-Activity
+16	pakistan	_	Pakistan	_	NNP	0	_	_	_	_	_	_	_	I-Activity
+17	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

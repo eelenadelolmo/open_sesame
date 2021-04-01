@@ -1,0 +1,14 @@
+1	hey	_	UNK	_	PRP	0	_	_	_	_	_	_	_	O
+2	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+3	mr.	_	Mr.	_	NNP	0	_	_	_	_	_	_	_	O
+4	spy	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	they	_	they	_	PRP	0	_	_	_	_	_	_	_	S-Speaker
+7	're	_	're	_	VBP	0	_	_	_	_	_	_	_	O
+8	calling	_	call	_	VBG	0	_	_	_	_	_	call.v	Referring_by_name	O
+9	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Entity
+10	on	_	on	_	IN	0	_	_	_	_	_	_	_	B-Name
+11	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Name
+12	phone	_	phone	_	NN	0	_	_	_	_	_	_	_	I-Name
+13	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

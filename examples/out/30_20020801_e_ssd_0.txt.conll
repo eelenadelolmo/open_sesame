@@ -1,0 +1,11 @@
+1	it	_	It	_	PRP	0	_	_	_	_	_	_	_	S-Fire
+2	burns	_	burn	_	VBZ	0	_	_	_	_	_	burn.v	Fire_burning	O
+3	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Fire
+4	plastic	_	plastic	_	JJ	0	_	_	_	_	_	_	_	I-Fire
+5	warehouse	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Fire
+6	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Fire
+7	unk	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Fire
+8	de	_	de	_	IN	0	_	_	_	_	_	_	_	I-Fire
+9	llobregat	_	UNK	_	NNP	0	_	_	_	_	_	_	_	I-Fire
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,11 @@
+1	madrid	_	Madrid	_	NNP	0	_	_	_	_	_	_	_	O
+2	has	_	have	_	VBZ	0	_	_	_	_	_	_	_	O
+3	dispensed	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+4	with	_	with	_	IN	0	_	_	_	_	_	_	_	O
+5	benjamin	_	Benjamin	_	NNP	0	_	_	_	_	_	_	_	O
+6	toshack	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+7	as	_	a	_	IN	0	_	_	_	_	_	_	_	O
+8	a	_	a	_	DT	0	_	_	_	_	_	_	_	O
+9	coach	_	coach	_	NN	0	_	_	_	_	_	coach.n	Vehicle	S-Vehicle
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

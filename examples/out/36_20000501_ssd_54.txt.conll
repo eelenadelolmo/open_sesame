@@ -1,0 +1,10 @@
+1	do	_	Do	_	NNP	0	_	_	_	_	_	_	_	O
+2	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+3	doubt	_	doubt	_	VB	0	_	_	_	_	_	doubt.v	Certainty	O
+4	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+5	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+6	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+7	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+8	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

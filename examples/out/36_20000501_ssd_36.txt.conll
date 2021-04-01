@@ -1,0 +1,13 @@
+1	how	_	How	_	WRB	0	_	_	_	_	_	_	_	O
+2	will	_	will	_	MD	0	_	_	_	_	_	_	_	O
+3	this	_	this	_	DT	0	_	_	_	_	_	_	_	O
+4	transfer	_	transfer	_	NN	0	_	_	_	_	_	transfer.n	Transfer	O
+5	be	_	be	_	VB	0	_	_	_	_	_	_	_	O
+6	facilitated	_	UNK	_	VBN	0	_	_	_	_	_	_	_	O
+7	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+8	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+9	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+10	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+11	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

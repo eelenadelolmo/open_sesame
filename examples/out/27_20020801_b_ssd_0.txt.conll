@@ -1,0 +1,14 @@
+1	stop	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	at	_	at	_	IN	0	_	_	_	_	_	at.prep	Locative_relation	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	B-Ground
+4	touristic	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Ground
+5	bus	_	bus	_	NN	0	_	_	_	_	_	_	_	I-Ground
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	stop	_	UNK	_	NNP	0	_	_	_	_	_	_	_	O
+2	at	_	at	_	IN	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	touristic	_	UNK	_	JJ	0	_	_	_	_	_	_	_	S-Descriptor
+5	bus	_	bus	_	NN	0	_	_	_	_	_	bus.n	Vehicle	S-Vehicle
+6	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

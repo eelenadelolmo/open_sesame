@@ -1,0 +1,10 @@
+1	and	_	And	_	CC	0	_	_	_	_	_	_	_	O
+2	even	_	even	_	RB	0	_	_	_	_	_	_	_	O
+3	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+4	inquisitors	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+5	,	_	,	_	,	0	_	_	_	_	_	_	_	O
+6	to	_	to	_	TO	0	_	_	_	_	_	_	_	O
+7	enjoy	_	enjoy	_	VB	0	_	_	_	_	_	enjoy.v	Experiencer_focus	O
+8	suffering	_	suffering	_	NN	0	_	_	_	_	_	_	_	S-Content
+9	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

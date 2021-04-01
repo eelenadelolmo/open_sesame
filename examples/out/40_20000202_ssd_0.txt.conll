@@ -1,0 +1,17 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	republican	_	Republican	_	JJ	0	_	_	_	_	_	_	_	O
+3	senator	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+4	achieves	_	UNK	_	NNS	0	_	_	_	_	_	_	_	O
+5	47	_	UNK	_	CD	0	_	_	_	_	_	_	_	O
+6	%	_	%	_	NN	0	_	_	_	_	_	_	_	O
+7	of	_	of	_	IN	0	_	_	_	_	_	_	_	O
+8	the	_	the	_	DT	0	_	_	_	_	_	_	_	O
+9	vote	_	vote	_	NN	0	_	_	_	_	_	_	_	O
+10	against	_	against	_	IN	0	_	_	_	_	_	against.prep	Taking_sides	O
+11	31	_	31	_	CD	0	_	_	_	_	_	_	_	B-Issue
+12	%	_	%	_	NN	0	_	_	_	_	_	_	_	I-Issue
+13	of	_	of	_	IN	0	_	_	_	_	_	_	_	I-Issue
+14	the	_	the	_	DT	0	_	_	_	_	_	_	_	I-Issue
+15	favorite	_	favorite	_	JJ	0	_	_	_	_	_	_	_	I-Issue
+16	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

@@ -1,0 +1,15 @@
+1	can	_	Can	_	NNP	0	_	_	_	_	_	_	_	O
+2	you	_	you	_	PRP	0	_	_	_	_	_	_	_	S-Cognizer
+3	expect	_	expect	_	VBP	0	_	_	_	_	_	expect.v	Expectation	O
+4	a	_	a	_	DT	0	_	_	_	_	_	_	_	B-Phenomenon
+5	renewal	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Phenomenon
+6	or	_	or	_	CC	0	_	_	_	_	_	_	_	I-Phenomenon
+7	just	_	just	_	RB	0	_	_	_	_	_	_	_	I-Phenomenon
+8	continuity	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Phenomenon
+9	?	_	?	_	.	0	_	_	_	_	_	_	_	O
+10	-	_	-	_	:	0	_	_	_	_	_	_	_	O
+11	i	_	I	_	PRP	0	_	_	_	_	_	_	_	O
+12	'm	_	'm	_	VBP	0	_	_	_	_	_	_	_	O
+13	sorry	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+14	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

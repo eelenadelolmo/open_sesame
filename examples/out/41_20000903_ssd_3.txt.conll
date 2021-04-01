@@ -1,0 +1,11 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	state	_	State	_	NNP	0	_	_	_	_	_	state.n	Leadership	S-Leader
+3	is	_	be	_	VBZ	0	_	_	_	_	_	_	_	O
+4	narrow	_	narrow	_	NN	0	_	_	_	_	_	_	_	O
+5	and	_	and	_	CC	0	_	_	_	_	_	_	_	O
+6	ineffective	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+7	for	_	for	_	IN	0	_	_	_	_	_	_	_	O
+8	these	_	these	_	DT	0	_	_	_	_	_	_	_	O
+9	phenomena	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+10	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+

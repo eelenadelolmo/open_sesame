@@ -1,0 +1,26 @@
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	B-Agent
+2	chilean	_	UNK	_	JJ	0	_	_	_	_	_	_	_	I-Agent
+3	foreign	_	Foreign	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+4	minister	_	Minister	_	NNP	0	_	_	_	_	_	_	_	I-Agent
+5	starts	_	start	_	VBZ	0	_	_	_	_	_	start.v	Activity_start	O
+6	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	B-Activity
+7	mediation	_	UNK	_	NN	0	_	_	_	_	_	_	_	I-Activity
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	I-Activity
+9	madrid	_	Madrid	_	NNP	0	_	_	_	_	_	_	_	I-Activity
+10	without	_	without	_	IN	0	_	_	_	_	_	_	_	B-Time
+11	hope	_	hope	_	NN	0	_	_	_	_	_	_	_	I-Time
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
+1	the	_	The	_	DT	0	_	_	_	_	_	_	_	O
+2	chilean	_	UNK	_	JJ	0	_	_	_	_	_	_	_	O
+3	foreign	_	Foreign	_	NNP	0	_	_	_	_	_	_	_	O
+4	minister	_	Minister	_	NNP	0	_	_	_	_	_	_	_	O
+5	starts	_	start	_	VBZ	0	_	_	_	_	_	_	_	O
+6	his	_	his	_	PRP$	0	_	_	_	_	_	_	_	O
+7	mediation	_	UNK	_	NN	0	_	_	_	_	_	_	_	O
+8	in	_	in	_	IN	0	_	_	_	_	_	_	_	O
+9	madrid	_	Madrid	_	NNP	0	_	_	_	_	_	_	_	O
+10	without	_	without	_	IN	0	_	_	_	_	_	_	_	O
+11	hope	_	hope	_	NN	0	_	_	_	_	_	hope.n	Desiring	O
+12	.	_	.	_	.	0	_	_	_	_	_	_	_	O
+
