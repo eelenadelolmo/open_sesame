@@ -8,6 +8,7 @@ Requires Python 2.7
 Clone the repo and execute the installation command:
 `pip install -r requirements.txt`
 
+open-SESAME (Swayamdipta et al., 2017) is included as a git submodule and is distributed under the Apache License 2.0
 
 ### Usage
 
