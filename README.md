@@ -3,6 +3,8 @@
 
 ### Installation
 
+Requires Python 2.7
+
 Clone the repo and execute the installation command:
 `pip install -r requirements.txt`
 
